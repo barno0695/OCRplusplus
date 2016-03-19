@@ -1,0 +1,710 @@
+
+Rohith19.xml
+<<Affiliation>> Intel Corporation Hillsboro OR 97124 USA
+<<Affiliation>> Mentor Graphics Corporation Wilsonville OR 97070 USA
+<<Affiliation>> Poznan University of Technology 60-965 Poznan Poland
+
+sidhartha23tick.xml
+<<Affiliation>> University of Stavanger
+<<Affiliation>> University of Regensburg
+<<Affiliation>> Google Inc
+<<Affiliation>> Dublin City University
+<<Affiliation>> University of Waterloo
+
+ayush_3.xml
+
+manvi7.xml
+<<Affiliation>> Red Cat Labs 10 Anson Road International Plaza Singapore
+
+Rohith18.xml
+
+ayush9.xml
+<<Affiliation>> Computer Vision and Active Perception Lab Royal Institute of Technology 100 44 Stockholm Sweden
+<<Affiliation>> Holidays UKB Ox105k
+<<Affiliation>> Holidays UKB
+
+samuel13.xml
+<<Affiliation>> Microsoft Research Redmond WA USA
+<<Affiliation>> Deficit Round Robin M Shreedhar a Masters at Washington University and I the Weighted Fair Queuing Demers Keshav and Shenker At the WFQ the in Standard for We a in Round-Robin and
+<<Affiliation>> Binary Cisco This a We a for I
+
+Rohiththriplecolumn.xml
+<<Affiliation>> University of South Brittany European Center of Virtual Reality Brest France
+<<Affiliation>> It a People do and do
+<<Affiliation>> Analysis of Medical Imaging University of Washington Press 2005
+<<Affiliation>> Self New Haven: Conn Yale University Press 1989
+<<Affiliation>> Visualization Brill Academic Pub 107-122
+<<Affiliation>> University Press 2008
+
+barno1.xml
+<<Affiliation>> Lazovsky State Nature Reserve Lazo Russia
+<<Affiliation>> Wildlife Conservation Society New York USA
+
+tulasi19.xml
+<<Affiliation>> IBM T J Watson Research Center KARL J OTTENSTEIN Michigan Technological University
+<<Affiliation>> Rice University
+<<Affiliation>> The of the IBM Corporation for Joe Warren a 1983 and for Karl Ottenstein a at IBM Yorktown
+<<Affiliation>> Rep 82-6 Dept of Mathematical Sciences Rice University March 1982,63 10 ALLEN R AND KENNEDY K Programming for In Supercom-
+<<Affiliation>> University of Texas Press Austin TX 1986,19-38 11 BANERJEE U Data in Report 76-837 Dept of Computer Science Univ of Illinois at Urbana-Champaign Nov 1976 12 BURKE M An IBM Research Report RC 10640 T J Watson Research Center Yorktown Heights NY July 1984 13 BURKE M AND CYTRON R Interprocedural and In Proceedings of the ACM SZGPZAN 86 Symposium Compiler Construction Alto CA June 25-27,1986) ACM SZGPLAN Not 21,7 1986) 162-175 14 COOPER K AND KENNEDY K Efficient of In Proceedings of the ACM SZGPLAN 84 Symposium Compiler Construction June 17-22,1984) ACM SZGPLAN Not 19,6 1984) 247-258 15 COOPER K Analyzing of In Conference Record of the 12th ACM Symposium Principles of Programming Languages Orleans LA Jan 14-16,1985) ACM New York 281-290 16 CYTRON R LOWRY A AND ZADECK K Code of in In Conference Record 13th Annual ACM Symposium Principles of Programming Languages Petersburg FL Jan 13-15,1986) ACM New York 70-85 17 DAVID A L AND KELLER R M Data IEEE Comput 15,2 1982) 26-41 18 DENNIS J B First of a Comp Strut Group Memo 93 Tech Memo 61) MIT LCS 1975) 21 19 DENNIS J B Data IEEE Comput 13 11 1980) 48-56 20 ELLCEY S J The and Masters Dept of Computer Science Michigan Technological Univ Houghton MI Aug 1985 21 FERRANTE J The a for IBM Research Rep RC 10542 Yorktown Heights NY June 1984 22 FERRANTE J AND MACE M On In Conference Record of the 12th Annual ACM Symposium Principles of Pragramming Languages Orleans LA Jan 14-16,1985) ACM New York 179-190
+<<Affiliation>> Language 1.1 Report M-146 Lawrence Livermore National Laboratory July 20 1983 35 MIKELSONS M Prettyprinting in In
+<<Affiliation>> Computer Sciences Dept Purdue University Lafayette IN Aug 1978 37 OITENSTEIN K J An a CS-TR 81-1 Dept of Computer Science Michigan Technological Univ Houghton MI Oct 1981; July 1982 38 C~TENSTEIN K J AND OITENSTEIN L M The in a In
+<<Affiliation>> Computer Sciences Dept Univ of Illinois Urbana-Champaign Sept 1979 41 PADUA D A KUCK D J AND LAWRIE D High-speed and IEEE Trans Comput 29,9
+<<Affiliation>> UIUCDCS-R-82-1105 Univ of Illinois Urbana-Champaign Oct 1982
+
+phy1.xml
+<<Affiliation>> Oxford Centre for Industrial and Applied Mathematics Mathematical Institute Oxford OX2 6GG UK
+<<Affiliation>> Oxford Centre for Industrial and Applied Mathematics Mathematical Institute Oxford OX2 6GG UK; and CABDyN Complexity Centre University of Oxford Oxford OX1 1HP UK
+<<Affiliation>> Global Research HSBC Bank London E14 5HQ UK Oxford Centre for Industrial and Applied Mathematics Mathematical Institute Oxford OX2 6GG UK; and Oxford-Man Institute of Quantitative Finance University of Oxford Oxford OX2 6ED UK
+
+sidhartha17tick.xml
+<<Affiliation>> School of Computer Science and Engineering The Hebrew University of Jerusalem Israel
+
+manvi15.xml
+<<Affiliation>> Research Centre Jiilich Programme Group Technology Assessment D-52425 Jiilich Germany
+<<Affiliation>> University of Bonn Institute of Geography Meckenheimer
+<<Affiliation>> D-53113 Bonn Germany T: F:
+
+samuel1.xml
+<<Affiliation>> Computer Engineering Department FIT Polytechnic University of Tirana Tirana Albania
+<<Affiliation>> Blaise Barney Lawrence Livermore National Laboratory 28 May 2012 Gonzalez Carlos GPU-based for Integration the VLSl Journal
+
+Rohith17.xml
+<<Affiliation>> Mentor Graphics Ottawa Canada ON Semiconductor East Greenwich RI USA 2Mentor Graphics Poznan Poland
+
+PalodOld.xml
+<<Affiliation>> Genetics Citation Index for Scientinc Information Philadelphia 1963) For of the in I E Garfield and H Sher Science Citation Index
+<<Affiliation>> I Dr M M Kessler Massachusetts Institute of Technology for for of the and An Experimental Study of Bibliographic Coupling Technical Papers 2961);
+<<Affiliation>> Communications Research Univ of Illinois Urbana 1963) D J de Solla Price Little Science Big Scienee Univ Press New York 1963) R E Burton and R W Kebler The of and
+
+phy3.xml
+<<Affiliation>> Department of Biomedical Engineering Washington University in St Louis St Louis MO 63130
+<<Affiliation>> Delphinus Medical Technologies Plymouth MI 48170 N Duric Karmanos Cancer Institute Wayne State University 4100 John R Street HWCRC Detroit MI 48201
+<<Affiliation>> Initial in Ultrasonics Symposium 2013 IEEE International July 2013 382385
+<<Affiliation>> CoRR 2013 N Duric P Littrup S Schmidt C Li O Roy L Bey-Knight R Janer D Kunz X Chen J Goll A Wallen F Zafar V Allada E West I Jovanovic K Li and W Greenway Breast the in Proc SPIE 8675 2013 86 750K86 750K8 Available:
+<<Affiliation>> T L Szabo Diagnostic Academic Press 2004 C Glide N Duric and P Littrup Novel
+<<Affiliation>> J A Sethian A for Proceedings of the National Academy of Sciences 93 15911595 1996 Available: R H Byrd P Lu J Nocedal and C Zhu A for SIAM J Sci Comput 36 667695 199 M Born and E Wolf Principles of of and of CUP Archive 1999
+
+ayush4.xml
+<<Affiliation>> Queen Mary University of London London United Kingdom
+<<Affiliation>> Mary University of London the Affective and Human Computing Lab Her in the
+<<Affiliation>> Engineering and Physical Sciences Research Council UK
+<<Affiliation>> British Council
+<<Affiliation>> Lab at the University of Amsterdam Between 2007-2010 a at Idiap Research Institute in Switzer-
+
+samuel1995.xml
+
+manvi4.xml
+<<Affiliation>> Korea Aerospace Research Institute and in the Basic Science Research Program the National Research Foundation of Korea
+<<Affiliation>> School of Civil Engineering Chungbuk National University Cheongju 361-763 Korea
+<<Affiliation>> Satellite Information Research Institute Korea Aerospace Research Institute Daejeon 305-348 Korea
+
+sidhartha22tick.xml
+<<Affiliation>> University of Passau Chair of Complex Intelligent Systems Passau Germany
+<<Affiliation>> University of Passau Chair of Complex Intelligent Systems Passau Germany
+<<Affiliation>> University of Nottingham Mixed Reality Lab Nottingham UK
+<<Affiliation>> Queens University Belfast School of Psychology Belfast UK
+<<Affiliation>> Imperial College London Intelligent Behaviour Understanding Group London UK
+
+Rohith3.xml
+<<Affiliation>> Key Laboratory of Intelligent Perception and Image Understanding Ministry of Education Xidian University Xian 710071 China
+<<Affiliation>> School of Computer Science and Technology Xidian University Xian 710071 China
+
+sidhartha14.xml
+<<Affiliation>> Universitat Oberta de Catalunya CVC
+<<Affiliation>> Computer Vision Center
+<<Affiliation>> Computer Vision Center
+<<Affiliation>> Universitat de Barcelona
+<<Affiliation>> Universitat de Barcelona
+<<Affiliation>> Universitat de Barcelona CVC
+
+samuel17.xml
+<<Affiliation>> Department of Physics University of Calabria Centre of Excellence for the Study of Innovative Functional Materials 87036 Arcavacata Di Rende Italy
+<<Affiliation>> Universita di Roma Viale Regina Elena 291 00161 Rome Italy
+<<Affiliation>> Universita Studi di
+<<Affiliation>> Interdisciplinary Institute B Segre of the National Academy Lincei 00165 Rome Italy
+<<Affiliation>> Research Air Force Research Laboratory U.S Air Force FA9550-14-1-0050 L De Sio EOARD 2014/2015) and the Materials and Manufacturing Directorate AFRL; 2011 2010C4R8M8 and 2012 2012T9XHH7 PRIN Projects Fundings GC the Futuro in Ricerca 2008 the Italian Minister for University and Research No RBFR08TLPO) and the Istituto Italiano di Teconologia Center for Life Nano Science@Sapienza
+<<Affiliation>> DNA and Analyst 135(5):980986 36 De Sio L Placido T Comparelli R Curri L Striccoli M Tabiryan N Bunning T Next-generation and in Prog Quantum Electron 41:2370 37 Tian L Gandra Chen E Abbas A Singamaneni S Gold Langmuir 28:1743517442 38 De Sio L Placido T Serak S Comparelli R Tamborra M Tabiryan N Curri ML Bartolino R Umeton C Bunning T Nano-localized for and Adv Opt Mater 1:992 39 Albanese A Tang PS Chan WCW The of and Annu Rev Biomed Eng 14:116 40 De Sio L Annesi F Placido T Comparelli R Bruno V Pane A Palermo G Curri L Umeton C Bartolino R Templating DNA J Opt 17:025001025006
+
+samuel9.xml
+
+tulasi18.xml
+<<Affiliation>> Key Laboratory of Digital Earth Science Institute of Remote Sensing and Digital Earth Chinese Academy of Sciences Beijing 100094 China Fraunhofer Institute for Algorithms and Scientific Computing 53754 Sankt Augustin Germany
+<<Affiliation>> University of Chinese Academy of Sciences Beijing 100049 China
+<<Affiliation>> Fraunhofer Institute for Algorithms and Scientific Computing 53754 Sankt Augustin Germany
+<<Affiliation>> Department of Computer Science University of Cologne 50923 Cologne Germany
+<<Affiliation>> Key Laboratory of Digital Earth Science Institute of Remote Sensing and Digital Earth Chinese Academy of Sciences Beijing 100094 China
+<<Affiliation>> Faculty of Life Sciences and Computing London Metropolitan University London N7 8DB U.K J Garcke Fraunhofer Institute for Algorithms and Scientific Computing 53754 Sankt Augustin Germany
+<<Affiliation>> Institute for Numerical Simulation University of Bonn 53115 Bonn Germany T Soddemann the Fraunhofer Institute for Algorithms and Scientific Computing 53754 Sankt Augustin Germany
+<<Affiliation>> Flight Center
+<<Affiliation>> The Fraunhofer Institute for Algorithms and Scientific Computing SCAI for the and GPU in They the for and MODIS NASA MODIS LAADS
+
+Rohith16.xml
+<<Affiliation>> Information Sciences Institute University of Southern California
+<<Affiliation>> Columbia University University of Cambridge
+<<Affiliation>> Department of Computer Science Columbia University
+<<Affiliation>> Department of Computer Science University of Oxford
+<<Affiliation>> University of Edinburgh Macquarie University
+<<Affiliation>> Information Sciences Institute University of Southern California
+
+matter3.xml
+
+sidhartha6.xml
+<<Affiliation>> Department of Electrical and Computer Engineering at The Johns Hopkins University Baltimore Maryland 21218 USA
+<<Affiliation>> Singapore Institute of Neurotechnology at the National University of Singapore in Singapore 117456 Singapore
+<<Affiliation>> University Applied Physics Laboratory in Laurel Maryland 20723 USA
+<<Affiliation>> Proc National Academy of Sciences
+<<Affiliation>> Massachusetts Institute of Technology Cambridge MA Tech Rep Feb 2010 H Sedding F Deger H Dammertz J Bouecke and H Lensch Massively
+<<Affiliation>> Impulse Accelerated Technology Inc Website Available:
+<<Affiliation>> University of Georgia in 1999 and 2005 His Postdoctoral Research Fellowship at Trinity College Dublin in Ireland
+<<Affiliation>> EEG and of the of in the He a Senior Staff Scientist in Applied Neuroscience at The Johns Hopkins University Applied Physics Laboratory His and
+<<Affiliation>> Brown University Providence RI and the Ph.D in the Johns Hopkins University School of Medicine Baltimore MD He the Assistant Program Manager for Applied Neuroscience at the Johns Hopkins University Applied Physics Laboratory and Assistant Research Professor in Electrical Engineering at the JHUs Whiting School He for a and His in a of and the IEEE Transactions Neural Systems and Rehabilitation Engineering the IEEE Transactions Biomedical Circuits and Systems and the IEEE Transactions Neural Networks
+<<Affiliation>> Lincoln University Pennsylvania He M.S.E.E and Ph.D in at the University of Pennsylvania in 1991 and 1994 He a
+<<Affiliation>> Johns Hopkins University He the Director of Computer Engineering at JHU and the Institute of Neuromorphic Engineering He the Associate Director for Education and Outreach of the National Science Foundation Engineering Research Centers Computer Integrated Surgical Systems and Technology at JHU He Chairman of the IEEE Circuits and Systems Technical Committee Sensory Systems and Neural Systems and Application He the General Chair of the IEEE BioCAS 2008 Conference He a of Imagers MEMS Medical and Displays Technical Committee of the ISSCC Conference 1999 2006 He the of the NSFs Career and Office of Naval Research Young Investigator Program Awards In 2006 a Visiting African Fellow and a Fulbright Fellowship Grantee for at University of Cape Town South Africa He a at the National Academies of Science Kavli Frontiers Program in 2007 He the 2003 Best Paper Award of the EURASIP Journal of Applied Signal Processing and Best Ph.D in a Nutshell at the IEEE BioCAS 2008 Conference and for in the of and in and His VLSI and
+
+samuel10.xml
+<<Affiliation>> Indian Institute of Technology Patna India
+<<Affiliation>> Indian Institute of Technology Patna India
+<<Affiliation>> Indian Institute of Technology Patna India
+
+elsevier3.xml
+<<Affiliation>> Department of Materials Science and Engineering School of Engineering Shiraz University Shiraz Iran
+<<Affiliation>> Department of Failure Analysis and Life Assessment Razi Metallurgical Research Center Tehran Iran
+<<Affiliation>> School of
+<<Affiliation>> Metallurgical and Materials Engineering University of
+<<Affiliation>> Department of Materials Science and Engineering Sharif University of Technology Tehran Iran
+<<Affiliation>> Bickford JH An the and of NY: Marcel Dekker Inc.; 1990 Goodman J Mechanics London: Longmans; 1899 Burguete RL Patterson EA The of the of Proc Inst Mech Eng 1995;209:25762
+
+sidhartha5tick.xml
+<<Affiliation>> University of Southern California
+
+sidhartha15.xml
+<<Affiliation>> Center for Research in Computer Vision University of Central Florida
+
+sidhartha10.xml
+<<Affiliation>> School of Computer Science Carnegie Mellon University
+<<Affiliation>> School of Information Technology and Electrical Engineering The University of Queensland
+<<Affiliation>> Department of Information Engineering and Computer Science University of Trento
+<<Affiliation>> X Zhu Semi-Supervised Literature Survey Tech Rep University of Wisconsin Madison 2006
+
+maths3.xml
+<<Affiliation>> Dipartimento di Matematica Informatica Universit` a di Cagliari Via Ospedale 72 09124 Cagliari Italy
+
+Rohith13.xml
+<<Affiliation>> Department of Computer Science University of Toronto Toronto ON CANADA
+<<Affiliation>> Canadian Institute for Advanced Research Toronto ON CANADA
+
+tulasi11.xml
+
+Rohith21.xml
+<<Affiliation>> Department of Psychology Carnegie Mellon University
+<<Affiliation>> Department of Psychology Carnegie Mellon University
+<<Affiliation>> Department of Psychology Carnegie Mellon University
+
+tulasi14.xml
+<<Affiliation>> Accelerating DNN Research and Development
+
+tulasi10.xml
+<<Affiliation>> Department of Industrial Engineering and Management Graduate School of Decision Science and Technology Tokyo Institute of Technology Tokyo 152-8552 Japan
+<<Affiliation>> International Research Institute of Disaster Science Tohoku University Sendai Miyagi 980-0845 Japan
+<<Affiliation>> Research Design
+<<Affiliation>> Academy for Co-creative Education of Environment and Energy Science of Tokyo Institute of Technology and the International Research Institute of Disaster Science of Tohoku University for the Director of Disaster Prevention Division the Chief of Planning Subdivision Disaster Prevention Division and the First Chief of Policy Division
+<<Affiliation>> Iijima Laboratory Tech); and the and for and
+
+ayush2.xml
+<<Affiliation>> IBM Research Almaden San Jose CA
+<<Affiliation>> IBM Research Almaden San Jose CA
+<<Affiliation>> IBM Research Almaden San Jose CA
+<<Affiliation>> Provalis Research
+
+Rohith20.xml
+<<Affiliation>> Bioengineering Program and Department of Computer Science School of Engineering The Hong Kong University of Science and Technology Hong Kong
+
+ayush14.xml
+
+ayush1.xml
+<<Affiliation>> Tsinghua University Beijing China
+<<Affiliation>> Free University of Bozen-Bolzano Italy
+<<Affiliation>> Montclair State University Montclair New Jersey
+
+samuel14.xml
+<<Affiliation>> Naval Postgraduate School
+<<Affiliation>> CAIDA
+<<Affiliation>> Naval Postgraduate School
+
+Rohith22.xml
+<<Affiliation>> Twitter Inc
+<<Affiliation>> Tsinghua University
+<<Affiliation>> UC Berkeley
+
+sidhartha7tick.xml
+<<Affiliation>> Lithium Technologies Klout San Francisco CA
+<<Affiliation>> Ireland I I of and
+<<Affiliation>> Artificial Intelligence Research 723762 2014
+
+sidhartha21tick.xml
+<<Affiliation>> Department of Mathematical Sciences UAE University
+<<Affiliation>> Institute of Mathematics of the Romanian Academy
+
+samuel16.xml
+<<Affiliation>> Institute for the Protection and Security of the Citizen Joint Research Centre Ispra 21020 Italy G Trianni the Department of Electronics University of Pavia Pavia 27100 Italy
+
+tulasi1.xml
+<<Affiliation>> University of Minnesota
+<<Affiliation>> Princeton University
+<<Affiliation>> Configured Energy Systems Inc
+
+matter2.xml
+<<Affiliation>> Department of Chemistry Rice University Houston TX 77005-1892
+<<Affiliation>> U Landman E.W Montroll and M.F Shlesinger Proc Natl Acad Sci USA
+<<Affiliation>> University Press 2004)
+<<Affiliation>> M Dentz P Gouze A Russian J Dweik and F Delay Adv Water Res
+
+barno3.xml
+<<Affiliation>> Department of Land Surveying and Geo-Informatics The Hong Kong Polytechnic University Kowloon Hong Kong
+<<Affiliation>> Geography and Environment University of Southampton Southampton SO17 1BJ U.K
+<<Affiliation>> Joint Research Laboratory Spatial Information The Hong Kong Polytechnic University Kowloon Hong Kong and Wuhan University Wuhan 430072 China
+<<Affiliation>> D Future Research
+<<Affiliation>> University of Hong Kong Hong Kong for the Shenzhen Landsat M Hao of the China University of Mining and Technology Xuzhou China
+<<Affiliation>> Institute of Geodesy and Geophysics Chinese Academy of Sciences Wuhan China
+
+ayush13.xml
+<<Affiliation>> Department of Computer Science UC Berkeley Berkeley CA 94704 USA
+
+Rohith10.xml
+<<Affiliation>> Centre of Studies in Resources Engineering IIT Bombay Powai Mumbai 400076 India
+
+Rohith23.xml
+<<Affiliation>> Department of Electrical Engineering and Computer Science Department Stanford University Stanford CA 94305 USA
+
+ayush6.xml
+<<Affiliation>> National Lab of P Recognition Institute of Automation CAS Beijing P R.China
+<<Affiliation>> Department of Computer Science HKUST Kowloon Hong Kong
+
+manvi3.xml
+<<Affiliation>> Department of Computer Science University of Texas at Austin
+<<Affiliation>> Microsoft Research India Bangalore
+<<Affiliation>> Department of Computer Science University of Texas at Austin
+
+Rohith11.xml
+<<Affiliation>> School of Mathematical Sciences Rochester Institute of Technology Rochester NY 14623 United States
+<<Affiliation>> Mathematics Department Nazareth College Rochester NY 14618 United States
+
+Rohith6.xml
+<<Affiliation>> T ParisTech CNRS LTCI 23 75013 Paris France
+<<Affiliation>> Paris France
+
+samuel20.xml
+<<Affiliation>> Womens Sports Medicine Department of Orthopaedic Surgery Brigham and Womens Hospital Boston MA USA
+<<Affiliation>> Harvard Medical School Boston MA 02115 USA Full of at the of the
+<<Affiliation>> College of Sports Medicine in 2007 in at for the Triad the The a and a and Physicians the Triad
+<<Affiliation>> Declaration of Helsinki
+<<Affiliation>> Womens Sports Medicine Department of Orthopaedic Surgery Brigham and Womens Hospital Boston MA USA
+<<Affiliation>> Medical School Boston MA 02115 USA
+<<Affiliation>> MP American College of Sports Medicine The Med Sci Sports Exerc 2007;39(10):186782 Matzkin E Paci G The In: Mody E Matzkin E Musculoskeletal in 1st New York: Springer; 2014 114 Gibbs JC Williams NI De Souza MJ Prevalence of and of the Med Sci Sports Exerc
+
+samuel11.xml
+<<Affiliation>> Massachusetts Institute of Technology Cambridge Mass
+
+sidhartha12.xml
+<<Affiliation>> University of Texas at Austin Austin TX 78759 USA
+<<Affiliation>> Microsoft Research Redmond WA 98052 USA
+
+PriyankOld.xml
+<<Affiliation>> State University
+<<Affiliation>> SUNY/B Computer Center for We Dr Thomas Gaarder for the the and the We Mr Arthur R Axelrod and Dr Pierre A Lavalee of the Xerox Computer Science Laboratory in Rochester New York for a Xerox LDX for the Supported in NASA NGR 33415016 the Center for Theoretical Biology the State University of New York the Einstein of Dr C H Waddington and N.S.F Grant GJ596 Dedicated Diana Gordon
+
+manvi2.xml
+<<Affiliation>> Computer Science Department Stanford University
+<<Affiliation>> Occidental College Columbia University
+<<Affiliation>> Type.University Education.BarackObama Type.University
+<<Affiliation>> Type.FormOfGovernment Chile Type.FormOfGovernment
+
+sidharthachi1tick.xml
+<<Affiliation>> University of Waterloo Waterloo ON Canada
+<<Affiliation>> University of Waterloo Waterloo ON Canada
+
+sidhartha11.xml
+
+samuel8.xml
+
+manvi10.xml
+<<Affiliation>> University of Wisconsin Madison Department of Statitics Department of Computer Science Wisconsin Institute for Discovery Madison WI 53706 USA
+<<Affiliation>> University of California Berkeley ICSI Department of Statistics Berkeley CA 94720 USA
+
+Rohith7.xml
+<<Affiliation>> Qatar Computing Research Institute Doha Qatar
+
+samuel4.xml
+<<Affiliation>> Dept of Computer Science
+<<Affiliation>> Columbia University New York NY
+<<Affiliation>> Cntr for Comp Learning Systems
+<<Affiliation>> Columbia University New York NY
+
+manvi14.xml
+<<Affiliation>> Department of Aerospace Engineering Indian Institute of Science Bangalore 560012 India
+<<Affiliation>> Department of Aerospace Engineering Indian Institute of Science Bangalore 560012 India V Mani the Department of Aerospace Engineering Indian Institute of Science Bangalore 560012 India
+<<Affiliation>> Department of Electrical and Electronics Engineering National Institute of Technology Surathkal India
+<<Affiliation>> Department of Electronics and Communication Engineering National Institute of Technology Surathkal India
+
+samuel12.xml
+<<Affiliation>> Department of Computer Science and Engineering HKUST Hong Kong
+<<Affiliation>> College of Computer Science Beijing University of Technology Beijing China
+<<Affiliation>> Department of Computer Science The University of Hong Kong Hong Kong
+
+tulasi13.xml
+<<Affiliation>> College of Electronic Science and Engineering National University of Defense Technology Changsha Hunan 410073 China
+<<Affiliation>> School of Electronic Electrical and Computer Engineering University of Birmingham B15 2TT Birmingham U.K
+<<Affiliation>> University of Birmingham and the of a 10) The a the for a for The of the in Table II
+
+ayush12.xml
+<<Affiliation>> Department of Computer Science BITS Pilani Goa India
+<<Affiliation>> Department of Mathematics BITS Pilani Goa India
+
+10.1.1.125.3310.xml
+<<Affiliation>> Computer Science Department University of Maryland Baltimore County Baltimore MD USA
+
+manvi6.xml
+<<Affiliation>> Trend Maps for Visualising Research
+<<Affiliation>> Heriot-Watt University Edinburgh Scotland UK
+<<Affiliation>> EH14 4AS
+<<Affiliation>> Heriot-Watt University Edinburgh Scotland UK
+<<Affiliation>> EH14 4AS
+<<Affiliation>> Heriot-Watt University Edinburgh Scotland UK
+<<Affiliation>> EH14 4AS
+<<Affiliation>> Heriot-Watt University Edinburgh Scotland UK
+<<Affiliation>> EH14 4AS
+<<Affiliation>> Research EPSRC EP/I038845/1
+
+maths1.xml
+<<Affiliation>> American Institute of Mathematics 600 E Brokaw Rd San Jose CA 95112 USA
+<<Affiliation>> Department of Mathematics Iowa State University Ames IA 50011 USA
+<<Affiliation>> Division of Mathematical Sciences Nanyang Technological University SPMS-MAS-03-01 21 Nanyang Link Singapore
+<<Affiliation>> Department of Computer Science University College London Gower Street London WC1E 6BT United Kingdom
+
+tulasi8.xml
+<<Affiliation>> Institute I Javakhishvili Tbilisi State University Tbilisi 0177 Georgia Full of at the of the
+<<Affiliation>> A Razmadze Mathematical Institute I Javakhishvili Tbilisi State University Tbilisi 0177 Georgia
+<<Affiliation>> Natural Sciences I Javakhishvili Tbilisi State University Tbilisi 0186 Georgia
+
+tulasi2.xml
+<<Affiliation>> ACM and the of the and and of the Association for Computing Machinery To a 1982 ACM 0164-0925/82/0700-0382 ACM Transactions Programming Languages and Systems Vol No July 1982 Pages 382-401
+
+tulasi4.xml
+<<Affiliation>> Computer Science and Artificial Intelligence Laboratory Massachusetts Institute of Technology
+
+ayush3.xml
+<<Affiliation>> Dept of Health Services Policy Practice Brown University Providence RI Dept of Computer Science Brown University Providence RI
+
+ayush8.xml
+<<Affiliation>> Computer Vision Lab D-ITET ETH Zurich Switzerland
+
+mayank4.xml
+<<Affiliation>> Trend Maps for Visualising Research
+<<Affiliation>> Heriot-Watt University Edinburgh Scotland UK
+<<Affiliation>> EH14 4AS
+<<Affiliation>> Heriot-Watt University Edinburgh Scotland UK
+<<Affiliation>> EH14 4AS
+<<Affiliation>> Heriot-Watt University Edinburgh Scotland UK
+<<Affiliation>> EH14 4AS
+<<Affiliation>> Heriot-Watt University Edinburgh Scotland UK
+<<Affiliation>> EH14 4AS
+<<Affiliation>> Research EPSRC EP/I038845/1
+
+ayush_1.xml
+<<Affiliation>> School of Aeronautics Northwestern Polytechnical University Xian 710072 China
+<<Affiliation>> Institute of Fluid Mechanics Technische Universita Braunschweig Braunschweig 38108 Germany
+<<Affiliation>> Beihang University
+<<Affiliation>> San Francisco: Morgan Kaufmann Publishers Inc.; 1981 6749 19 Bruhn A Weickert J Schno C Lucas/Kanade Horn/ Schunck: and
+<<Affiliation>> San Francisco: Morgan Kaufmann Publishers Inc.; 1983 94551 23 Black MJ Anandan P A for the of
+<<Affiliation>> Corporation Microprocessor Research Labs; 1999 19 32 Galvin B McCane B Novins K Mason D Mills S Recovering of British
+<<Affiliation>> Ph.D at School of Aeronautics Northwestern Polytechnical University He B.S the in 2010 During at Institute of Fluid Mechanics Technische Universita Braunschweig His
+
+manvi17.xml
+
+sidhartha24tick.xml
+<<Affiliation>> Department of Computer Science University College London London WC1E 6BT England UK
+<<Affiliation>> Department of Computer Science University of Milan 20135 Milan Italy
+
+sidhartha19tick.xml
+<<Affiliation>> Remote Sensing Technology Institute German Aerospace Center Oberpfatlenhofen Germany
+
+barno2.xml
+<<Affiliation>> Univ Grenoble Alpes CNRS LIG F-38000 Grenoble France
+<<Affiliation>> Univ Grenoble Alpes CNRS LIG F-38000 Grenoble France
+<<Affiliation>> University of Edinburgh
+<<Affiliation>> IMT Institute for Advanced Studies Lucca
+
+Rohith1995.xml
+<<Affiliation>> Xerox Palo Alto Research Center 3333 Coyote Hill Road Palo Alto CA 94304
+<<Affiliation>> Corporation for in
+<<Affiliation>> J Bertin Semiology of Graphics University of Wisconsin Press 1983
+<<Affiliation>> H S M Coxeter Non-Euclidean Geometry University of Toronto Press 1965
+
+manvi8.xml
+<<Affiliation>> Francesco Palmieri
+<<Affiliation>> Seconda Universit` a di Napoli
+<<Affiliation>> Stanford University
+<<Affiliation>> Max Planck Institute for Informatics
+
+tulasi5.xml
+<<Affiliation>> NEC Knowledge Discovery Research Laboratories 1753 Shimonumabe Nakahara-ku Kawasaki Kanagawa 211-8666 Japan
+
+manvi9.xml
+
+sidhartha16.xml
+<<Affiliation>> Robotics Research Group Robotics Research Group Dept of Engineering Science Dept of Engineering Science University of Oxford University of Oxford Oxford UK
+<<Affiliation>> OX1 3PJ Oxford UK
+<<Affiliation>> OX1 3PJ
+
+ayush_4.xml
+<<Affiliation>> Institut Astrophysik Potsdam An Sternwarte 16 14482 Potsdam
+<<Affiliation>> J De 15: 144154 Dadic Z 1987
+
+tulasi6.xml
+<<Affiliation>> Department of Physics University of Idaho Moscow Idaho 83844-0903 USA
+<<Affiliation>> Desert Research Station at the the
+<<Affiliation>> SJ Simon M Amy A Harder JW Bullock MA Comp Climatology Terrestrial Planets Tucson: University of Arizona Press; 2014 439472 27 Lorenz RD Lunine JI Grier JA Fisher MA Prediction of Application Titan J Geophys Res 1995;100:2637786 28 Lorenz R Mitton J Lifting Titans the of Saturn Cambridge UK: Cambridge University
+<<Affiliation>> Icarus 2013;226:470486 45 Le Mouelic S Cornet T Rodriguez S Sotin C Barnes JW Baines KH Global of Titans for the and of Cassini/VIMS Planet Space Sci 2012;73:17890 46 Rodriguez S Garcia A Lucas A Appere T Le Gall A Reffet E Global and of Titans Cassini: Correlation RADAR and VIMS Icarus 2014;230:16879 47 Rodriguez S Le Mouelic S Sotin C Clenet H Clark RN Buratti B Cassini/VIMS of the HUYGENS Titan Planet Space Sci 2006;54:151023 48 Le Mouelic S Paillou P Janssen MA Barnes JW Rodriguez S Sotin C Mapping and of Sinlap Titan Cassini VIMS and RADAR J Geophys Res 2008;113:4003 49 Brown RH Soderblom LA Soderblom JM Clark RN Jaumann R Barnes JW The of in Titans Ontario Lacus Nature 2008;454:60710 50 Barnes JW Brown RH Soderblom JM Soderblom LA Jaumann R Jackson B Shoreline of Titans Ontario Lacus Cassini/VIMS Icarus 2009;201:21725 51 Wall S Hayes A Bristow C Lorenz R Stofan E Lunine J Geophys Res Lett 2010;37:L5202 52 Lorenz RD Jackson B Hayes A Planet Space Sci 2010;58:72431 53 Turtle EP Perry JE Hayes AG McEwen AS Shoreline at Titans Ontario Lacus and Arrakis Planitia Cassini Imaging Science Subsystem Icarus 2011;212:9579 54 Cornet T Bourgeois O Le Mouelic S Rodriguez S Lopez Gonzalez T Sotin C Geomorphological of Ontario Lacus Titan: Integrated of Cassini VIMS ISS and RADAR and the Etosha Pan Icarus 2012;218:788806 55 Hayes AG Aharonson O Lunine JI Kirk RL Zebker HA Wye LC Transient in Titans Cassini Icarus 2011;211:65571 56 Sotin C Lawrence KJ Reinhardt B Barnes JW Brown RH Hayes AG Observations of Titans Northern at
+<<Affiliation>> Final Report Pasadena California: Jet Propulsion Laboratory; 2007 72 Reh K Manger T Matson D Coustenis A Lunine J Lebreton JP Titan Saturn System Mission Study 2008: Final Report Task Order Pasadena California: Jet Propulsion Laboratory; 2009 73 Lunine J Lorenz RD Smith M Beauchamp P Beauchamp J Hodyss R Titan Organics Explorer NASA JPL Vision Mission Study Pasadena California: Jet Propulsion Laboratory; 2005 74 Lorenz RD Flight Power Scaling of Airplanes Airships and Helicopters: Application Planetary Exploration J Aircraft 2001;38:20814
+
+tulasi20.xml
+<<Affiliation>> Kluwer Academic Publishers Boston Manufactured in The Netherlands
+<<Affiliation>> Centre for Advanced Computing Sciences New South Wales Institute of Technology Sydney 2007 Australia
+<<Affiliation>> BACON In R.S Michalski J.G Carbonell and T.M Mitchell Machine An Palo Alto: Tioga Publishing Company Michalski R.S Pattern 1EEE Transactions Pattern Analysis and Machine Intelligence Michalski R.S Stepp R.E Learning In R.S Michalski J.G CarboneU T.M Mitchell Machine An Palo Alto: Tioga Publishing Company Michie D Experiments the of Rule-based and the Computer Journal 25 Michie D Inductive in the of the Fifth Generation Proceedings of the Second International Machine Learning Workshop University of Illinois at Urbana-Champaign Michie D Current in Artificial Intelligence and Expert Systems In International
+<<Affiliation>> Machine 11 Oxford University Press Sammut C.A Concept for Australian Computer Journal 17 Samuel A Some in the of II: Recent IBM J Research and Development 11 Shapiro A The of in Ph.D Thesis University of Edinburgh Shepherd B.A An of a Proceedings of the Eighth International Joint Conference Artificial Intelligence Karlsruhe West Germany: Morgan Kaufmann Winston P.H Learning In P.H Winston The of McGraw-Hill
+
+mayank2.xml
+<<Affiliation>> Mentor Graphics Corporation 8005 SW Boeckman Rd Wilsonville OR 97070-7777 USA
+<<Affiliation>> Department of Computer Science and Engineering Southern Methodist University P.O Box 750122 Dallas TX 75275-0122 USA
+
+ayush7.xml
+<<Affiliation>> Dept Computer Science Montana State University Bozeman MT 59717 USA
+<<Affiliation>> Dept Physics Montana State University Bozeman MT 59717 USA
+<<Affiliation>> Harvard-Smithsonian Center for Astrophysics Cambridge MA 02138 USA
+
+manvi18.xml
+<<Affiliation>> Department of Physics The University of Hong Kong Hong Kong SAR China
+<<Affiliation>> Department of Physics Huazhong University of Science and Technology Wuhan Hubei China and Department of Physics The University of Hong Kong Hong Kong SAR China
+<<Affiliation>> Department of Physics The University of Hong Kong Hong Kong SAR China and Department of Physics Zhejiang University Hangzhou China
+
+manvi11.xml
+<<Affiliation>> Division of Endocrinology Diabetes Metabolism and Nutrition 200 First Street SW Mayo Clinic Rochester MN 55905 United States
+<<Affiliation>> Division of Endocrinology Diabetes Metabolism and Nutrition 200 First Street SW Mayo Clinic Rochester MN 55905 United States
+<<Affiliation>> Division of Reproductive Endocrinology and Infertility 200 First Street SW Mayo Clinic Rochester MN 55905 United States
+<<Affiliation>> Division of Reproductive Endocrinology and Infertility 200 First Street SW Mayo Clinic Rochester MN 55905 United States
+<<Affiliation>> Division of Endocrinology Diabetes Metabolism and Nutrition 200 First Street SW Mayo Clinic Rochester MN 55905 United States
+<<Affiliation>> J Clin Endocrinol Metab 2010 Jun;95(6):26729 Gonzalez JG Elizondo G Saldivar D Nanez H Todd LE Villarreal JZ Pituitary in Am J Med 1988 Aug;85(2):21720 Scheithauer BW Sano T Kovacs KT Young Jr WF Ryan N Randall RV The in a and of 69 Mayo Clin Proc 1990 Apr;65(4):46174 Research Support Non-U.S Gov't Lebbe M Hubinont C Bernard P Maiter D Outcome of 100 in Clin Endocrinol 2010 Aug;73(2):23642 Evaluation Studies Sarwar KN Huda MS Van de Velde V Hopkins L Luck S Preston R The and of in J Clin Endocrinol Metab 2013 Jun;98(6):23627 Couture N Aris-Jilwan N Serri O Apoplexy of a and of Endocrine Pract Off J College Endocrinol Assoc Clin Endocrinol 2012 Nov-Dec;18(6):e147-150 Case Reports Review Chng E Dalan R Pituitary J Clin Neurosci Off J Neurosurg Soc Austral 2013 Dec;20(12):163743 Case Reports Review Liu C Tyrrell JB Successful of a Pituitary 2001 Aug;4(3):17985 Case Reports Tanaka S Link MJ Brown PD Stafford SL Young Jr WF Pollock BE Gamma for World Neurosurg 2010 Jul;74(1):14752 Castinetti F Nagai M Morange I Dufour H Caron P Chanson P Long-term of in J Clin Endocrinol Metab 2009 Sep;94(9):34007 Regis J Castinetti F Radiosurgery: a
+
+sidhartha4tick.xml
+<<Affiliation>> Laboratory LIFC University of Franche-Comte 16 de Gray 25030 Besanc France
+
+manvi19.xml
+<<Affiliation>> Language Technologies Institute Carnegie Mellon University Pittsburgh PA 15213 USA
+
+manvi21.xml
+<<Affiliation>> Informatik Technische Universitaet Munich
+<<Affiliation>> ELHARDT K The Design Dissertation TUM18208,1982 Technical Univ Munich German) ESWARAN K.P GRAY J N LORIE R A AND TRAIGER I L The of and in a
+<<Affiliation>> HAERDER T AND REUTER A Principles of Internal Rep 50/82 Univ Kaiserslautem 1982 12 HAERDER T AND REUTER A Optimization of and in a In Proceedings IFIP Working Conference Data Base Architecture
+<<Affiliation>> Diplomarbeit Technical Univ Munich 1983 German) 14
+
+Rohith5.xml
+<<Affiliation>> Stanford University
+<<Affiliation>> Stanford University
+
+Rohith14.xml
+<<Affiliation>> Department of Computer Science and Engineering Indian Institute of Technology Kanpur UP 208 016 INDIA
+<<Affiliation>> Statistical Laboratory Centre for Mathematical Sciences Wilberforce Road Cambridge CB3 0WB ENGLAND
+<<Affiliation>> Microsoft Research India Vigyan Lavelle Road Bangalore KA 560 001 INDIA
+<<Affiliation>> Department of Computer Science and Engineering Indian Institute of Technology Kanpur UP 208 016 INDIA
+
+manvi5.xml
+<<Affiliation>> Department of Electronic Engineering Tsinghua University
+<<Affiliation>> Department of Computer Science University of Toronto
+
+sidhartha9tick.xml
+<<Affiliation>> Academia Sinica Taiwan;
+<<Affiliation>> National Taiwan University Taiwan
+
+manvi12.xml
+<<Affiliation>> Department of Electrical Engineering Technion Haifa 32000 Israel
+<<Affiliation>> Collin R E 2010 Prog In Electromagnetics Research B 19 233-61 Merlin R 2004 App Phys Lett 84 1290 Wee W H and Pendry J B 2011 Phys Rev Lett 106 165503 Zhang B and Khurgin J 2011 Appl Phys Lett 98 263102 Ruppin R 2000 Phys Lett A 277 61 Shadrivov I V Sukhorukov A A Kivshar Y S Zharov A A Boardman A D and Egan P 2004 Phys Rev E 69 016617 Rosenblatt G and Orenstein M 2014 in Burke J J Stegeman G I and Tamir T 1986 Phys Rev B 33 5186-201 Moiseyev N 2011 Non-Hermitian Quantum Mechanics University) Ruppin R 2001 J of Phys.: Cond Matter 13 1811 Shadrivov I V Sukhorukov A A and Kivshar Y S 2003 Phys Rev E 67 057602 Ziolkowski R W Heyman E Phys Rev E 64 056625 Wuestner S Pusch A Tsakmakidis K L Hamm J M and Hess O 2010 Phys Rev Lett 105 127401
+
+sidhartha8tick.xml
+<<Affiliation>> DISI University of Trento Italy
+<<Affiliation>> University USA
+<<Affiliation>> CSE University of Texas at Arlington USA
+<<Affiliation>> DISI University of Trento Italy
+<<Affiliation>> DISI University of Trento Italy
+
+samuel3.xml
+<<Affiliation>> Harvard University Cambridge Massachusetts 02138 USA
+
+sidhartha18tick.xml
+<<Affiliation>> Dept of Engineering Science University of Oxford UK
+
+samuel2.xml
+<<Affiliation>> Digital Equipment Corporation
+
+mayank3.xml
+<<Affiliation>> Microsoft Research Labs Bangalore INDIA
+<<Affiliation>> Stanford University and Microsoft Research Silicon Valley Campus
+
+tulasi7.xml
+<<Affiliation>> Department of Computer Science Aberystwyth University Aberystwyth SY23 3DB U.K and the Department of Computer Engineering Gediz University Izmir 35665 Turkey
+<<Affiliation>> Faculty of Medicine Department of Medical Engineering University of Auvergne Clermont-Ferrand 63000 France T Celik the School of Computer Science University of Witwatersrand Johannesburg 2000 South Africa and the Department of Electrical and Electronics Engineering Meliksah University Kayseri 38280 Turkey
+<<Affiliation>> Reno-Lake We and of the The and the The a of of
+
+elsevier6.xml
+<<Affiliation>> Department of Botany Faculty of Agriculture Al-Azhar University Nasr City Cairo Egypt
+<<Affiliation>> Department of Horticulture Faculty of Agriculture Al-Azhar University Nasr City Cairo Egypt
+<<Affiliation>> Faculty of Agriculture Ain Shams University
+<<Affiliation>> Academic Dissertation Acta Universitatis Ouluensis Scientiae
+
+mayank5.xml
+<<Affiliation>> State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing Wuhan University Wuhan 430079 China
+<<Affiliation>> Wuhan University Wuhan China in Fig 4(a) and The and The of the for the in Fig 4(c) The 400 0.6 IKONOS in 2002 and 2004 in Fig 5(a) and Its
+
+manvi16.xml
+<<Affiliation>> Institute of Fiber-optic Communication and Information Engineering
+<<Affiliation>> College of Information Engineering Zhejiang University of Technology
+
+sidhartha20tick.xml
+<<Affiliation>> Otto Hahn Research Group Ontologies Max Planck Institute for Informatics Saarbrucken Germany
+<<Affiliation>> Department of Computer Science Montclair State University Montclair NJ USA
+<<Affiliation>> She Distinguished Engineer in the SQL Anywhere Research and Development of Sybase An SAP Company in Waterloo Canada
+<<Affiliation>> Her Lawrence Berkeley National Laboratory and International Computer Science Institute in Berkeley Dr Nica and She 25 and for NSERC ACM SIGMOD IEEE ICDE ACM CIKM
+<<Affiliation>> Fabian Suchanek the of the Otto Hahn Research Group at the Max Planck Institute for Informatics in Germany
+<<Affiliation>> In Ph.D Fabian the
+
+tulasi12.xml
+<<Affiliation>> School of Applied Mathematics and Informatics Hanoi University of Science and Technology Dai Co Viet Road Hanoi Vietnam
+<<Affiliation>> Department of Digital Media Engineering Anyang University Anyang Republic of Korea
+<<Affiliation>> Department of Computer Science and Information Engineering National Dong Hwa University Hualien Taiwan
+<<Affiliation>> ROC
+<<Affiliation>> Research Program Through the National Research Foundation of Korea
+<<Affiliation>> Ministry of Education Science and Technology
+
+samuel6.xml
+<<Affiliation>> State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing Wuhan University 430079 P.R.China
+<<Affiliation>> Marine Science and Environmental Studies University of San Diego San Diego CA 92110 USA
+<<Affiliation>> Bulletin of the American Meteorological Society 53 647648 Saaroni Hadas Eyal Ben-Dor Arieh Bitan Oded Potchter Spatial and of the in TelAviv Landscape and Urban Planning 48 118
+
+sidhartha3tick.xml
+<<Affiliation>> Department of Electrical Engineering Indian Institute Institute of Technology Bombay Powai Mumbai 400076 India
+
+samuel7.xml
+<<Affiliation>> National Key Laboratory of Radar Signal Processing Xidian University Xian 710071 China
+<<Affiliation>> Since of the in a in the Fig the of the LIC and the 10 20 40 60 and 80 Generally the and the of However the the the It
+
+tulasi15.xml
+<<Affiliation>> Institute for Language Cognition and Computation
+<<Affiliation>> Institute of Perception Action and Behaviour School of Informatics University of Edinburgh 10 Crichton Street Edinburgh EH8 9AB
+
+Rohith8.xml
+<<Affiliation>> E Martinez Universidad Politecnica de Madrid Espana
+<<Affiliation>> A Arquero Universidad Politecnica de Madrid Espana
+<<Affiliation>> I Molina Universidad Politecnica de Madrid Espana
+<<Affiliation>> Advances in Space Research 50 1250-1265 2012 Febrero 2014) S Marchesi F Bovolo and L Bruzzone A for in VHR IEEE Trans Image Process 19 18771889 2010 M El Hajj A Begue B Lafrance O Hagolle G Dedieu and M Rumeau Relative and of a SPOT Sensors 27742791 2008 R G Congalton and K Green Assessing the Accuracy of Remotely Sensed Data Principles and Practices 2a CRC Press Taylor Francis Group 2009 Febrero 2014)
+<<Affiliation>> Chemistry Sciences the Complutense University Madrid Spain
+<<Affiliation>> July of 1989 She Associate Professor of Department of Architecture and Technology of Computer Systems Computer School Technical University of Madrid Madrid Spain She at the University in Digital Design VLSI Technology and Remote Sensing Her the of the Remote Sensing Image Processing and the of Neural Networks Algorithms Genetic Algorithms and Fuzzy Logic for the and of In in the of and
+<<Affiliation>> Chemistry Sciences Autonoma University of Madrid in the January of 1983 She Associate Professor of Department of Architecture and Technology of Computer Systems Computer School Technical University of Madrid Madrid Spain
+<<Affiliation>> Her in
+<<Affiliation>> International Institute for Aerospace Surveys and Earth Sciences The Netherlands) in 1992 and the Ph.D the Universidad Politecnica de Madrid in
+
+Rohith15.xml
+<<Affiliation>> ECE Department University of Iowa Iowa City IA 52246
+<<Affiliation>> Inc ATPG Det Pat
+<<Affiliation>> Inc ATPG Det Pat
+
+sidharthatick1999ieee.xml
+<<Affiliation>> The Blackett Laboratory Imperial College London SW7 2BZ U.K
+
+sidhartha13.xml
+<<Affiliation>> Department of Computer Sciences University of Texas at Austin
+
+matter5.xml
+<<Affiliation>> Department of Mathematics and Statistics University of North Carolina at Charlotte Charlotte NC 28223 U.S.A
+<<Affiliation>> University Press 2002) 10
+<<Affiliation>> Moscow Russia 1970) 11
+
+tulasi16.xml
+<<Affiliation>> Department of Chemistry Faculty of Science National University of Singapore Singapore 117543
+
+manvi20.xml
+<<Affiliation>> University of Twente Enschede The Netherlands
+
+ayush5.xml
+<<Affiliation>> Institute of Media Innovation Nanyang Technological University 50 Nanyang Drive Singapore
+<<Affiliation>> School of Electrical Electronics Engineering
+<<Affiliation>> Nanyang Technological University 50 Nanyang Avenue Singapore
+
+tulasi17.xml
+<<Affiliation>> Microsoft Research India Bangalore
+<<Affiliation>> The University of Texas at Austin
+<<Affiliation>> The University of Texas at Austin
+
+sidhartha1tick.xml
+<<Affiliation>> Centre for Quantum Computation Intelligent Systems University of Technology Sydney Australia The University of New South Wales Australia The Chinese University of Hong Kong China
+
+samuel18.xml
+<<Affiliation>> Federal Institute for Risk Assessment MaxDohrnStr 810 10589 Berlin Germany
+<<Affiliation>> Thereafter the 10 a
+<<Affiliation>> Federal Institute for Risk Assessment MaxDohrnStr 810 10589 Berlin Ger
+<<Affiliation>> Department Institute of Physiology University of Veterinary Medicine Hannover Foundation Bischofsholer Damm 15 30173 Hannover Germany
+<<Affiliation>> Veterinary Analytical Institute in Munster for the PFAA Jorge Numata for in the
+<<Affiliation>> Final Department for and the for England and Wales
+<<Affiliation>> Environmental Laboratory 61 Ehlers S Analytik Perfluoralkylsauren in Matri Klarung Toxikokinetik in Tierarten Lebensmittelgewin Westfalische WilhelmsUniversitat Munster
+
+10.1.1.123.1085.xml
+<<Affiliation>> Massachusetts Institute of Technology
+
+ayush10.xml
+<<Affiliation>> EM for the DUALIST
+
+ayush11.xml
+<<Affiliation>> Georgia Institute of Technology
+
+samuel19.xml
+<<Affiliation>> Department of Advanced Energy University of Tokyo 5-1-5 Kashiwanoha Kashiwa Chiba 277-8561 Japan
+<<Affiliation>> Phys Rev D 83 023517 R Yano and K Suzuki Erratum: Kinetic of
+<<Affiliation>> Karman Institute for Fluid Dynamics Lecture Series Vol M S Ivanov and S V Rogasinsky Analysis of of the Monte Carlo in the Russ J Numerical Analysis and Mathematical Modelling 453-466 Z Xu and C Greiner Thermalization of in in a Phys Rev C 71 064901 I Bouras E Molnar H Niemi Z Xu A El O Fochler C Greiner and D H Rischke
+
+manvi1.xml
+<<Affiliation>> School of Computer Science and Engineering The Hebrew University Jerusalem Israel This Intel
+
+sidhartha2tick.xml
+<<Affiliation>> Microsoft University of Amsterdam KTH Gavagai Mountain View CA The Netherlands
+<<Affiliation>> Stockholm Sweden
+
+samuel15.xml
+<<Affiliation>> Merit Network Inc Ann Arbor Michigan USA
+<<Affiliation>> ETH Zurich Zurich Switzerland
+
+Rohith9.xml
+<<Affiliation>> Raytheon BBN Technologies 10 Moulton St Cambridge MA 02138 USA
+
+Rohith12.xml
+<<Affiliation>> San Diego State University
+
+ayush_2.xml
+<<Affiliation>> The University of Texas at Austin
+<<Affiliation>> Microsoft Research India
+
+tulasi9.xml
+
+tulasi3.xml
+<<Affiliation>> Carnegie Mellon University
+<<Affiliation>> M Efficient PhD Univ of Cambridge Computer Laboratory Dec 1988 CAT~ V AND GROSS,T Combinmg the of and for a In
+<<Affiliation>> Dept of Computer Science Princeton Univ Oct 1990 DAVIDSON S B Optimism and in ACM Trans Database Syst
+<<Affiliation>> Island Wash Dec 1985) 15-24 16 SANDBERG R GOLDBERG,D KLEIMAN S WALSH D
+<<Affiliation>> Apr 1988) 10-18 18 SATYANARAYANAN M KISTLER J J KUMAR P OKASAKI M E SIEGEL E H AND STEERE D C Coda: A for a
+<<Affiliation>> Island Wash Dec 1985) 25-34 21 STEERE D C KISTLER J J AND SATYANARAYANAN M Efficient the Sun Vnode In
+<<Affiliation>> Transarc Corporation Jan 1990 23 WALKER B POPEK G ENGLISH R KLINE C AND THIEL G The LOCUS In
+
+samuel5.xml
+
+mayank1.xml
+<<Affiliation>> Courant Institute of Mathematical Science 719 Broadway 12
+<<Affiliation>> Facebook AI Research 770 Broadway New York NY 10003
+
+manvi13.xml

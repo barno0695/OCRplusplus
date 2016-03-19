@@ -1,0 +1,14 @@
+<email_author>
+	<map>
+		Reda Alhajj 
+		alhajj@ucalgary.ca
+	</map>
+	<map>
+		Behrouz H. Far 
+		far@ucalgary.ca
+	</map>
+	<map>
+		Mohammad Moshirpour 
+		mmoshirp@ucalgary.ca
+	</map>
+</email_author>

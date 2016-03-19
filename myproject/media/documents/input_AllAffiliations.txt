@@ -1,0 +1,16 @@
+
+	<Affiliation>
+		University of Calgary Department of Electrical and Computer Engineering 2500 University Dr NW Calgary AB Canada
+	</Affiliation>
+
+	<Affiliation>
+		T2N 1N4
+	</Affiliation>
+
+	<Affiliation>
+		Calgary Department of Computer Science 2500 University Dr NW Calgary AB Canada
+	</Affiliation>
+
+	<Affiliation>
+		T2N 1N4
+	</Affiliation>

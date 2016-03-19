@@ -1,0 +1,25 @@
+
+<<figure>>
+Figure 1. Spiral workflow between semantic search and concept learning
+<<figure>>
+Figure 2. Semantic search system architecture
+<<figure>>
+Figure 3 shows different agent roles in each MAS in our prototype system [2]. In this system, agents of different MASs are the nodes in a social network. They connect with each other by a tie.
+<<figure>>
+Figure 3. Agent roles within the semantic search engine
+<<figure>>
+Figure 4. The tie between MAS A and B are established based on their mutual peers
+<<figure>>
+Figure 5. The relation between MAS A and B is decided based on their ability to cooperate on a given query
+<<figure>>
+Figure 6. The tie between MAS A and B are established based on how frequently they contact each other
+<<figure>>
+Figure 7. The union of state machines built from MSCs 1 and 2
+<<figure>>
+Figure 8. Behavior model of the system after scaling
+<<figure>>
+Figure 9. Resulted FSM after merging identical states
+<<figure>>
+Figure 10. Screenshot of the tool's user interface; displaying an imported MSC
+<<figure>>
+Figure 11. Screenshot of the tool's user interface; displaying a constructed FSM

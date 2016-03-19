@@ -1,0 +1,590 @@
+
+Rohith19.xml
+<<title>>
+Title : Embedded Deterministic Test Points for Compact Cell-Aware Tests 
+
+sidhartha23tick.xml
+<<title>>
+Title : Report on the CIKM Workshop on Living Labs Information Retrieval Evaluation 
+
+ayush_3.xml
+<<title>>
+Title : A Program for Aligning Sentences in Bilingual Corpora 
+
+manvi7.xml
+<<title>>
+Title : COMPRESSING WORD EMBEDDINGS 
+
+Rohith18.xml
+<<title>>
+Title : Monitoring the Delay of Long Interconnects via Distributed TDC 
+
+ayush9.xml
+<<title>>
+Title : VISUAL INSTANCE RETRIEVAL DEEP CONVOLUTIONAL NETWORKS 
+
+samuel13.xml
+<<title>>
+Title : On Technology Transfer 
+
+Rohiththriplecolumn.xml
+<<title>>
+Title : A three-dimensional mirror augmented by medical imaging: Questioning self- portraying at the limit of intimacy 
+
+barno1.xml
+<<title>>
+Title : Comparison of Methods for Counting Hoofed Animal Density 
+
+tulasi19.xml
+<<title>>
+Title : The Program Dependence Graph and Its Use in Optimization 
+
+phy1.xml
+<<title>>
+Title : COMMUNITY DETECTION IN TEMPORAL MULTILAYER NETWORKS, AND ITS APPLICATION TO CORRELATION NETWORKS 
+
+sidhartha17tick.xml
+<<title>>
+Title : LIVE VIDEO SYNOPSIS FOR MULTIPLE CAMERAS 
+
+manvi15.xml
+<<title>>
+Title : Unsupervised Land-Use Classification Multispectral Satellite Images. 
+
+samuel1.xml
+<<title>>
+Title : Mediterranean Coriference on Embedded Computing MECO 
+
+Rohith17.xml
+<<title>>
+Title : Practical analog fault simulation 
+
+PalodOld.xml
+<<title>>
+Title : Science, 149(3683) : 510-515, July 30, 1965 field. An average of about 15 
+
+phy3.xml
+<<title>>
+Title : arXiv:1501.00021v1 [physics.med-ph] 30 Dec 2014 
+
+ayush4.xml
+<<title>>
+Title : Principles]: User/Machine Systems Human Information Processing; H.3.1 [Information Storage and Retrieval]: 
+
+samuel1995.xml
+<<title>>
+Title : Support-Vector Networks 
+
+manvi4.xml
+<<title>>
+Title : Object-Based Change Detection of Very High Resolution Satellite Imagery Using the Cross-Sharpening of Multitemporal Data 
+
+sidhartha22tick.xml
+<<title>>
+Title : AVEC 2015 – The 5th International Audio/Visual Emotion Challenge and Workshop 
+
+Rohith3.xml
+<<title>>
+Title : Change Detection in Synthetic Aperture Radar Images Based on Deep Neural Networks 
+
+sidhartha14.xml
+<<title>>
+Title : ChaLearn Looking at People 2015 challenges: 
+
+samuel17.xml
+<<title>>
+Title : Photo-thermal effects in gold nanorods/ DNA complexes 
+
+samuel9.xml
+<<title>>
+Title : Generative Communication in Linda 
+
+tulasi18.xml
+<<title>>
+Title : Multicore Processors and Graphics Processing Unit Accelerators for Parallel Retrieval of Aerosol Optical Depth From Satellite Data: Implementation, Performance, and Energy Efﬁciency 
+
+Rohith16.xml
+<<title>>
+Title : Parsing Graphs with Hyperedge Replacement Grammars David Chiang  Jacob Andreas Columbia University Daniel Bauer 
+
+matter3.xml
+
+sidhartha6.xml
+<<title>>
+Title : Fast Neuromimetic Object Recognition using FPGA Outperforms GPU Implementations 
+
+samuel10.xml
+<<title>>
+Title : Pixel Classiﬁcation of Remote Sensing Satellite Image using Semi-supervised Clustering 
+
+elsevier3.xml
+<<title>>
+Title : Case Studies in Engineering Failure Analysis 
+
+sidhartha5tick.xml
+<<title>>
+Title : Learning Adversary Behavior in Security Games: A PAC 
+
+sidhartha15.xml
+<<title>>
+Title : GMMCP Tracker: Globally Optimal Generalized Maximum Multi Clique Problem for Multiple Object Tracking Afshin Dehghan Shayan Modiri Assari Mubarak Shah 
+
+sidhartha10.xml
+<<title>>
+Title : Multi-Feature Fusion via Hierarchical Regression for Multimedia Analysis 
+
+maths3.xml
+<<title>>
+Title : . SOME REMARKS ON HOMOGENEOUS K ¨ AHLER MANIFOLDS ANDREA LOI, ROBERTO MOSSA Dipartimento di Matematica e Informatica, Universit` a di Cagliari, Via Ospedale 72, 
+
+Rohith13.xml
+<<title>>
+Title : Exploring Models and Data for Image Question Answering 
+
+tulasi11.xml
+<<title>>
+Title : On valuing biopharmaceutical product 
+
+Rohith21.xml
+<<title>>
+Title : Evaluating the inverse decision-making approach to 
+
+tulasi14.xml
+<<title>>
+Title : FireCaffe: near-linear acceleration of deep neural network training on compute clusters 
+
+tulasi10.xml
+<<title>>
+Title : Disaster Recovery and Reconstruction Following the 2011 Great East Japan Earthquake and Tsunami: A Business Process Management Perspective 
+
+ayush2.xml
+<<title>>
+Title : Rule-based Information Extraction is Dead! Long Live Rule-based Information Extraction Systems! Laura Chiticariu IBM Research - Almaden 
+
+Rohith20.xml
+<<title>>
+Title : A SEGMENTATION METHOD USING COMPOUND MARKOV RANDOM FIELDS BASED ON A GENERAL BOUNDARY MODEL 
+
+ayush14.xml
+<<title>>
+Title : FREE JACOBI PROCESS ASSOCIATED WITH ONE PROJECTION: LOCAL INVERSE OF THE FLOW 
+
+ayush1.xml
+<<title>>
+Title : PIKM 2014: The 7th ACM Workshop for Ph.D. Students in Information and Knowledge Management 
+
+samuel14.xml
+<<title>>
+Title : Experience in using MTurk for Network Measurement 
+
+Rohith22.xml
+<<title>>
+Title : Structured Learning for Taxonomy Induction with Belief Propagation Mohit Bansal TTI Chicago .  Dan Klein  
+
+sidhartha7tick.xml
+<<title>>
+Title : Identifying Actionable Messages on Social Media 
+
+sidhartha21tick.xml
+<<title>>
+Title : A new way to iterate Brzezi´ nski crossed products 
+
+samuel16.xml
+<<title>>
+Title : Urban Mapping in Landsat Images Based on Normalized Difference Spectral Vector 
+
+tulasi1.xml
+<<title>>
+Title : The Quickhull Algorithm for Convex Hulls 
+
+matter2.xml
+<<title>>
+Title : All-time dynamics of continuous-time random walks on complex networks 
+
+barno3.xml
+<<title>>
+Title : Fast Subpixel Mapping Algorithms for Subpixel Resolution Change Detection 
+
+ayush13.xml
+<<title>>
+Title : LEARNING COMPACT CONVOLUTIONAL NEURAL NETWORKS NESTED DROPOUT 
+
+Rohith10.xml
+<<title>>
+Title : CLOUD DETECTION IN SATELLITE IMAGERY USING GRAPHICS PROCESSING UNITS 
+
+Rohith23.xml
+<<title>>
+Title : Bilingual Word Embeddings for Phrase-Based Machine Translation Will Y. Zou Computer Science Department 
+
+ayush6.xml
+<<title>>
+Title : ROBUST NOSE DETECTION IN 3D FACIAL DATA USING LOCAL CHARACTERISTICS 
+
+manvi3.xml
+<<title>>
+Title : Large-scale Multi-label Learning with Missing Labels 
+
+Rohith11.xml
+<<title>>
+Title : Global efficiency of graphs 
+
+Rohith6.xml
+<<title>>
+Title : Analyzing Interference from Static Cellular Cooperation using the Nearest Neighbour Model 
+
+samuel20.xml
+<<title>>
+Title : Female Athlete Triad Awareness Among Multispecialty Physicians 
+
+samuel11.xml
+<<title>>
+Title :  As Published  
+
+sidhartha12.xml
+<<title>>
+Title : Active Learning for Large Multi-class Problems 
+
+PriyankOld.xml
+<<title>>
+Title : Algebraic Reconstruction Techniques (ART) for Three-dimensional Electron Microscopy and X-ray Photography 
+
+manvi2.xml
+<<title>>
+Title : Semantic Parsing on Freebase from Question-Answer Pairs 
+
+sidharthachi1tick.xml
+<<title>>
+Title : Mining Online Software Tutorials: Challenges and Open Problems 
+
+sidhartha11.xml
+<<title>>
+Title : Change Detection From Remotely Sensed Images Based on a Decision Theoretic Method 
+
+samuel8.xml
+
+manvi10.xml
+<<title>>
+Title : Statistical and Algorithmic Perspectives on Randomized Sketching for Ordinary Least-Squares 
+
+Rohith7.xml
+<<title>>
+Title : Named Entity Recognition using Cross-lingual Resources: Arabic as an Example Kareem Darwish Qatar Computing Research Institute 
+
+samuel4.xml
+<<title>>
+Title : Predicting Power Relations between Participants 
+
+manvi14.xml
+<<title>>
+Title : Hierarchical Clustering Algorithm for Land Cover Mapping Using Satellite Images 
+
+samuel12.xml
+<<title>>
+Title : Diverse and Proportional Size-l Object Summaries for Keyword Search 
+
+tulasi13.xml
+<<title>>
+Title : SAR Coherent Change Detection 
+
+ayush12.xml
+<<title>>
+Title : LEARNING TEMPORAL DEPENDENCIES DATA US- DBN-BLSTM 
+
+10.1.1.125.3310.xml
+<<title>>
+Title : Baltimore MD USA 
+
+manvi6.xml
+<<title>>
+Title : Hot Topics in CHI:  
+
+maths1.xml
+<<title>>
+Title : Orthogonal Representations, Projective Rank, and Fractional Minimum Positive Semideﬁnite Rank: Connections and New Directions 
+
+tulasi8.xml
+<<title>>
+Title : On increasing the convergence rate of difference solution to the third boundary value problem of elasticity theory 
+
+tulasi2.xml
+<<title>>
+Title : The Byzantine Generals Problem 
+
+tulasi4.xml
+<<title>>
+Title : Low-Rank Tensors for Scoring Dependency Structures 
+
+ayush3.xml
+<<title>>
+Title : Speech Acts in Patient-Doctor Communication Byron C. Wallace Thomas A. Trikalinos M. Barton Laws Ira B. Wilson 
+
+ayush8.xml
+<<title>>
+Title : EFFICIENT REGRESSION PRIORS FOR POST-PROCESSING DEMOSAICED IMAGES 
+
+mayank4.xml
+<<title>>
+Title : Hot Topics in CHI:  
+
+ayush_1.xml
+<<title>>
+Title : Horn–Schunck optical ﬂow applied to deformation measurement of a birdlike airfoil 
+
+manvi17.xml
+
+sidhartha24tick.xml
+<<title>>
+Title : Online Sum-Product Computation over Trees 
+
+sidhartha19tick.xml
+<<title>>
+Title : Building change detection in satellite stereo imagery based on belief functions 
+
+barno2.xml
+<<title>>
+Title : Probabilistic Forecasts of Bike-Sharing Systems for Journey Planning 
+
+Rohith1995.xml
+<<title>>
+Title : A Focus+Context Technique Based on Hyperbolic Geometry for Visualizing Large Hierarchies. 
+
+manvi8.xml
+<<title>>
+Title : Semantic Cross-View Matching 
+
+tulasi5.xml
+<<title>>
+Title : Inferring the cause of errors for a scalable, accurate, and complete constraint-based data cleansing Ayako Hoshino Kenshi Nishimura 
+
+manvi9.xml
+<<title>>
+Title : Classifying Remote Sensing Image Using Gene Expression Programming Algorithms 
+
+sidhartha16.xml
+<<title>>
+Title :  Texture Classiﬁcation: Are Filter Banks Necessary?  Manik Varma Andrew Zisserman  Robotics Research Group Robotics Research Group Dept. of Engineering Science Dept. of Engineering Science  
+
+ayush_4.xml
+<<title>>
+Title : Understand assumptions and know uncertainties: Boscovich and the motion of the Earth 
+
+tulasi6.xml
+<<title>>
+Title : Production and global transport of Titan’s 
+
+tulasi20.xml
+<<title>>
+Title : Induction of Decision Trees 
+
+mayank2.xml
+<<title>>
+Title : A Case Study: Leverage IEEE 1687 based Method to Automate Modeling, Verification, and Test Access for Embedded Instruments in a Server Processor 
+
+ayush7.xml
+<<title>>
+Title : A LARGE-SCALE SOLAR IMAGE DATASET WITH LABELED EVENT REGIONS 
+
+manvi18.xml
+<<title>>
+Title : Layer Antiferromagnetic State in Bilayer Graphene : A First-Principle Investigation 
+
+manvi11.xml
+<<title>>
+Title : Case Reports in Women's Health 
+
+sidhartha4tick.xml
+<<title>>
+Title : Topological chaos and chaotic iterations Application to Hash functions 
+
+manvi19.xml
+<<title>>
+Title : A Discriminative Graph-Based Parser Abstract Meaning Representation Language Technologies Institute Carnegie Mellon University 
+
+manvi21.xml
+<<title>>
+Title : Fast Restart in Database Systems 
+
+Rohith5.xml
+<<title>>
+Title : Semantic Parsing via Paraphrasing Jonathan Berant  Percy Liang  
+
+Rohith14.xml
+<<title>>
+Title : On the Generalization Ability of Online Learning Algorithms for Pairwise Loss Functions 
+
+manvi5.xml
+<<title>>
+Title : Object Proposals for Accurate Object Class Detection 
+
+sidhartha9tick.xml
+<<title>>
+Title : The Acousticvisual Emotion Guassians Model for Automatic Generation of Music Video 
+
+manvi12.xml
+<<title>>
+Title : Single DNG Interface Makes a Better Perfect Lens 
+
+sidhartha8tick.xml
+<<title>>
+Title : Exploiting the Entire Feature Space with Sparsity for Automatic Image Annotation 
+
+samuel3.xml
+<<title>>
+Title : High eﬃciency positron accumulation for high-precision magnetic moment experiments 
+
+sidhartha18tick.xml
+<<title>>
+Title : Estimating Illumination Direction from Textured Images 
+
+samuel2.xml
+<<title>>
+Title : Authentication in Distributed Systems: Theory and Practice 
+
+mayank3.xml
+<<title>>
+Title : Diﬀerentially Private Learning with Kernels 
+
+tulasi7.xml
+<<title>>
+Title : Unsupervised Change Detection in Multitemporal Multispectral Satellite Images Using Parallel Particle Swarm Optimization 
+
+elsevier6.xml
+<<title>>
+Title : The eﬀect of some factors on stimulating the growth and production of active substances in Zingiber oﬃcinale callus cultures 
+
+mayank5.xml
+<<title>>
+Title : Change Detection Based on Pulse-Coupled Neural Networks and the NMI Feature for High Spatial Resolution Remote Sensing Imagery 
+
+manvi16.xml
+<<title>>
+Title : Change Detection of Multi-temporal Remote Sensing Data Using Wavelet-based Fusion and K-Means Clustering 
+
+sidhartha20tick.xml
+<<title>>
+Title : New Research Directions in Knowledge Discovery and Allied Spheres 
+
+tulasi12.xml
+<<title>>
+Title : (1,7,4) Data hiding scheme for searching in hidden text with 
+
+samuel6.xml
+<<title>>
+Title : Remote sensing image-based analysis of the relationship between urban heat island and land use/cover changes 
+
+sidhartha3tick.xml
+<<title>>
+Title : arXiv:1511.06726v1 [cs.AR] 20 Nov 2015 
+
+samuel7.xml
+<<title>>
+Title : SAR Image Change Detection Based on Iterative Label-Information Composite Kernel Supervised by Anisotropic Texture 
+
+tulasi15.xml
+<<title>>
+Title : Models of Semantic Representation with Visual Attributes Carina Silberer 
+
+Rohith8.xml
+<<title>>
+Title : Optimizing Panchromatic Image Change Detection Based on Change Index Multiband Image Analysis 
+
+Rohith15.xml
+<<title>>
+Title : On Generating High Quality Tests Based on Cell Functions 
+
+sidharthatick1999ieee.xml
+<<title>>
+Title : Magnetism from Conductors and Enhanced Nonlinear Phenomena 
+
+sidhartha13.xml
+<<title>>
+Title : Fast Image Search for Learned Metrics 
+
+matter5.xml
+<<title>>
+Title : Eﬀective complex permittivity tensor of a periodic array of cylinders Yuri A. Godin Department of Mathematics and Statistics, University of North Carolina at Charlotte, Charlotte, 
+
+tulasi16.xml
+<<title>>
+Title : Unsupervised Change Detection in Satellite Images Using Principal Component Analysis 
+
+manvi20.xml
+<<title>>
+Title : Development of a Smart Grid Simulation Environment 
+
+ayush5.xml
+<<title>>
+Title : RELAXED LOCAL TERNARY PATTERN FOR FACE RECOGNITION 
+
+tulasi17.xml
+<<title>>
+Title : Low-rank Matrix Completion using Alternating Minimization 
+
+sidhartha1tick.xml
+<<title>>
+Title : arXiv:1511.00367v1 [cs.DB] 2 Nov 2015 
+
+samuel18.xml
+<<title>>
+Title : Can perfluoroalkyl acids biodegrade in the rumen simulation technique (RUSITEC)? 
+
+10.1.1.123.1085.xml
+<<title>>
+Title : The Entity-Relationship Model-Toward a Unified View of Data 
+
+ayush10.xml
+<<title>>
+Title : Addendum to EMNLP 2011 Paper “Closing the Loop...” 
+
+ayush11.xml
+<<title>>
+Title : Diffusion in Social and Information Networks: Research Problems, Probabilistic Models & Machine Learning Methods 
+
+samuel19.xml
+<<title>>
+Title : From conduction to convection of thermally relativistic ﬂuids between two parallel walls under gravitational force 
+
+manvi1.xml
+<<title>>
+Title : SelﬁeBoost: A Boosting Algorithm for Deep Learning 
+
+sidhartha2tick.xml
+<<title>>
+Title : Seventh Workshop on Exploiting Semantic Annotations in Information Retrieval (ESAIR’14) 
+
+samuel15.xml
+<<title>>
+Title : Errata for SIGCOMM CCR (Vol. 44, Issue 1, January, 2014) Estimating Internet Address Space Usage through Passive Measurements 
+
+Rohith9.xml
+<<title>>
+Title : Fast and Robust Neural Network Joint Models for Statistical Machine Translation 
+
+Rohith12.xml
+<<title>>
+Title : Improving sparse word similarity models with asymmetric measures Jean Mark Gawron  
+
+ayush_2.xml
+<<title>>
+Title : Universal Matrix Completion 
+
+tulasi9.xml
+<<title>>
+Title : Geothermal exploration in Gujarat: case study from Dholera 
+
+tulasi3.xml
+<<title>>
+Title : Disconnected Operation in the Coda File System 
+
+samuel5.xml
+<<title>>
+Title : GPU Accelerated Elevation Map based Registration of Aerial Images 
+
+mayank1.xml
+<<title>>
+Title : UNSUPERVISED FEATURE LEARNING TEMPO- DATA 
+
+manvi13.xml
+<<title>>
+Title : NIPS 2013 [1] 

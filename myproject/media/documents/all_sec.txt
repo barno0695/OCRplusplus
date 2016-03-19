@@ -1,0 +1,4607 @@
+
+Rohith19.xml
+<<section>>
+Chunks: Paper 2.2 INTERNATIONAL TEST CONFERENCE ... of Technology 60-965 Poznan, Poland
+<<section>>
+Heading: Abstract 
+Chunks: The introduction of FinFET technology ... 1-cycle and 2-cycle cell-aware patterns.
+<<section>>
+Heading: 1. Introduction 
+Chunks: Contemporary automatic test pattern generation ... counts can be reduced remarkably.
+<<section>>
+Heading: 2. Preliminaries 
+Chunks: Although our goal is to ... at the most appropriate locations.
+<<section>>
+Heading: 3. Fault blocking 
+Chunks: Internal conflicts can be quantified ... due to alternative propagation routes.
+<<section>>
+Heading: 4. Internal conflicts 
+Chunks: Consider now the circuit shown ... = F x 0 .
+<<section>>
+Heading: 5. Test points insertion 
+Chunks: Before we proceed to discuss ... either disal- lowed or restored.
+<<section>>
+Heading: 6. Experimental results 
+Chunks: The new test point insertion ... should not be considered exact.
+<<section>>
+Heading: 7. Conclusion 
+Chunks: In this paper, we have ... deployed in contemporary nanometer designs.
+<<section>>
+Heading: 8. References 
+
+sidhartha23tick.xml
+<<section>>
+Chunks: CIKM WORKSHOP REPORT Report on ... and outlines the major outcomes.
+<<section>>
+Heading: 1 Introduction 
+Chunks: In the past few years ... (in conjunction with anonymization, etc.).
+<<section>>
+Heading: 3 Presented Papers 
+Chunks: The next session consisted of ... and increased rates of participation.
+<<section>>
+Heading: 4 Presented Demos 
+Chunks: There were three demos presented ... guidelines that are universally accepted.
+<<section>>
+Heading: 6 Conclusions 
+Chunks: Overall, the workshop was an ... mature over the coming years.
+<<section>>
+Heading: 7 Acknowledgements 
+Chunks: We are grateful for the ... been the success it was.
+<<section>>
+Heading: References 
+
+ayush_3.xml
+<<section>>
+
+manvi7.xml
+<<section>>
+Chunks: arXiv:1511.06397v1 [cs.CL] 19 Nov 2015 ... equivalent representation with better interpretability.
+<<section>>
+Heading: 1 INTRODUCTION 
+Chunks: Distributed representations of words have ... of Mikolov et al. (2013).
+<<section>>
+Heading: 2 APPROACHES TO COMPRESSION 
+Chunks: The GloVe embeddings are produced ... of the embedding element distributions
+<<section>>
+Heading: 2.1 REAL-VALUED ENCODINGS 
+Chunks: Since the embeddings arrive as ... each element of the representation.
+<<section>>
+Heading: 2.2 BINARY ENCODINGS 
+Chunks: Even though the methods in ... on this exact matching task.
+<<section>>
+Heading: 2 Available for download at http://www-nlp.stanford.edu/projects/glove/ 
+Chunks: 4 Under review as a ... from the word analogy task.
+<<section>>
+Heading: 3.1 BASIC METHODS 
+Chunks: Also in Figure 2 are ... compared to simple compressed versions
+<<section>>
+Heading: 3.2 QUANTISATION ENCODINGS : LINEAR, NEAR-LINEAR AND ADAPTIVE 
+Chunks: The results of the quantisation ... only 3-bits resolution per element.
+<<section>>
+Heading: 3.3 BINARY ENCODINGS 
+Chunks: 3.3.1 QUASI AUTO-ENCODING TRAINING Figure ... binary embeddings raw 4 DISCUSSION
+<<section>>
+Heading: 4.1 LEVEL QUANTISATION VS. MORE SOPHISTICATED METHODS 
+Chunks: The level-quantisation approaches to compression ... conference paper at ICLR 2016
+<<section>>
+Heading: 4.2 BINARY PCA OBSERVATIONS 
+Chunks: The original motivation for searching ... original embedding with high fidelity.
+<<section>>
+Heading: 4.3 BINARY ENCODINGS FOR INTERPRETABILITY 
+
+Rohith18.xml
+<<section>>
+Chunks: Paper 17.2 INTERNATIONAL TEST CONFERENCE ... boundary scan test, time-to-digital converter.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: everal types of electronic devices ... in Section 5 we conclude.
+<<section>>
+Heading: II. PRELIMINARIES 
+<<section>>
+Heading: A. Baseline Approach for Transition-Time Monitoring 
+Chunks: We review the basic concept ... of a Transition-Time Monitor (TT-monitor).
+<<section>>
+Heading: B. Design-for-Testability Circuitry 
+Chunks: The circuit block diagram of ... circuitry of a TT-monitor [12].
+<<section>>
+Heading: C. Process Calibration 
+Chunks: Due to the process variation ... alarm a timing failure threat.
+<<section>>
+Heading: III. DELAY MONITORING OF LONG INTERCONNECTS 
+Chunks: Apply the above mentioned baseline ... technique to overcome this issue.
+<<section>>
+Heading: A. Problem of A TT-Monitor for Long Interconnects 
+Chunks: The complexity of a TT-monitor ... in the physical design process.
+<<section>>
+Heading: B. Architecture of Distributed TT-Monitor 
+Chunks: To resolve the above issue, ... interconnects using a distributed TDC.
+<<section>>
+Heading: C. Circuit of a Monitor Slice 
+Chunks: In this work, we adopt ... of the current TDC slice
+<<section>>
+Heading: D. Operations 
+Chunks: The overall operation of a ... have been removed for simplicity).
+<<section>>
+Heading: E. Miscellaneous Issues 
+Chunks: There are a few other ... MUX cell a small-big cascade.
+<<section>>
+Heading: 1 X1 
+Chunks: X1 X2 X2 X1 larger ... A pulse-shrinking MUX with repeater.
+<<section>>
+Heading: 1 X1 
+Chunks: X1 X2 To the next ... 17.2 INTERNATIONAL TEST CONFERENCE 7
+<<section>>
+Heading: F. Complete Circuit of a Monitor Slice 
+Chunks: A complete monitor slice including ... circuit for a monitor slice.
+<<section>>
+Heading: IV. EXPERIMENTAL RESULTS 
+Chunks: In this section, we use ... their correlations with interconnect delays.
+<<section>>
+Heading: A. TDC resolution 
+Chunks: As mentioned previously that the ... 17.2 INTERNATIONAL TEST CONFERENCE 8
+<<section>>
+Heading: B. Process Variation and Its Calibration Strategy 
+Chunks: The resolution of a TDC ... we described in Section II.
+<<section>>
+Heading: C. Area Overhead 
+Chunks: By using the proposed method, ... Cell 49.44 (m 2 )
+<<section>>
+Heading: V. CONCLUSION 
+Chunks: Transition-time monitoring has been emerging ... design process can be easier.
+<<section>>
+Heading: REFERENCES 
+
+ayush9.xml
+<<section>>
+Chunks: Accepted as a workshop contribution ... (KTH), 100 44 Stockholm, Sweden
+<<section>>
+Heading: 1 EXTENDED ABSTRACT 
+Chunks: This work presents simple pipelines ... cloud (Quack et al., 2004).
+<<section>>
+Heading: 2 RESULTS SUMMARY 
+Chunks: To evaluate our model, we ... workshop contribution at ICLR 2015
+<<section>>
+Heading: REFERENCES 
+
+samuel13.xml
+<<section>>
+Chunks: On Technology Transfer George Varghese ... Deficit Round Robin to Conga.
+<<section>>
+Heading: 1. DEFICIT ROUND ROBIN 
+Chunks: Deficit Round Robin (DRR) began ... serving favor, beyond our control.
+<<section>>
+Heading: 2. IP LOOKUPS 
+Chunks: Around the same time, IP ... interaction was crucial and instructive.
+<<section>>
+Heading: 3. NETSIFT AND CONGA 
+Chunks: After research in worm detection ... industry is the simplest route.
+<<section>>
+Heading: 4. CONCLUSION 
+
+Rohiththriplecolumn.xml
+<<section>>
+Chunks: A three-dimensional mirror augmented by ... at the limit of intimacy
+<<section>>
+Heading: Abstract 
+
+barno1.xml
+<<section>>
+Chunks: Comparison of Methods for Counting ... determined using the differential method.
+<<section>>
+Heading: 4 A.I. Myslenkov, D.G. Miquelle / Achievements in the Life Sciences 9 (2015) 18 
+Chunks: The results of the counts ... routes length = 1314.4 km).
+<<section>>
+Heading: 6 A.I. Myslenkov, D.G. Miquelle / Achievements in the Life Sciences 9 (2015) 18 
+Chunks: case, higher by 50%, and ... the density of hoofed animals.
+<<section>>
+Heading: References 
+Chunks: Formozov, A.N., 1932. The formula ... four species of hoofed animals.
+<<section>>
+Heading: 8 A.I. Myslenkov, D.G. Miquelle / Achievements in the Life Sciences 9 (2015) 18 
+
+tulasi19.xml
+<<section>>
+Chunks: The Program Dependence Graph and ... Its Use in Optimization 321
+<<section>>
+Heading: 2. RELATED WORK 
+Chunks: Much related work has been ... l J. Ferrante et al.
+<<section>>
+Heading: 3. THE PROGRAM DEPENDENCE GRAPH 
+Chunks: The PDG represents a program ... PDG and some practical considerations.
+<<section>>
+Heading: 3.1 Control Dependence 
+Chunks: In this section, we define ... to easily generate sequential code.
+<<section>>
+Heading: 3.2 Data Dependence 
+Chunks: 3.2.1 Determining Data Dependence. The ... be helfpul in obtaining them.
+<<section>>
+Heading: 3.3 Alternative Versions of the PDG 
+Chunks: A variety of views of ... both control and data dependence.
+<<section>>
+Heading: 3.4 Practical Considerations 
+Chunks: The amount of space required ... an equivalent triples represen- tation.
+<<section>>
+Heading: 4. SOME APPLICATIONS OF THE PDG 
+Chunks: This section gives a sample ... this kind of program representation.
+<<section>>
+Heading: 4.1 Detection of Parallelism 
+Chunks: The vectorization algorithms of [41] ... as in [41] and [28].
+<<section>>
+Heading: 4.2 Node Splitting 
+Chunks: Node Splitting refers to the ... process called procedure integration [5].
+<<section>>
+Heading: 4.3 Code Motion 
+Chunks: The PDG allows powerful transformations, ... is outlined in [ 211.
+<<section>>
+Heading: 4.4 Loop Fusion 
+Chunks: The hierarchical PDG is the ... in terms of data dependence.
+<<section>>
+Heading: 4.5 Slicing 
+Chunks: The PDG is also useful ... obtained with earlier methods [54].
+<<section>>
+Heading: 5. INCREMENTAL DATA FLOW UPDATE AND INCREMENTAL OPTIMIZATION 
+Chunks: The update of data flow ... dependences within the remaining loop.
+<<section>>
+Heading: 5.1 Branch Deletion 
+Chunks: The control dependence update in ... only save time during abstraction.
+<<section>>
+Heading: 5.2 Loop Peeling and Unrolling 
+Chunks: Loop peeling involves duplicating the ... do not discuss them here.
+<<section>>
+Heading: 6. SUMMARY AND FUTURE WORK 
+
+phy1.xml
+<<section>>
+Chunks: COMMUNITY DETECTION IN TEMPORAL MULTILAYER ... 6 contains a concluding discussion.
+<<section>>
+Heading: 2. Single-layer modularity maximization. 
+Chunks: 2.1. The modularity function. Consider ... matrix for an association matrix
+<<section>>
+Heading: 3 For 
+Chunks: + , one can show ... (i, j)k i / [37].
+<<section>>
+Heading: 3. Multilayer modularity maximization. 
+Chunks: 3.1. Multilayer representation of temporal ... partitions obtained with = 0.
+<<section>>
+Heading: 5.1. Toy examples. 
+
+sidhartha17tick.xml
+<<section>>
+Chunks: LIVE VIDEO SYNOPSIS FOR MULTIPLE ... Hebrew University of Jerusalem, Israel
+<<section>>
+Heading: ABSTRACT 
+Chunks: Video surveillance cameras generate most ... Video Synopsis, Multi Camera Synopsis
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: Surveillance cameras are installed everywhere, ... can aid live decision making.
+<<section>>
+Heading: 2. RELATED WORK 
+Chunks: Much work has been done ... work which is object based.
+<<section>>
+Heading: 3. LIVE VIDEO SYNOPSIS (LVS) 
+Chunks: The generation of LVS consists ... 3.2), and Display (Sec. 3.3).
+<<section>>
+Heading: 3.1. Video Preprocessing 
+Chunks: Before selecting the Slave action ... often given probabilistically e.g. [22].
+<<section>>
+Heading: 3.2. Slave Action Tube Selection 
+Chunks: In this section we assume ... } in slave view v.
+<<section>>
+Heading: 3.3. Synopsis Display of Slave Cameras 
+Chunks: LVS is now generated for ... can be seen at: http://www.vision.huji.ac.il/syncvid/
+<<section>>
+Heading: 4. EXPERIMENTS 
+Chunks: We present frames from two ... the object across the scene.
+<<section>>
+Heading: 5. CONCLUDING REMARKS 
+Chunks: Live video synopsis is a ... and by Israel Science Foundation.
+<<section>>
+Heading: 6. REFERENCES 
+
+manvi15.xml
+<<section>>
+Chunks: Unsupervised Land-Use Classification of Multispectral ... Classification of Multispectral Satellite Images.
+<<section>>
+Heading: A Comparison of Conventional and Fuzzy-Logic Based Clustering Algorithms. 
+Chunks: Tanja Duda and Morton Canty ... clusters remains a difficult one.
+<<section>>
+Heading: REFERENCES 
+
+samuel1.xml
+<<section>>
+Chunks: 2n d Mediterranean Coriference on ... of Tirana Tirana, Albania mirgita.frasheri@gmail.com
+<<section>>
+Heading: Abstract 
+Chunks: - The analysis of climatic ... image processing, multicore, geographic area.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: Parallel computing hardware architectures (such ... the stability of the system.
+<<section>>
+Heading: II. METHOD 
+<<section>>
+Heading: A. CHERS and the trend analysis/unction 
+Chunks: In this section a detailed ... (k is the force constant):
+<<section>>
+Heading: B. The modified CHERS Algorithm 
+Chunks: The algorithm of CHERS is ... Figure 1. Modified CHERS algorithm
+<<section>>
+Heading: C. Experimental Cases 
+Chunks: The environmental parameter under study ... sizes: l.3MB. 5.1MB and 1l.5MB.
+<<section>>
+Heading: D. Platforms 
+Chunks: We have tested Cuda in ... 65535 x 65535 x 1
+<<section>>
+Heading: III. CUDA IMPLEMENTATION 
+<<section>>
+Heading: A. Parallelization using Cuda 
+Chunks: Cuda is used only when ... continues sequentially till the end.
+<<section>>
+Heading: IV. TEST RESULTS 
+<<section>>
+Heading: A. Results and pelformance consideration 
+Chunks: In this subsection the test ... to better exploit their capacity.
+<<section>>
+Heading: REFERENCES 
+
+Rohith17.xml
+<<section>>
+Chunks: Paper 3.3 INTERNATIONAL TEST CONFERENCE ... measured in a pre-production IC.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: Design for test (DfT) of ... steps, and Section VII concludes.
+<<section>>
+Heading: II. PREVIOUS WORK ON ANALOG FAULT SIMULATORS 
+Chunks: Many analog fault simulators have ... 3. Realistic defects in sche
+<<section>>
+Heading: A. Layout-based defects 
+Chunks: As mentioned, a parasitic ca ... segment caused during wafer fabrication.
+<<section>>
+Heading: B. Schematic-based defects 
+Chunks: Traditionally, six defects are injected ... of analog circuit simulation time.
+<<section>>
+Heading: IV. DECREASING SIMULATION TIME 
+Chunks: We used multiple independent techniques ... of the techniques in turn.
+<<section>>
+Heading: A. Random sampling 
+Chunks: We have already described the ... also sufficient for >>25000 defects).
+<<section>>
+Heading: B. Higher-level models 
+Chunks: A commonly used simulation acceleration ... Verilog/ VHDL-AMS, SystemVerilog, and SystemC.
+<<section>>
+Heading: C. Stop-on-detection 
+Chunks: The defect simulator first simulates ... so speedup is about 2X.
+<<section>>
+Heading: D. Parallel simulation 
+Chunks: Simulation on multiple CPU cores ... to simulate the next defect.
+<<section>>
+Heading: E. Eliminating undetectable defects 
+Chunks: In layout-extracted circuits, we found ... example of DfT improving coverage.
+<<section>>
+Heading: F. Simulation-efficient testbenches 
+Chunks: While it is preferable to ... the technique, such as [22].
+<<section>>
+Heading: G. Reusing initial DC values from defect-free circuit 
+Chunks: For some circuits, a significant ... reduced significantly. Paper 3.3 IN
+<<section>>
+Heading: H. The combined effect of all speedup techniq 
+Chunks: Table I shows the effect ... good circuit Parallel simulation Total
+<<section>>
+Heading: V. RESULTS FOR AN INDUSTRIAL C 
+Chunks: To use the analog defect ... Lastly, the entire top- simulated.
+<<section>>
+Heading: VI. DISCUSSION 
+Chunks: We have shown that even ... two out of those three.
+<<section>>
+Heading: VII. CONCL 
+
+PalodOld.xml
+<<section>>
+Chunks: Science, 149(3683) : 510-515, July ... 1880 1900 I920 1940 Fig.
+<<section>>
+Heading: 4. Percentages (relative 
+
+phy3.xml
+<<section>>
+Chunks: arXiv:1501.00021v1 [physics.med-ph] 30 Dec 2014 ... A. Anastasio, Senior Member, IEEE
+<<section>>
+Heading: Abstract 
+Chunks: Ultrasound computed tomography (USCT) holds ... Source encoding, Sound speed imaging
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: After decades of research [1][4], ... a discussion in Section VII.
+<<section>>
+Heading: II. BACKGROUND: USCT IMAGING MODELS 
+Chunks: In this section, imaging models ... waveform inversion-based USCT are reviewed.
+<<section>>
+Heading: A. USCT imaging model in its continuous form 
+Chunks: Although a digital imaging system ... t)} M 1 m=0 .
+<<section>>
+Heading: B. USCT imaging model in its discrete forms 
+Chunks: A digital imaging system is ... WITH SOURCE ENCODING FOR USCT
+<<section>>
+Heading: A. Sequential waveform inversion in its discrete form 
+Chunks: A conventional waveform inversion method ... equation solver runs per iteration.
+<<section>>
+Heading: B. Stochastic optimization-based waveform inversion with source encoding (WISE) 
+Chunks: In order to alleviate the ... being either +1 or 1.
+<<section>>
+Heading: IV. DESCRIPTION OF COMPUTER-SIMULATION STUDIES 
+Chunks: Two-dimensional computer-simulation studies were conducted ... standard sequential waveform inversion method.
+<<section>>
+Heading: A. Measurement geometry 
+Chunks: A circular measurement geometry was ... were identical for all acquisitions.
+<<section>>
+Heading: B. Numerical breast phantom 
+Chunks: A numerical breast phantom of ... was of diameter 3.75 mm.
+<<section>>
+Heading: C. Simulation of the measurement data 
+Chunks: 1) First-order numerical wave equation ... acquisition is shown Fig. 4.
+<<section>>
+Heading: D. Image reconstruction 
+Chunks: 1) Second-order pseudospectral k-space method: ... are provided in Appendix C.
+<<section>>
+Heading: V. COMPUTER-SIMULATION RESULTS 
+<<section>>
+Heading: A. Images reconstructed from idealized data 
+Chunks: The images reconstructed from the ... significantly reducing the computational time.
+<<section>>
+Heading: B. Convergence of the WISE method 
+Chunks: Images reconstructed from noise-free, non-attenuated, ... January 5, 2015 DRAFT 18
+<<section>>
+Heading: C. Images reconstructed from non-attenuated data containing noise 
+Chunks: Images reconstructed by use of ... the sequential waveform inversion method.
+<<section>>
+Heading: D. Images reconstructed from acoustically attenuated data 
+Chunks: Our current implementation of the ... regards to feature detection tasks.
+<<section>>
+Heading: E. Images reconstructed from idealized incomplete data 
+Chunks: The wavefront of the noise- ... laser-induced USCT imaging systems [13][15].
+<<section>>
+Heading: VI. EXPERIMENTAL VALIDATION 
+<<section>>
+Heading: A. Data acquisition 
+Chunks: Experimental data recorded by use ... the phantom object was absent.
+<<section>>
+Heading: B. Data pre-processing 
+Chunks: 48 bad channels were manually ... our second-order wave equation solver.
+<<section>>
+Heading: C. Estimation of excitation pulse 
+Chunks: The shape of the excitation ... pulse shown in Fig. 3.
+<<section>>
+Heading: D. Synthesis of combined data 
+Chunks: As discussed in Section IV-C4, ... is displayed in Fig. 18-(b).
+<<section>>
+Heading: E. Estimation of initial guess 
+Chunks: The initial guess for the ... standard deviation of 2 mm.
+<<section>>
+Heading: F. Image reconstruction 
+Chunks: We applied the WISE method ... impact on the reconstructed images.
+<<section>>
+Heading: G. Images reconstructed from experimental data 
+Chunks: As shown in Fig. 19, ... use of the WISE method.
+<<section>>
+Heading: VII. SUMMARY 
+
+ayush4.xml
+<<section>>
+Chunks: See discussions, stats, and author ... emotion recognition; Personality com- puting
+<<section>>
+Heading: 1. MOTIVATION 
+Chunks: In 2006, Jaimes et al. ... non-verbal signals that are gener-
+<<section>>
+Heading: H. Hung and H.Gunes contributed equally to this tutorial. 
+Chunks: Permission to make digital or ... prior to attending the tutorial.
+<<section>>
+Heading: 2. AIM 
+Chunks: This tutorial is aimed at ... of where pitfalls can be.
+<<section>>
+Heading: 3. OUTLINE 
+Chunks: The half-day tutorial on Analysis ... a result of the tutorial.
+<<section>>
+Heading: 4. BIOGRAPHIES 
+Chunks: Hatice Gunes is a Senior ... outstanding reviewer at ICME 2014.
+<<section>>
+Heading: 5. REFERENCES 
+
+samuel1995.xml
+<<section>>
+Chunks: Machine Learning, 20, 273-297 (1995) ... basis function classifiers, polynomial classifiers.
+<<section>>
+Heading: 1. Introduction 
+Chunks: More than 60 years ago ... by comparison to Fig. 1.
+<<section>>
+Heading: 2. Optimal Hyperplanes 
+Chunks: In this section we review ... errors on the training set.
+<<section>>
+Heading: 2.1. The Optimal Hyperplane Algorithm 
+Chunks: The set of labeled training ... separation between the two classes.
+<<section>>
+Heading: 3. The Soft Margin Hyperplane 
+Chunks: Consider the case where the ... the dual quadratic programming problem.
+<<section>>
+Heading: 4. The Method of Convolution of the Dot-Product in Feature Space 
+Chunks: The algorithms described in the ... (18)) one uses the matrix
+<<section>>
+Heading: 5. General Features of Support-Vector Networks 
+Chunks: 5.1. Constructing the Decision Rules ... solved using any standard techniques.
+<<section>>
+Heading: 5.2. The Support-Vector Network is a Universal Machine 
+Chunks: By changing the function K ... the form of the dot-product.
+<<section>>
+Heading: 5.3. Support- Vector Networks and Control of Generalization Ability 
+Chunks: To control the generalization ability ... ability of the learning machine.
+<<section>>
+Heading: 6. Experimental Analysis 
+Chunks: To demonstrate the support-vector network ... real-life problem of digit recognition.
+<<section>>
+Heading: 6.1. Experiments in the Plane 
+Chunks: Using dot-products of the form ... of training patterns are small.
+<<section>>
+Heading: 6.2. Experiments with Digit Recognition 
+Chunks: Our experiments for constructing support-vector ... about the problem at hand.
+<<section>>
+Heading: 7. Conclusion 
+Chunks: This paper introduces the support-vector ... powerful and universal learning machine.
+<<section>>
+Heading: A. Constructing Separating Hyperplanes 
+Chunks: In this appendix we derive ... and Technology, Special Database 3.
+<<section>>
+Heading: References 
+
+manvi4.xml
+<<section>>
+Chunks: IEEE GEOSCIENCE AND REMOTE SENSING ... spatial displacement, unsupervised change detection.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: C HANGE detection in satellite ... to increase the detection accuracy.
+<<section>>
+Heading: II. IMPLEMENTATION OF THE PROPOSED ALGORITHM 
+Chunks: The workflow of our algorithms ... change (time t 2 ).
+<<section>>
+Heading: A. Generation of Cross-Sharpened Images 
+Chunks: In this letter, we propose ... of cross-sharpened images [12], [13].
+<<section>>
+Heading: B. Multitemporal Image Segmentation 
+Chunks: In this letter, the multitemporal-object ... feature object boundaries as possible.
+<<section>>
+Heading: C. Determination of the Changed Area Using Change Detection Indexes 
+Chunks: In this letter, the feature ... in the change detection indexes.
+<<section>>
+Heading: III. EXPERIENTIAL RESULTS 
+Chunks: For this study, two data ... effect by different nadir angles.
+<<section>>
+Heading: IV. CONCLUSION 
+Chunks: In this letter, an unsupervised ... the 2012 Data Fusion Contest.
+<<section>>
+Heading: REFERENCES 
+
+sidhartha22tick.xml
+<<section>>
+Chunks: AVEC 2015 The 5th International ... Behaviour Understanding Group London, UK
+<<section>>
+Heading: ABSTRACT 
+Chunks: The fifth Audio-Visual Emotion Challenge ... Keywords Affective Computing, Multimodality, Challenge
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: This years Audio-Visual Emotion Challenge ... AVEC 2015 into reality. 1335
+<<section>>
+Heading: 2. PARTICIPATION 
+Chunks: The call for participation and ... area of multimodal emotion recognition.
+<<section>>
+Heading: 3. CHALLENGE CONDITIONS 
+Chunks: A baseline paper explaining the ... valence, independently of their submission.
+<<section>>
+Heading: 4. PROGRAM AND COMMITTEE 
+Chunks: The workshop is a full-day ... Imperial College Lon- don, UK.
+<<section>>
+Heading: Acknowledgments 
+Chunks: The research leading to these ... responsibility lies with the authors.
+<<section>>
+Heading: 5. REFERENCES 
+
+Rohith3.xml
+<<section>>
+Chunks: This article has been accepted ... network, synthetic aperture radar (SAR).
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: I MAGE change detection is ... with the exception of pagination.
+<<section>>
+Heading: 2 IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS 
+Chunks: field. Just a few works ... is drawn in Section V.
+<<section>>
+Heading: II. PROBLEM STATEMENTS AND ALGORITHM FRAMEWORK 
+Chunks: The two coregistered intensity SAR ... is shown in Fig. 3.
+<<section>>
+Heading: III. METHODOLOGY 
+<<section>>
+Heading: A. Preclassification and Sample Selection 
+Chunks: To avoid generating a DI, ... ON DEEP NEURAL NETWORKS 5
+<<section>>
+Heading: B. Deep Neural Network Establishment 
+Chunks: Training a deep neural network ... represents the pixel being unchanged.
+<<section>>
+Heading: C. Feature Analysis and Denoising 
+Chunks: Therefore, what features do the ... image. Therefore, examples are needed.
+<<section>>
+Heading: IV. EXPERIMENTAL STUDY 
+<<section>>
+Heading: A. Introduction to Data Sets 
+Chunks: The Ottawa data set is ... the changes on the surface.
+<<section>>
+Heading: B. Evaluation Criteria 
+Chunks: The quantitative analysis of change ... with the exception of pagination.
+<<section>>
+Heading: 8 IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS 
+Chunks: Fig. 14. Change detection results ... + TN) 2 . (16)
+<<section>>
+Heading: C. Performance of the Preclassification and Sample Selection 
+Chunks: The first set of experiments ... fine-tuning of deep neural network.
+<<section>>
+Heading: D. Performance of the Deep Learning Method 
+Chunks: The second set of experiments ... with the exception of pagination.
+<<section>>
+Heading: 10 IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS 
+Chunks: Fig. 20. Change detection results ... network with a 50-250-1 architecture.
+<<section>>
+Heading: E. Flexibility of the Proposed Deep Learning Algorithm 
+Chunks: The third set of experiments ... with the exception of pagination.
+<<section>>
+Heading: 12 IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS 
+Chunks: Fig. 28. Change detection results ... the proposed method is applicative.
+<<section>>
+Heading: V. CONCLUSION 
+Chunks: This paper has presented a ... or come from different sensors.
+<<section>>
+Heading: REFERENCES 
+Chunks: [1] Y. Bazi, L. Bruzzone, ... with the exception of pagination.
+<<section>>
+Heading: 14 IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS 
+
+sidhartha14.xml
+<<section>>
+Chunks: ChaLearn Looking at People 2015 ... can be found at http://gesture.chalearn.org/.
+<<section>>
+Heading: 1. Introduction 
+Chunks: The automatic analysis of the ... obtaining a value of 0.59.
+<<section>>
+Heading: 4.2. Evaluation procedure for cultural event track 
+Chunks: For the cultural event track, ... the rest of this section.
+<<section>>
+Heading: 5.1. Action/Interaction recognition methods 
+Chunks: MMLAB: This method is an ... parame- ter and grammar configurations.
+<<section>>
+Heading: 5.2. Cultural event recognition methods 
+Chunks: MMLAB: This method fuses five ... the Cultural Event Recognition track.
+<<section>>
+Heading: References 
+
+samuel17.xml
+<<section>>
+Chunks: De Sio et al. Micro ... 5,6 and Roberto Bartolino 2,4,7
+<<section>>
+Heading: Abstract 
+
+samuel9.xml
+<<section>>
+Chunks: Generative Communication in Linda DAVID ... are discussed elsewhere [ 131.
+<<section>>
+Heading: 2. PART I: GENERATIVE COMMUNICATION 
+Chunks: A Linda program is a ... present a series of examples.
+<<section>>
+Heading: 2.1 Simple out(), in( ), and read0 
+Chunks: 2.1.1 Preliminary: The Type name. ... anywhere else in the program.
+<<section>>
+Heading: 2.2 Structured Naming 
+Chunks: Let +t refer to any ... status is returned (Figure 6).
+<<section>>
+Heading: 2.5 Examples with Structured Names 
+Chunks: 2.5.1 Conversational Continuity: Structured Naming. ... is given in the Appendix.
+<<section>>
+Heading: 2.6 Examples Using read0 
+Chunks: 2.6.1 Global Variables: Distributed Sharing. ... seen it are stuck forever.)
+<<section>>
+Heading: 2.7 Time Uncoupling, Tuple Persistence, and File Systems 
+Chunks: Space-distributed computing is an innovation, ... list specified by the programmer.
+<<section>>
+Heading: 2.8 Summary and Conclusions 
+Chunks: We noted at the start ... problems, discussed in [ 131.
+<<section>>
+Heading: 3. PART II: A VIRTUAL LINDA MACHINE ON A NETWORK COMPUTER 
+Chunks: We are concerned here with ... 1985. 102 l D. Gelemter
+<<section>>
+Heading: 3.2 How to Find Tuples: The Dynamic Global Name Space 
+Chunks: A name space that is ... a structured name is transmitted.
+<<section>>
+Heading: 3.3 Buffering 
+Chunks: We close with a brief ... name space, as mentioned earlier.)
+<<section>>
+Heading: 3.4 Hardware Failures 
+Chunks: The semantics of Linda in ... tuple keeper to find out.
+<<section>>
+Heading: 4. CONCLUSIONS 
+
+tulasi18.xml
+<<section>>
+Chunks: 2306 IEEE JOURNAL OF SELECTED ... OpenMP, quantitative remote sensing retrieval.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: T HE CONTINUOUS increase of ... remarks and future research perspectives.
+<<section>>
+Heading: II. METHODOLOGY 
+<<section>>
+Heading: A. AOD Retrieval Algorithm From MODIS Satellite Data 
+Chunks: AOD is defined as the ... Goddard Space Flight Center [24].
+<<section>>
+Heading: B. Implementation for Multicore Processors 
+Chunks: A multicore processor is a ... the private and threadprivate lists.
+<<section>>
+Heading: C. Implementation for GPUs 
+Chunks: GPUs have in recent years ... is illustrated in Fig. 11.
+<<section>>
+Heading: III. EXPERIMENT AND DISCUSSION 
+<<section>>
+Heading: A. Satellite Remote Sensing Data 
+Chunks: A test dataset from February ... AOD RESULTS WITH THE UNCERTAINTY
+<<section>>
+Heading: B. Benchmark Environment 
+Chunks: The multicore implementation benchmarks were ... code on compute capability 3.5.
+<<section>>
+Heading: C. Retrieval Accuracy Analysis 
+Chunks: The SRAP-MODIS was implemented in ... RUNTIME OF THE MULTICORE IMPLEMENTATION
+<<section>>
+Heading: D. Parallel Performance Analysis 
+Chunks: For each experiment we performed ... one running on the CPU.
+<<section>>
+Heading: E. Energy Consumption and Code Migration Considerations 
+Chunks: Given that the energy consumption ... rather than GPU CUDA-C codes.
+<<section>>
+Heading: IV. CONCLUSION AND FUTURE RESEARCH PERSPECTIVES 
+Chunks: In this work, two implementations ... available through NASA MODIS LAADS.
+<<section>>
+Heading: REFERENCES 
+
+Rohith16.xml
+<<section>>
+Chunks: Proceedings of the 51st Annual ... toolkit for HRG pro- cessing.
+<<section>>
+Heading: 1 Introduction 
+Chunks: Hyperedge replacement grammar (HRG) is ... for hy- peredge replacement grammars.
+<<section>>
+Heading: 2 Hyperedge replacement grammars 
+Chunks: We give a short example ... fol- lowed by formal definitions.
+<<section>>
+Heading: 2.1 Example 
+Chunks: Consider a weighted graph language ... are no more nonterminal-labeled edges.
+<<section>>
+Heading: 2.2 Definitions 
+Chunks: The graphs we use in ... will become clear below. 1
+<<section>>
+Heading: 3.1 Representing subgraphs 
+Chunks: Just as CKY deals with ... this to be the case.
+<<section>>
+Heading: 3.2 Treewidth 
+Chunks: Lautemanns algorithm tries to match ... of the treewidth of G.
+<<section>>
+Heading: 3.3 Inference rules 
+Chunks: We present the parsing algorithm ... to set weights by Expectation-Maximization.
+<<section>>
+Heading: 3.4 The disjointness check 
+Chunks: A successful proof using the ... connected component as v. 930
+<<section>>
+Heading: 3.5 Complexity 
+Chunks: The key to the efficiency ... O((2 d n) k+1 ).
+<<section>>
+Heading: 4 Synchronous Parsing 
+Chunks: As mentioned in Section 2.2, ... generally slower than standard parsing.
+<<section>>
+Heading: 5 Conclusion 
+
+matter3.xml
+
+sidhartha6.xml
+<<section>>
+Chunks: 1 Fast Neuromimetic Object Recognition ... multi-class visual object recognition tasks.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: Object recognition has received a ... same level of recognition accuracy.
+<<section>>
+Heading: II. ORIGINAL MODEL DESCRIPTION 
+Chunks: The version of the HMAX ... done in the original paper.
+<<section>>
+Heading: A. S1 
+Chunks: In S1 the image is ... magnitude is passed to C1.
+<<section>>
+Heading: B. C1 
+Chunks: Filter responses are grouped by ... units (8 size-bands 4 orientations).
+<<section>>
+Heading: C. S2 
+Chunks: S2 units have as their ... size-band and passed to C2.
+<<section>>
+Heading: D. C2 
+Chunks: The C2 layer computes the ... number of S2 patches used.
+<<section>>
+Heading: E. Classification 
+Chunks: Classification is performed directly on ... classifier for multi-class classification. 4
+<<section>>
+Heading: III. FPGA IMPLEMENTATION 
+<<section>>
+Heading: A. Hardware Description 
+Chunks: The large number of Multiply ... VHDL using a pipelined architecture.
+<<section>>
+Heading: B. Edge Effects 
+Chunks: The most obvious way to ... regions beyond the image edges.
+<<section>>
+Heading: C. S1 Filters 
+Chunks: The S1 layer consists of ... k will have size (k).
+<<section>>
+Heading: D. C1 
+Chunks: The C1 layer requires finding ... computation on that size band.
+<<section>>
+Heading: E. S2 
+Chunks: Even though the data coming ... binary value 1 or -1.
+<<section>>
+Heading: F. C2 
+Chunks: C2 simply consists of a ... size simultaneously (see Fig. 1).
+<<section>>
+Heading: G. Classifier 
+Chunks: Results from [6] suggest that ... separately on a host PC.
+<<section>>
+Heading: H. Scheduling 
+Chunks: The FPGA implementation has an ... back to the host PC.
+<<section>>
+Heading: IV. SCALABILITY OF FPGA IMPLEMENTATION 
+Chunks: In this section we show ... provides a good starting point.
+<<section>>
+Heading: A. Hardware Resources 
+Chunks: The number of bits in ... not affect the system throughput.
+<<section>>
+Heading: B. Time 
+Chunks: The time taken to process ... when using a 100MHz clock.
+<<section>>
+Heading: V. SIMULATION 
+Chunks: Four different sets of code ... were performing the same computation.
+<<section>>
+Heading: VI. HARDWARE VALIDATION 
+Chunks: The results of simulation were ... which this implementation was designed.
+<<section>>
+Heading: VII. RESULTS 
+<<section>>
+Heading: A. FPGA code analysis 
+Chunks: Using the Xilinx ISE, the ... used by the HMAX implementation.
+<<section>>
+Heading: B. Scalability 
+Chunks: Fig. 3 shows the internal ... for the Minaret classification task.
+<<section>>
+Heading: C. Caltech 101 binary classification 
+Chunks: Two datasets were used to ... not adversely affected recognition accuracy.
+<<section>>
+Heading: D. Binary classification on Flickr dataset 
+Chunks: The binary minaret classification task ... that of the original model.
+<<section>>
+Heading: E. Caltech 101 multi-class one-vs-all 
+Chunks: A second test using the ... is shown in Fig. 7.
+<<section>>
+Heading: F. Hardware Validation 
+Chunks: Results from analyzing VHDL code ... and found to exactly match.
+<<section>>
+Heading: G. Comparison to other approaches 
+Chunks: To the best of our ... 30% on the same task).
+<<section>>
+Heading: VIII. DISCUSSION 
+Chunks: The previous section shows that ... currently available Virtex 7 family.
+<<section>>
+Heading: IX. CONCLUSION 
+
+samuel10.xml
+<<section>>
+Chunks: Pixel Classification of Remote Sensing ... mization, Fuzzy C-means, Silhouette- index
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: The major challenge in remote ... algorithm based MOGA clustering [8].
+<<section>>
+Heading: II. PROPOSED MULTIOBJECTIVE BASED SEMI-SUPERVISED CLUSTERING TECHNIQUE 
+Chunks: In the current paper in ... proposed semi- supervised clustering technique.
+<<section>>
+Heading: A. Encoding of a State and Initialization of Archive Members 
+Chunks: In Semi-ImClustMOO, a set of ... in that string is CK.
+<<section>>
+Heading: B. Assignment of Points 
+Chunks: Here, we have considered each ... i i34 i i otherwise.
+<<section>>
+Heading: C. Objective Functions 
+Chunks: Three objective functions are considered ... the minimum MS- index value.
+<<section>>
+Heading: III. EXPERIMENT RESULTS 
+Chunks: This section explains about the ... and MOGA [8] clustering techniques.
+<<section>>
+Heading: A. Silhouette Index [12] 
+Chunks: It is the most widely ... by Multi-objective based Semi-ImClustMOO algorithm.
+<<section>>
+Heading: IV. CONCLUSIONS AND SCOPE FOR FUTURE WORKS 
+Chunks: In this paper, classification of ... available unsupervised or supervised information.
+<<section>>
+Heading: REFERENCES 
+
+elsevier3.xml
+<<section>>
+Chunks: Case study A failure analysis ... University of Technology, Tehran, Iran
+<<section>>
+Heading: 1. Introduction 
+Chunks: Filter presses are utilized for ... main failure causes and mechanisms.
+<<section>>
+Heading: 2. Methods of investigation 
+Chunks: In order to evaluate the ... stress state of the bolts.
+<<section>>
+Heading: 3. Results 
+<<section>>
+Heading: 3.1. Macrography and visual inspection 
+Chunks: All of the fractured surfaces ... also drawn in Fig. 2.
+<<section>>
+Heading: 3.2. Material inspection 
+Chunks: 3.2.1. Chemical composition Atomic absorption ... Analysis 4 (2015) 2638 29
+<<section>>
+Heading: 3.3. Microstructural investigations by OM 
+Chunks: Fig. 4a shows tempered martensite ... satisfies the Class 12.9 standard.
+<<section>>
+Heading: 3.4. SEM investigations 
+Chunks: SEM micrographs of the sample ... Analysis 4 (2015) 2638 30
+<<section>>
+Heading: 4. Stress analysis and discussion 
+<<section>>
+Heading: 4.1. Stress calculation by using fatigue striations and linear elastic fracture mechanics method 
+Chunks: As indicated above, it seems ... A s min 2 (8)
+<<section>>
+Heading: 4.2. Stress calculation by using linear theory of the bolted joints stiffness 
+Chunks: The linear theory considers a ... for fatigue of the bolts.
+<<section>>
+Heading: 4.3. Failure causes 
+Chunks: According to the stress calculations ... prevent huge failures in future.
+<<section>>
+Heading: 5. Conclusion 
+Chunks: Failure causes of the co-fracture ... Research Center for his helps.
+<<section>>
+Heading: References 
+Chunks: [1] Li L, Wang R. ... Proc Inst Mech Eng 1995;209:25762.
+<<section>>
+Heading: S. Molaei et al. / Case Studies in Engineering Failure Analysis 4 (2015) 2638 38 
+
+sidhartha5tick.xml
+<<section>>
+Chunks: Learning Adversary Behavior in Security ... Southern California {aruneshs, dkar, tambe}@usc.edu
+<<section>>
+Heading: ABSTRACT 
+Chunks: Recent applications of Stackelberg Security ... of our PAC model predictions.
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: Stackelberg Security Games (SSGs) are ... application of non-parametric models. 1
+<<section>>
+Heading: 2. RELATED WORK 
+Chunks: Learning and planning in SSGs ... hypothesis functions are real vector-valued.
+<<section>>
+Heading: 3. SSG PRELIMINARIES 
+Chunks: This section introduces the background ... x j +c j .
+<<section>>
+Heading: 4. LEARNING FRAMEWORK FOR SSG 
+Chunks: First, we introduce some notations: ... likelihood of the training data.
+<<section>>
+Heading: 5. SAMPLE COMPLEXITY 
+Chunks: In this section we derive ... com- ponent function space Hi.
+<<section>>
+Heading: 5.1 Parametric case: Generalized SUQR 
+Chunks: Recall that the hypothesis function ... our experiments on real-world data.
+<<section>>
+Heading: 5.2 Non-Parametric Lipschitz case 
+Chunks: Recall that H for the ... number of targets is large.
+<<section>>
+Heading: 6. LEARNING ALGORITHM 
+Chunks: As stated earlier, our loss ... influenced by nearby training points.
+<<section>>
+Heading: 7. UTILITY BOUNDS 
+Chunks: Next, we bound the difference ... 1) 2 2 6 K
+<<section>>
+Heading: 5 Lipschitzness is a mild restriction on function classes. 
+Chunks: Discussion of assumptions: A puzzling ... the defenders utility maximizing strategy.
+<<section>>
+Heading: 8. EXPERIMENTAL RESULTS 
+Chunks: We show experimental results on ... test splits have < 2.09.
+<<section>>
+Heading: 8.1 Real-World Poaching data 
+Chunks: We first present results of ... not shown in previous work.
+<<section>>
+Heading: 8.2 AMT data 
+Chunks: Here we show fine-grained prediction ... as shown in Table 2.
+<<section>>
+Heading: 9. CONCLUSION 
+Chunks: Over the last couple of ... outperforms SUQR with enough samples.
+<<section>>
+Heading: REFERENCES 
+Chunks: [1] Y. D. Abbasi, M. ... Section E contains additional experiments.
+<<section>>
+Heading: A. PROOFS 
+Chunks: Proof of Theorem 1 PROOF. ... log( T log T )
+<<section>>
+Heading: E. EXPERIMENTAL RESULTS 
+
+sidhartha15.xml
+<<section>>
+Chunks: GMMCP Tracker: Globally Optimal Generalized ... improvement against state of art.
+<<section>>
+Heading: 1. Introduction 
+Chunks: Tracking is a fundamental problem ... section 7 concludes the paper.
+<<section>>
+Heading: 2. Proposed Framework 
+Chunks: We adopt a two layer ... GMCP, thus it is NP-hard.
+<<section>>
+Heading: 3. Tracking using Generalized Maximum 
+Chunks: Multi Clique Problem Creating Input ... a track of a person.
+<<section>>
+Heading: 3.2. Occlusion Handling using Dummy Nodes 
+Chunks: The solution to GMMCP is ... time on a desktop computer.
+<<section>>
+Heading: 5. Affinity Measures 
+Chunks: As mentioned earlier once our ... to 0.7 and 5 respectively.
+<<section>>
+Heading: 6.1. Quantitative Evaluation and Discussion 
+Chunks: For quantitative evaluation we used ... run-time across all the segments.
+<<section>>
+Heading: 6.2. Run Time Comparison 
+
+sidhartha10.xml
+<<section>>
+Chunks: 1 Multi-Feature Fusion via Hierarchical ... video concept annotation, action recognition.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: Multimedia content is usually represented ... is drawn in Section 5.
+<<section>>
+Heading: II. RELATED WORK 
+<<section>>
+Heading: A. Semi-supervised Learning for Multimedia Understanding 
+Chunks: Machine learning and data mining ... sensitive to the parameter [35].
+<<section>>
+Heading: B. Multi-Feature Learning for Multimedia Understanding 
+Chunks: Suppose a multimedia object is ... to different applications [6], [18].
+<<section>>
+Heading: C. Notes of Caution 
+Chunks: Despite the success of semi-supervised ... has not been sufficiently studied.
+<<section>>
+Heading: III. THE PROPOSED ALGORITHM 
+Chunks: In this section, we give ... computing the pairwise distances [35].
+<<section>>
+Heading: IV. EXPERIMENTS 
+Chunks: In this section, we test ... concept annotation and action recognition.
+<<section>>
+Heading: A. Video concept annotation 
+Chunks: In this subsection, we test ... single feature may be lost.
+<<section>>
+Heading: B. Action Recognition 
+Chunks: In this subsection, we test ... features is a weak one.
+<<section>>
+Heading: C. Discussions 
+Chunks: Using video concept annotation and ... computing the pairwise distances [36].
+<<section>>
+Heading: V. CONCLUSION 
+Chunks: In this paper, we have ... multiple features should be combined.
+<<section>>
+Heading: REFERENCES 
+
+maths3.xml
+<<section>>
+Chunks: arXiv:1502.00011v1 [math.DG] 30 Jan 2015 ... [12] for homogeneous bounded domains.
+<<section>>
+Heading: 1. Introduction and statement of the main results 
+Chunks: The paper consists of three ... Ent(M, ) < . (6)
+<<section>>
+Heading: 2. Proof the main results 
+Chunks: We start with the following ... constant defined in Lemma 2.1.
+<<section>>
+Heading: References 
+
+Rohith13.xml
+<<section>>
+Chunks: Exploring Models and Data for ... new dataset are also presented.
+<<section>>
+Heading: 1. Introduction 
+Chunks: Combining image understanding and natural ... results on this new dataset.
+<<section>>
+Heading: 2. Problem Formulation 
+Chunks: The inputs of the problem ... that plague multi-word generation problems.
+<<section>>
+Heading: 3. Related Work 
+Chunks: Malinowski & Fritz (2014a) released ... and image, on these datasets.
+<<section>>
+Heading: 4. Proposed Methodology 
+Chunks: The methodology presented here is ... currently available image description datasets.
+<<section>>
+Heading: 4.1. Models 
+Chunks: In recent years, recurrent neural ... last timestep to generate answers.
+<<section>>
+Heading: 4.2. Question-Answer Generation 
+Chunks: The currently available DAQUAR dataset ... into two independent sen- tences.
+<<section>>
+Heading: 2. Indefinite determiners a(n) to definite determiners the. 
+Chunks: 3. Wh-movement constraints In English, ... the test set of COCO-QA.
+<<section>>
+Heading: 5. Experimental Results 
+<<section>>
+Heading: 5.1. Datasets 
+Chunks: Table 1 summarizes the statistics ... loaded at http://www.cs.toronto.edu/ mren/ imageqa/data/cocoqa
+<<section>>
+Heading: 5.2. Model Details 
+Chunks: 1. VIS+LSTM: The first model ... word vectors of the question.
+<<section>>
+Heading: 4. FULL: Lastly, the FULL model is a simple average of the three models above. 
+Chunks: 5.3. Baselines To evaluate the ... smoothing on this empirical distribution.
+<<section>>
+Heading: 5.4. Performance Metrics 
+Chunks: To evaluate model performance, we ... WUPS 0.9, and WUPS 0.0.
+<<section>>
+Heading: 5.5. Results and Analysis 
+Chunks: Table 2 summarizes the learning ... in the CNN image representation.
+<<section>>
+Heading: 6. Conclusion and Current Directions 
+
+tulasi11.xml
+<<section>>
+
+Rohith21.xml
+<<section>>
+Chunks: Evaluating the inverse decision-making approach ... how people learn others preferences.
+<<section>>
+Heading: 1 Multi-attribute decisions and revealed preferences 
+Chunks: We designed a task that ... electric shockswe set = 2.
+<<section>>
+Heading: 2.1 Ordering a set of observed decisions 
+Chunks: Equation 2 specifies a posterior ... information about x in particular.
+<<section>>
+Heading: 2.2 Feature-based models 
+Chunks: We also consider a class ... computational-level account of preference learning.
+<<section>>
+Heading: 3 Experiment 1: Positive effects 
+Chunks: Our first experiment focuses on ... those cards provided equal evidence.
+<<section>>
+Heading: 3.1 Results 
+Chunks: Two participants were excluded as ... parsimonious account of the data.
+<<section>>
+Heading: 4 Experiment 2: Negative effects 
+Chunks: Experiment 2 focused on a ... that effects were all negative.
+<<section>>
+Heading: 4.1 Results 
+Chunks: Three participants were excluded as ... as well as positive effects.
+<<section>>
+Heading: 5 Conclusion 
+
+tulasi14.xml
+<<section>>
+Chunks: FireCaffe: near-linear acceleration of deep ... a cluster of 32 GPUs.
+<<section>>
+Heading: 1. Introduction and Motivation 
+Chunks: Since the publication of AlexNet ... these problems can be solved.
+<<section>>
+Heading: 1.1. Accelerating DNN Research and Development 
+Chunks: As a particular example of ... pain point for these companies.
+<<section>>
+Heading: 1.2. Real-Time DNN Training 
+Chunks: In the prior section, we ... these modalities, ideally in real-time.
+<<section>>
+Heading: 1.3. Accelerating DNN Training with FireCaffe 
+Chunks: In our work, we focus ... we conclude in Section 9.
+<<section>>
+Heading: 2. Hardware for scalable DNN training 
+Chunks: It is both useful and ... to a single Infiniband-class switch.
+<<section>>
+Heading: 3. Preliminaries and terminology 
+Chunks: Deep neural network is comprised ... as accuracy and training time.
+<<section>>
+Heading: 4. Parallelism strategies 
+Chunks: There are two commonly-used methods ... recognition 74MB 151MB 0.50 0.00015TF
+<<section>>
+Heading: 5. Choosing DNN architectures to accelerate 
+Chunks: Of the popular deep convolutional ... GoogLeNet) while maintaining high accuracy.
+<<section>>
+Heading: 6. Efficiently implementing data parallel training 
+Chunks: Our data-parallel distributed training strategy ... parameter servers, and reduction trees.
+<<section>>
+Heading: 6.1. Parameter server 
+Chunks: One strategy for communicating gradients ... parameter server) can send and
+<<section>>
+Heading: 1 However, the data gradients ( are not summed up. 
+Chunks: receive data at a rate ... aggregation as a reduction tree?
+<<section>>
+Heading: 6.2. Reduction tree 
+Chunks: There are various common patterns ... then we analyze the results.
+<<section>>
+Heading: 7.1. Evaluation Methodology 
+Chunks: We now describe a few ... to further accelerate DNN training.
+<<section>>
+Heading: 8.1. Accelerating convolution on GPUs 
+Chunks: In the DNN architectures discussed ... convolution libraries for further speedups.
+<<section>>
+Heading: 8.2. Dimensionality Reduction 
+Chunks: There has been a series ... public dataset in the future.
+<<section>>
+Heading: 9. Conclusions 
+Chunks: Long training times impose a ... supercomputer net- work interconnect hardware.
+<<section>>
+Heading: References 
+
+tulasi10.xml
+<<section>>
+Chunks: SHORT ARTICLE Disaster Recovery and ... as described by Mileti (1999).
+<<section>>
+Heading: 2 Research Design 
+Chunks: Following several previous disaster-related studies, ... an organization construction diagram (OCD).
+<<section>>
+Heading: 3 Analysis of the Disaster Recovery and Reconstruction Process 
+Chunks: Japans national-level disaster recovery and ... indicate if changes were made.
+<<section>>
+Heading: References 
+
+ayush2.xml
+<<section>>
+Chunks: Proceedings of the 2013 Conference ... academic research and industry practice.
+<<section>>
+Heading: 1 Introduction 
+Chunks: The recent growth of Big ... Mi- crosoft being completely rule-based.
+<<section>>
+Heading: 2 Explaining the Disconnect 
+Chunks: What is the source of ... strive to debunk this perception.
+<<section>>
+Heading: 3 Bridging the Gap 
+Chunks: As NLP researchers who also ... language together with ML technology.
+<<section>>
+Heading: 4 Conclusion 
+
+Rohith20.xml
+<<section>>
+
+ayush14.xml
+<<section>>
+Chunks: arXiv:1502.00013v2 [math.PR] 8 Apr 2015 ... in the open unit disc.
+<<section>>
+Heading: 1. Reminder and motivation 
+Chunks: The free Jacobi process (J ... the derived integral in D.
+<<section>>
+Heading: 2. From the free Jacobi process to the flow 
+Chunks: Though the study of the ... + 1 z) 2 .
+<<section>>
+Heading: 2 The principal branch of the square root is taken. 2 
+Chunks: This map extends analytically to ... achieve in the next section.
+<<section>>
+Heading: 3. Local inverse of the flow: Lagrange inversion formula 
+Chunks: 3.1. Special functions. As claimed ... in D ([2], Lemma 12).
+<<section>>
+Heading: 4. An Integral representation 
+
+ayush1.xml
+<<section>>
+Chunks: PIKM 2014: The 7th ACM ... University Montclair, New Jersey vardea@montclair.edu
+<<section>>
+Heading: ABSTRACT 
+Chunks: PIKM workshop offers to Ph.D. ... management, interdisciplinary work, data mining
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: PIKM is the Ph.D. workshop ... to proceed in their work.
+<<section>>
+Heading: 2. HIGHLIGHTS OF PIKM2014 
+Chunks: Keynote Speaker. Dr. Iadh Ounis ... 5] for previous PIKM workshops.
+<<section>>
+Heading: 3. ACKNOWLEDGMENTS 
+Chunks: We would like to thank ... Huan Liu and Xiaofeng Meng.
+<<section>>
+Heading: 4. REFERENCES 
+
+samuel14.xml
+<<section>>
+Chunks: Experience in using MTurk for ... validation. Our primary contributions include:
+<<section>>
+Heading: 1. Description of our inability to crowdsource a net- work security measurement: BCP38 compliance. 
+<<section>>
+Heading: 2. Development of a successful simple network mea- surement task integrated within a HIT. 
+Chunks: 3. Characterization of the network ... our understanding of the Internet.
+<<section>>
+Heading: 2. BACKGROUND 
+Chunks: Amazons Mechanical Turk (MTurk) is ... cept it to begin work.
+<<section>>
+Heading: 2. Unassignable: Accepted HITs become unassignable; other workers cannot accept or work on the HIT. 
+Chunks: 3. Reviewable: After a worker ... payments as low as $0.01.
+<<section>>
+Heading: 3. METHODOLOGY 
+Chunks: We conducted three new experiments ... of edge IPv6 adoption (3.3).
+<<section>>
+Heading: 3.1 Broadband Speed Tests 
+Chunks: Over the last decade residential ... using different sites and tools.
+<<section>>
+Heading: 4.2 Measuring IPv6 Adoption HIT 
+Chunks: We first sought to assess ... significant number of sampled measurements.
+<<section>>
+Heading: 4.3 HIT Price Sensitivity 
+Chunks: Given our findings in 4.2, ... over correctness, ignorance, or automation.
+<<section>>
+Heading: 4.4 Previewing and Over-Constrained HITs 
+Chunks: Recall that the elements of ... ethical considerations of doing so.
+<<section>>
+Heading: 5. CONCLUSIONS 
+Chunks: Crowdsourcing platforms like MTurk offer ... attention by the research community.
+<<section>>
+Heading: 5.1 Geographical (Non)-Diversity 
+Chunks: Despite Amazons claim of workers ... in the countrys native language.
+<<section>>
+Heading: 5.2 Ethical Considerations 
+Chunks: While Amazons conditions of use ... to serve all users equally.
+<<section>>
+Heading: 5.3 Future Work 
+Chunks: We demonstrated how crowdsourced network ... implied, of the U.S. government.
+<<section>>
+Heading: 6. REFERENCES 
+
+Rohith22.xml
+<<section>>
+Chunks: Structured Learning for Taxonomy Induction ... previous work on ancestor F1.
+<<section>>
+Heading: 1 Introduction 
+Chunks: Many tasks in natural language ... with feature function f .
+<<section>>
+Heading: 2.2 Inference via Belief Propagation 
+Chunks: With the model defined, there ... converged much earlier than that.
+<<section>>
+Heading: 2.3 Training 
+Chunks: We used gradient-based maximum likelihood ... gradient ascent for online learning.
+<<section>>
+Heading: 2.4 Decoding 
+Chunks: Finally, once the model parameters ... ij versus E ji .
+<<section>>
+Heading: 3.1 Surface Features 
+Chunks: Capitalization: Checks which of x ... and squirrels or rats. 8
+<<section>>
+Heading: 4 Related Work 
+Chunks: In our work, we assume ... similar concepts appear in sim-
+<<section>>
+Heading: 7 One can also add features on the full triple (xi, xj, x 
+Chunks: k ) but most such ... sibling (e.g., coordina- tion) patterns.
+<<section>>
+Heading: 5 Experiments 
+<<section>>
+Heading: 5.1 Data and Experimental Regime 
+Chunks: We considered two distinct experimental ... length, suffix mis- matches, etc.
+<<section>>
+Heading: 5.2 Evaluation Metric 
+Chunks: Ancestor F1: Measures the precision, ... be reflected in the features.
+<<section>>
+Heading: 7 Conclusion 
+
+sidhartha7tick.xml
+<<section>>
+Chunks: Identifying Actionable Messages on Social ... cial media analytics; text classification
+<<section>>
+Heading: I. Introduction 
+Chunks: Social media has emerged as ... attributes from the entire dataset.
+<<section>>
+Heading: II. Related Work 
+Chunks: The problem of actionability has ... we consider over 900 domains.
+<<section>>
+Heading: III. Methodology 
+Chunks: A. Domain Representation Each domain ... has 7 other generalized domains.
+<<section>>
+Heading: B. Problem Statement 
+Chunks: Let us consider a specific ... by typical domain adaptive techniques.
+<<section>>
+Heading: C. Classification 
+Chunks: For each labeled data point ... more detail in Section VII.
+<<section>>
+Heading: D. Model Selection 
+Chunks: One of the challenges in ... System Overview IV. System Overview
+<<section>>
+Heading: A. Datasets 
+Chunks: The research undertaken in this ... as part of this research.
+<<section>>
+Heading: B. System Components 
+Chunks: The system overview is shown ... 4.95 days of CPU usage.
+<<section>>
+Heading: V. Lexicon Generation 
+Chunks: In order to identify keywords ... is left for future work.
+<<section>>
+Heading: VI. Feature Generation 
+Chunks: Analysis of social media text ... N , N {100, 1000}.
+<<section>>
+Heading: A. Feature Evaluation 
+Chunks: Table II shows the Mutual ... > 100 words 0.003 0.01%
+<<section>>
+Heading: VII. Evaluation and Results 
+Chunks: We employ supervised learning to ... are shown in Table IX.
+<<section>>
+Heading: VIII. Conclusion 
+Chunks: In this study, we presented ... beyond 0.9 in some cases.
+<<section>>
+Heading: IX. Acknowledgment 
+
+sidhartha21tick.xml
+<<section>>
+Chunks: arXiv:1502.00031v1 [math.QA] 30 Jan 2015 ... k[A] on a Gset A).
+<<section>>
+Heading: 1 Preliminaries 
+
+samuel16.xml
+<<section>>
+Chunks: IEEE GEOSCIENCE AND REMOTE SENSING ... sensing, spectral analysis, urban mapping.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: E NVIRONMENTAL, social, and economic ... the algorithm and its validation.
+<<section>>
+Heading: II. METHODOLOGY 
+<<section>>
+Heading: A. Data Pre-Processing 
+Chunks: In order to mitigate the ... masking step has been introduced.
+<<section>>
+Heading: 1 With the term small settlement we refer to urban areas of around 0.1 km 
+Chunks: 2 . 2 All the ... in the visual inspection phase.
+<<section>>
+Heading: B. Normalized Difference Vector 
+Chunks: The basic idea behind the ... b 6 ) . (2)
+<<section>>
+Heading: C. Class Definition and Signature Collection 
+Chunks: The classification has been carried ... satellite data (e.g., Google Earth).
+<<section>>
+Heading: D. Classification 
+Chunks: In this letter, we have ... (SVM) and maximum likehood (ML).
+<<section>>
+Heading: E. Validation and Assessment 
+Chunks: A preliminary analysis of the ... and discussed in Section IV.
+<<section>>
+Heading: III. STUDY AREA 
+Chunks: The methodology has been tested ... been selected for both scenes.
+<<section>>
+Heading: IV. RESULTS 
+<<section>>
+Heading: A. Classification Accuracies 
+Chunks: In both experiments the introduction ... THE TRIPOLI IMAGE CLASSIFICATION (CALIBRATED)
+<<section>>
+Heading: B. Desert Environment 
+Chunks: The observations made for the ... classification of the Tripolis scene.
+<<section>>
+Heading: C. Vegetated Environment 
+Chunks: Analogously, the observations made for ... classification of the Lagoss scene.
+<<section>>
+Heading: V. CONCLUSION 
+
+tulasi1.xml
+<<section>>
+Chunks: The Quickhull Algorithm for Convex ... halfspace intersec- tion, Voronoi diagram
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: The convex hull of a ... 1995; Fukuda and Prodon 1996].
+<<section>>
+Heading: 2. THE QUICKHULL ALGORITHM 
+Chunks: We assume that the input ... the lifted point [Brown 1979].
+<<section>>
+Heading: 3. COMPARISON OF QUICKHULL WITH THE RANDOMIZED ALGORITHMS 
+Chunks: If Quickhull and the randomized ... v /v) for d 4.
+<<section>>
+Heading: 4. COPING WITH IMPRECISION 
+Chunks: So far, we have followed ... 22, No. 4, December 1996.
+<<section>>
+Heading: 5. SUMMARY 
+
+matter2.xml
+<<section>>
+Chunks: arXiv:1301.0059v1 [cond-mat.stat-mech] 1 Jan 2013 ... complex networks are discussed. 1
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: Continuous-time random walks (CTRW) are ... earlier by different methods. 15
+<<section>>
+Heading: III. CTRW ON COUPLED PARALLEL-CHAIN LATTICES 
+Chunks: In this section, a CTRW ... the Welch Foundation (grant C-1559).
+<<section>>
+Heading: 1 E.W. Montroll and G.H. Weiss, J. Math. Phys. 6, 167 (1965). 
+Chunks: 2 E.W. Montroll and H. ... Special Topics 204, 75 (2012).
+<<section>>
+Heading: 19 A.M. Berezhkovskii and G.H. Weiss, J. Chem. Phys. 128, 044914 (2008). 
+
+barno3.xml
+<<section>>
+Chunks: 1692 IEEE TRANSACTIONS ON GEOSCIENCE ... subpixels in units of classes.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: C HANGE detection (CD) in ... SUBPIXEL RESOLUTION CHANGE DETECTION 1693
+<<section>>
+Heading: A. Spatiotemporal Fusion 
+Chunks: Spatiotemporal fusion techniques [6][10] have ... period (i.e., is temporally nonstationary).
+<<section>>
+Heading: B. Spectral Unmixing-Based CD 
+Chunks: For the coarse spatial resolution ... type of spatiotemporal fusion technique.
+<<section>>
+Heading: C. SPM-Based CD 
+Chunks: This paper focuses on subpixel ... algorithms for subpixel resolution CD.
+<<section>>
+Heading: D. Proposed Fast STHSPM-Based CD With a Fine Resolution Map (FRM) 
+Chunks: In this paper, for the ... concludes this paper. II. METHODS
+<<section>>
+Heading: A. Incorporating an FRM in SPM and Subpixel Resolution CD 
+Chunks: As was done in [52], ... the five fast STHSPM algorithms.
+<<section>>
+Heading: B. Fast STHSPM Algorithms 
+Chunks: The STHSPM algorithm is a ... allocation of the next class.
+<<section>>
+Heading: C. STHSPM-Algorithm-Based CD With an FRM 
+Chunks: For the UOC-based class allocation ... does not involve any iteration.
+<<section>>
+Heading: III. EXPERIMENTS 
+Chunks: Three datasets were used in ... neighborhood was set to 5.
+<<section>>
+Heading: A. Experiment on Synthetic Coarse Proportion Images 
+Chunks: 1) Dataset: To control the ... map from t0 to t1.
+<<section>>
+Heading: B. Experiment on Degraded Multispectral Images 
+Chunks: 1) Dataset: The data used ... FOR THE REAL LANDSATMODIS IMAGES
+<<section>>
+Heading: C. Experiment on Real LandsatMODIS Images 
+Chunks: In this experiment, a set ... proposed algorithms decreases by 23%.
+<<section>>
+Heading: IV. DISCUSSION 
+<<section>>
+Heading: A. Differences Between the Proposed Methods and Spatiotemporal Fusion Techniques 
+Chunks: As mentioned in the introduction, ... of finecoarse spatial resolution images.
+<<section>>
+Heading: B. Uncertainties in FRM 
+Chunks: An FRM is required in ... at t1 with significant noise.
+<<section>>
+Heading: C. Limitations to the Method of Using an FRM 
+Chunks: There are several limitations to ... new classes, as discussed above.
+<<section>>
+Heading: D. Future Research 
+Chunks: Future research will be directed ... promising avenue for future research.
+<<section>>
+Heading: V. CONCLUSION 
+Chunks: In this paper, based on ... comments greatly improved this paper.
+<<section>>
+Heading: REFERENCES 
+
+ayush13.xml
+<<section>>
+Chunks: Accepted as a workshop contribution ... desired task and data complexity.
+<<section>>
+Heading: 1 MOTIVATION 
+Chunks: Supervised convolutional neural networks (CNNs) ... 48, while maintaining similar accuracy.
+<<section>>
+Heading: 4 DISCUSSION 
+
+Rohith10.xml
+<<section>>
+Chunks: CLOUD DETECTION IN SATELLITE IMAGERY ... - 400076, India ujwala.bhangale@iitb.ac.in, sdurbha@iitb.ac.in
+<<section>>
+Heading: ABSTRACT 
+Chunks: Cloud detection and removal forms ... GPU, CUDA, SVM, cloud detection
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: Satellite images have proven to ... a lot of computational overhead.
+<<section>>
+Heading: 3. METHODOLOGY 
+Chunks: In this work, Cloud detection ... performance are briefly stated below,
+<<section>>
+Heading: 3.1 Band Ratio Approach 
+Chunks: Band ratio based cloud detection ... i) i i ...................................... (4)
+<<section>>
+Heading: Closing( 
+Chunks: i i2 i i) is ... High performance cloud detection methodologies
+<<section>>
+Heading: 3.3 Morphological attribute opening/closing 
+Chunks: Binary attribute opening is extended ... are given in [13]. 271
+<<section>>
+Heading: 4. GPU IMPLIMENTATION DETAILS 
+<<section>>
+Heading: 4.1 Band Ratio (NDCI) approach 
+Chunks: Band 1 and band 6 ... calculation written in CUDA C.
+<<section>>
+Heading: 4.2 Morphological opening/closing 
+Chunks: Global Kernels are written to ... a code snippet for dilation.
+<<section>>
+Heading: 4.3 Morphological attribute opening/closing 
+Chunks: Standard deviation attribute is considered ... dilation snippet in CUDA C
+<<section>>
+Heading: 5. EXPERIMENTAL RESULTS 
+Chunks: MODIS data of oil spill ... along with the original image.
+<<section>>
+Heading: 6. CONCLUSIONS AND FUTURE WORK 
+Chunks: Different cloud detection techniques are ... obtained using band-ratio method (threshold>0.5).
+<<section>>
+Heading: 7. REFERENCES 
+
+Rohith23.xml
+<<section>>
+Chunks: Bilingual Word Embeddings for Phrase-Based ... NIST08 Chinese-English machine translation task.
+<<section>>
+Heading: 1 Introduction 
+Chunks: It is difficult to recognize ... the Stanford Phrasal MT system.
+<<section>>
+Heading: 2 Review of prior work 
+Chunks: Distributed word representations are useful ... a practical phrase-based MT system.
+<<section>>
+Heading: 3 Algorithm and methods 
+<<section>>
+Heading: 3.1 Unsupervised training with global context 
+Chunks: Our method starts with embedding ... performance of word embed- dings.
+<<section>>
+Heading: 3.2 Bilingual initialization and training 
+Chunks: In the joint semantic space ... English embeddings we optimize for:
+<<section>>
+Heading: J CO-en + J T EO-zhen (6) 
+Chunks: During bilingual training, we chose ... In our experiments, = 50.
+<<section>>
+Heading: 3.3 Curriculum training 
+Chunks: We train 100k-vocabulary word embeddings ... submissions provided by the authors.
+<<section>>
+Heading: 4.2 Named Entity Recognition 
+Chunks: We perform NER experiments on ... Section3.2.1) on the NER task.
+<<section>>
+Heading: 4.3 Vector matching alignment 
+Chunks: Translation equivalence of the bilingual ... those produced by monolingual training.
+<<section>>
+Heading: 4.4 Phrase-based machine translation 
+Chunks: Our experiments are performed using ... gains by introducing translational equivalence.
+<<section>>
+Heading: 5 Conclusion 
+Chunks: In this paper, we introduce ... bilingual translation equivalence across languages.
+<<section>>
+Heading: 7 We report case-insensitive BLEU 8 With 4-gram BLEU metric from Table 4 
+Chunks: Acknowledgments We gratefully acknowledge the ... Thang Luong for helpful discussions.
+<<section>>
+Heading: References 
+
+ayush6.xml
+<<section>>
+Chunks: ROBUST NOSE DETECTION IN 3D ... included angle curv e, SVM
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: W ith the dev elopment ... 5 concludes the whole paper.
+<<section>>
+Heading: 2. NOSE TIP DETECTION 
+Chunks: To locate the nose tip ... shape, like the peaked cap.
+<<section>>
+Heading: 2.1. Local highest point 
+Chunks: To each point, we can ... effectively reduce the searching space.
+<<section>>
+Heading: 2.2. Local statistic features 
+Chunks: Intuitively, the nose has the ... after SVM selection; (e)Nose tip.
+<<section>>
+Heading: 2.3. Strategy for efficient implementation 
+Chunks: Our process for detecting the ... tip as shown in Fig.2e.
+<<section>>
+Heading: 3. NOSE RIDGE DETECTION 
+Chunks: After the position of the ... 25mm and r = 20mm.
+<<section>>
+Heading: 4. EXPERIMENTS 
+Chunks: To test the performance of ... card Nvidia Getforce2 MX 100/200.
+<<section>>
+Heading: 4.1. Databases 
+Chunks: We use three different databases ... the points are also calculated.
+<<section>>
+Heading: 4.2. Training for SVM 
+Chunks: During the training process, we ... candidates of the nose tip.
+<<section>>
+Heading: 4.3. Detecting results 
+Chunks: We first test our algorithm ... cloud with three thousand points.
+<<section>>
+Heading: 5. CONCLUSIONS 
+Chunks: In this paper, we propose ... Scholars Fund of CAS (No.2001-2-8).
+<<section>>
+Heading: 6. REFERENCES 
+
+manvi3.xml
+<<section>>
+Chunks: Large-scale Multi-label Learning with Missing ... has more than 200,000 labels.
+<<section>>
+Heading: 1. Introduction 
+Chunks: Large scale multi-label classification is ... and conclude in Section 6.
+<<section>>
+Heading: 2. Problem Formulation 
+Chunks: In this section we present ... to succeed (see Section 4).
+<<section>>
+Heading: 2.1. Special Case: Squared-L 2 loss 
+Chunks: In this section, we study ... = W CP LST H
+<<section>>
+Heading: T CP LST which is the closed form solution for the CPLST scheme. 
+Chunks: See Appendix A for a ... emphasis on large scale implementation.
+<<section>>
+Heading: 3. Algorithms 
+Chunks: In this section, we apply ... enough to handle large-scale problems.
+<<section>>
+Heading: 3.1. Fast Operations for General Loss Functions 
+Chunks: We assume that the loss ... the other two loss functions.
+<<section>>
+Heading: 3.2. Fast Operations for Squared Loss with Full Labels 
+Chunks: For the situation where labels ... formulations to suffer similar biases.
+<<section>>
+Heading: 5. Experimental Results 
+Chunks: We now evaluate our proposed ... Ap- pendix E.1 for details.
+<<section>>
+Heading: 5.1. Results with full labels 
+Chunks: We divide datasets into two ... scalability and efficiency of LEML.
+<<section>>
+Heading: 5.2. Results with missing labels 
+Chunks: For experiments with missing labels, ... be found in Appendix E.4.
+<<section>>
+Heading: 6. Conclusion 
+
+Rohith11.xml
+<<section>>
+Chunks: Available online at www.sciencedirect.com ScienceDirect ... Keywords: Distance; Efficiency; Harary index
+<<section>>
+Heading: 1. Introduction 
+Chunks: The distance d(i, j) between ... vertices gives the desired result.
+<<section>>
+Heading: 1.2. Star graphs and subdivided star graphs 
+Chunks: A star graph is a ... with D arms of length
+<<section>>
+Heading: L. Let v 
+Chunks: d,l denote the lth vertex ... Combinatorics 12 (2015) 113 13
+<<section>>
+Heading: References 
+
+Rohith6.xml
+<<section>>
+Chunks: Analyzing Interference from Static Cellular ... cellular net- work; Thinning; Interference
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: Cooperation between base stations (BSs) ... Rayleigh fading is exponentially distributed).
+<<section>>
+Heading: A. The Nearest Neighbour Model. 
+Chunks: In our work we investigate ... the case K = 2.
+<<section>>
+Heading: A. Singles and Pairs. 
+Chunks: The following definitions may apply ... with another element of }.
+<<section>>
+Heading: B. Voronoi Cells. 
+Chunks: It follows naturally to investigate ... and attraction between their atoms.
+<<section>>
+Heading: A. Non-Poissonian behaviour. 
+Chunks: A first property is that ... processes (1) and (2) .
+<<section>>
+Heading: B. Nearest Neighbour function. 
+Chunks: The Nearest Neighbour function (NN), ... inappropriate approximation in our case.
+<<section>>
+Heading: C. Empty Space function. 
+Chunks: The empty space function (ES), ... of (1) and (2) .
+<<section>>
+Heading: D. The J function. 
+Chunks: The two functions NN and ... of pairs exhibits repulsion everywhere.
+<<section>>
+Heading: V. INTERFERENCE ANALYSIS 
+Chunks: The purpose of the previous ... include MIMO transmission as well.
+<<section>>
+Heading: A. Expected value of I (1) and I (2) . 
+Chunks: The next Theorem gives an ... as shown in the figure.
+<<section>>
+Heading: VI. GENERAL CASE AND CONCLUSIONS 
+
+samuel20.xml
+<<section>>
+
+samuel11.xml
+<<section>>
+Chunks: Protocol design contests Citation Anirudh ... on the testing trace (2.6).
+<<section>>
+Heading: 2.1 Boilerplate Protocol 
+Chunks: To ensure that students focused ... the entire congestion-control al- gorithm:
+<<section>>
+Heading: 1. Controller::packet was sent specifies code that is executed whenever a packet is transmitted. 
+<<section>>
+Heading: 2. Controller::ack received specifies code that is executed when an acknowledgment is received. 
+Chunks: 2.2 Evaluation Procedure The packet-delivery ... independently during the training period.
+<<section>>
+Heading: 2.3 Training Trace 
+Chunks: We released a training packet-delivery ... inherent in the trace files.
+<<section>>
+Heading: 2.4 Performance Metrics 
+Chunks: We measure the long-term throughput ... best of the three runs.
+<<section>>
+Heading: 2.7 Prizes 
+Chunks: 3 The concept of overfitting ... on the true achievability region.
+<<section>>
+Heading: 3.2 Training vs. Testing Results 
+Chunks: Despite providing teams with a ... noise in the training trace.
+<<section>>
+Heading: 3.3 Winning Entries 
+Chunks: On the log(throughput) log(95% end-to-end ... (dasjoshma) and https://github.com/ ameeshg/wither (johnnybameesh).
+<<section>>
+Heading: 4. RELATED WORK 
+Chunks: Data contests aiming to make ... but also improving upon them.
+<<section>>
+Heading: 5. OUTLOOK 
+Chunks: Design contests such as the ... routing, traffic engineering, and scheduling.
+<<section>>
+Heading: 6. ACKNOWLEDGMENTS 
+
+sidhartha12.xml
+<<section>>
+Chunks: Active Learning for Large Multi-class ... Redmond, WA 98052 USA akapoor@microsoft.com
+<<section>>
+Heading: Abstract 
+Chunks: Scarcity and infeasibility of human ... a large number of classes.
+<<section>>
+Heading: 1. Introduction 
+Chunks: Collecting data for training a ... including an object recognition task.
+<<section>>
+Heading: 2. Related Work 
+Chunks: Recent work in the area ... matrices in the inductive setting.
+<<section>>
+Heading: 3. Problem Formulation 
+Chunks: Given a set of n ... just O(n 2 ) operations.
+<<section>>
+Heading: 3.1. Optimization Algorithm 
+Chunks: Next, we describe our proposed ... details about the optimization procedure.
+<<section>>
+Heading: 3.2. Classifying a Test Point 
+Chunks: The optimization procedure described above ... to this method as pKNN.
+<<section>>
+Heading: 2. Since we compute more accurate similarity measures K 
+Chunks: l for each class l, ... is useful for robust classification.
+<<section>>
+Heading: 4. Active Learning 
+Chunks: Let X U = {x ... a small number of operations.
+<<section>>
+Heading: 5. Results 
+Chunks: In this section, we present ... kernel K 0 to train
+<<section>>
+Heading: 2 We obtained each kernel from the respective authors. 
+Chunks: both SVM and GP. First, ... of classification problems (Table 1).
+<<section>>
+Heading: 6. Conclusions 
+Chunks: We have presented a probabilistic ... method to even larger problems.
+<<section>>
+Heading: References 
+
+PriyankOld.xml
+<<section>>
+
+manvi2.xml
+<<section>>
+Chunks: Semantic Parsing on Freebase from ... improves over a natural baseline.
+<<section>>
+Heading: 1 Introduction 
+Chunks: We focus on the problem ... be downloaded from http://nlp.stanford.edu/ software/sempre/.
+<<section>>
+Heading: 2 Setup 
+Chunks: Problem Statement Our task is ... and the knowledge base K.
+<<section>>
+Heading: 2.1 Knowledge base 
+Chunks: Let E denote a set ... properties, and 596M assertions. 1
+<<section>>
+Heading: 2.2 Logical forms 
+Chunks: To query the knowledge base, ... K e 2 K }.
+<<section>>
+Heading: 1 In this paper, we condense Freebase names for readability (/people/person becomes Person). 
+Chunks: 2 Binaries can be also ... a subset of the nodes.
+<<section>>
+Heading: 2.3 Framework 
+Chunks: Given an utterance x, our ... and semantic regularities (Section 3.3).
+<<section>>
+Heading: 3.1 Alignment 
+Chunks: We now discuss the construction ... other measures of token overlap.
+<<section>>
+Heading: 3.2 Bridging 
+Chunks: While alignment can cover many ... content words in the question.
+<<section>>
+Heading: 3.3 Composition 
+Chunks: So far, we have mainly ... logical forms with this property.
+<<section>>
+Heading: 4 Experiments 
+Chunks: We now evaluate our semantic ... deriva- tion with highest probability.
+<<section>>
+Heading: 4.1 Main results 
+Chunks: 4.1.1 FREE917 Cai and Yates ... the various predicates can combine.
+<<section>>
+Heading: 4.2 Detailed analysis 
+Chunks: We now delve deeper to ... ignoring the matrix verb live.
+<<section>>
+Heading: 5 Discussion 
+Chunks: Our work intersects with two ... (AFRL) prime contract no. FA8750-13-2-0040.
+<<section>>
+Heading: References 
+
+sidharthachi1tick.xml
+<<section>>
+Chunks: Mining Online Software Tutorials: Challenges ... Tutorials: Challenges and Open Problems
+<<section>>
+Heading: Abstract 
+Chunks: Web-based software tutorials contain a ... as the background fill type.
+<<section>>
+Heading: 4. Click Ok 
+Chunks: These examples define numerous challenges ... those explored in past work.
+<<section>>
+Heading: References 
+
+sidhartha11.xml
+<<section>>
+Chunks: Change Detection From Remotely Sensed ... classification, decision theoretic, priori probability.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: With the advancement in sensor ... results than the other methods.
+<<section>>
+Heading: II. PROPOSED METHOD 
+Chunks: The flowchart of the proposed ... are computed from equation (7).
+<<section>>
+Heading: III. EXPERIMENTAL RESULTS 
+Chunks: The performance of the proposed ... 324 28 0.19 10.04 97.97
+<<section>>
+Heading: IV. CONCLUSION 
+
+samuel8.xml
+
+manvi10.xml
+<<section>>
+Chunks: arXiv:1505.06659v1 [stat.ML] 25 May 2015 ... Statistics, Berkeley, CA 94720 USA
+<<section>>
+Heading: Abstract 
+Chunks: We consider statistical and algorithmic ... right 2015 by the author(s).
+<<section>>
+Heading: 1. Introduction 
+Chunks: Recent work in large-scale data ... and random sampling sketching algorithms.
+<<section>>
+Heading: 1.1. Overview of the problem 
+Chunks: The problem we consider in ... solving the original problem exactly.
+<<section>>
+Heading: 1.2. Prior results 
+Chunks: Random sampling and random projections ... fast Hadamard-based random projections, however,
+<<section>>
+Heading: 1 That is, O(np 
+Chunks: 2 ) time suffices to ... (X, Y ) input data.
+<<section>>
+Heading: 1.3. Our approach and main results 
+Chunks: In this paper, we address ... per (Raskutti & Mahoney, 2014).
+<<section>>
+Heading: 1.4. Additional related work 
+Chunks: Very recently, Ma et al. ... n sketch is applied repeatedly.
+<<section>>
+Heading: 2. General framework and structural results 
+Chunks: In this section, we develop ... the data (X, Y ).
+<<section>>
+Heading: 2.1. A statistical-algorithmic framework 
+Chunks: Recall that we are given ... do not. Randomized Leverage-score Sketching
+<<section>>
+Heading: 2.2. Structural results on sketching matrices 
+Chunks: We are now ready to ... thus the spectral norm enters.
+<<section>>
+Heading: 3. Main theoretical results 
+Chunks: In this section, we provide ... in (Boutsidis & Gittens, 2013).
+<<section>>
+Heading: 3.1. Random sampling methods 
+Chunks: Here, we consider random sampling ... is needed for this result.
+<<section>>
+Heading: 3.2. Random projection methods 
+Chunks: Here, we consider two random ... the log(np) can be improved.
+<<section>>
+Heading: 3.3. Lower Bounds 
+Chunks: In concurrent work, Pilanci and ... can reduce the PE significantly.
+<<section>>
+Heading: 4. Discussion and conclusion 
+Chunks: In this paper, we developed ... bound can not be improved.
+<<section>>
+Heading: References 
+
+Rohith7.xml
+<<section>>
+Chunks: Proceedings of the 51st Annual ... mi- croblogs test sets respectively.
+<<section>>
+Heading: 1 Introduction 
+Chunks: Named Entity Recognition (NER) is ... Section 5 concludes the paper.
+<<section>>
+Heading: 2 Related Work 
+<<section>>
+Heading: 2.1 Using cross-lingual Features 
+Chunks: For many NLP tasks, some ... by El-Kahki et al. (2011)
+<<section>>
+Heading: 2.2 Arabic NER 
+Chunks: Much work has been done ... Be- najiba and Rosso, 2008).
+<<section>>
+Heading: 3 Baseline Arabic NER System 
+Chunks: For the baseline system, we ... segmenter (Green and DeNero, 2012).
+<<section>>
+Heading: 4.1 Cross-lingual Capitalization 
+Chunks: As we mentioned earlier, Arabic ... differences compared to baseline 1562
+<<section>>
+Heading: 4.2 Transliteration Mining 
+Chunks: An alternative to capitalization can ... they can serve as surrogates.
+<<section>>
+Heading: 4.3 Using DBpedia 
+Chunks: DBpedia 2 is a large ... or 4.1% and 13.9% (relative).
+<<section>>
+Heading: 4.4 Putting it All Together 
+Chunks: Table 7 reports on the ... on social media, particularly microblogs.
+<<section>>
+Heading: References 
+
+samuel4.xml
+<<section>>
+Chunks: Predicting Power Relations between Participants ... over using previously proposed features.
+<<section>>
+Heading: 1 Introduction 
+Chunks: Computationally analyzing the social context ... uses our new feature set.
+<<section>>
+Heading: 2 Motivation 
+Chunks: Early NLP-based approaches such as ... cor- pus for this study.
+<<section>>
+Heading: 3 Data 
+Chunks: In this work, we use ... the best of our knowledge.
+<<section>>
+Heading: 4 Problem Formulation 
+Chunks: Let t denote an email ... over anyone in the thread.
+<<section>>
+Heading: 5 Structural Analysis 
+Chunks: In this section we analyze ... Mean(f sup IM t )
+<<section>>
+Heading: T HR N ew 
+Chunks: AvgRecipients 21.14 43.10 AvgToRecipients 18.19 ... contribute more in such threads.
+<<section>>
+Heading: 6 Predicting Direction of Power 
+Chunks: We build an SVM-based supervised ... system using only lexical features.
+<<section>>
+Heading: 7 Conclusion 
+
+manvi14.xml
+<<section>>
+Chunks: 762 IEEE JOURNAL OF SELECTED ... tering, niche particle swarm optimization.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: I N LAND COVER mapping ... proposed hierarchical clus- tering algorithm.
+<<section>>
+Heading: II. CLUSTER SPLITTING AND MERGING 
+Chunks: The cluster analysis forms the ... set of discrete data points.
+<<section>>
+Heading: A. Splitting Methodology 
+Chunks: Initially, for a given large ... detecting the optimal value [17].
+<<section>>
+Heading: B. Merging Methodology 
+Chunks: The cluster centers generated using ... 1. BIC for Landsat image.
+<<section>>
+Heading: III. PERFORMANCE MEASURES 
+Chunks: We evaluate the performance of ... samples in the data set.
+<<section>>
+Heading: IV. RESULTS AND DISCUSSION 
+Chunks: In this section, we present ... the central Bangalore, India [20].
+<<section>>
+Heading: A. Image 1 Landsat Image 
+Chunks: In this study, the Landsat ... based hierarchical clustering and classification.
+<<section>>
+Heading: B. Image 2 Quickbird Image 
+Chunks: The study area lies in ... based hierarchical clustering and classification.
+<<section>>
+Heading: V. CONCLUSION 
+
+samuel12.xml
+<<section>>
+Chunks: Diverse and Proportional Size-l Object ... Hong Kong Hong Kong nikos@cs.hku.hk
+<<section>>
+Heading: ABSTRACT 
+Chunks: The abundance and ubiquity of ... the snippets that they produce.
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: Keyword search on the web ... Section 8 provides concluding remarks.
+<<section>>
+Heading: 2. BACKGROUND AND RELATED WORK 
+Chunks: In this section, we first ... diverse and proportional size-l OSs.
+<<section>>
+Heading: 2.1 Object Summaries 
+Chunks: According to the keyword search ... v in the given OS.
+<<section>>
+Heading: 2.2 Size-l OSs 
+Chunks: According to [14], given an ... algorithms were proposed in [14].
+<<section>>
+Heading: 2.3 Keyword Search and Ranking 
+Chunks: R-KwS paradigms facilitate the discovery ... not include the "Faloutsos" keyword).
+<<section>>
+Heading: 2.4 Diversity 
+Chunks: Diversification of query results has ... g(ni) = g(n k )).
+<<section>>
+Heading: 3. DSIZE-L AND PSIZE-L SNIPPETS 
+Chunks: We propose two types of ... regardless their respective local importance.
+<<section>>
+Heading: 3.1 Diversity (DSize-l OSs) 
+Chunks: We suggest that the l ... and dissimilarity, but multiply them.
+<<section>>
+Heading: 3.2 Proportionality (PSize-l OSs) 
+Chunks: We observe that in an ... we consider to append nodes).
+<<section>>
+Heading: 3.3 DSize-l and PSize-l Definitions 
+Chunks: Based on the above discussion, ... z = i (i 1)
+<<section>>
+Heading: 4. BRUTE FORCE (BF-L) ALGORITHM 
+Chunks: A brute force (BF-l) algorithm ... would re- quire exponential space.
+<<section>>
+Heading: 5. LARGEST AVERAGED SCORE PATH 
+Chunks: (LASP) The BF-l algorithm can ... a maximum path length 4.
+<<section>>
+Heading: 6. PRELIM-L ALGORITHMS 
+Chunks: The aforementioned algorithms operate on ... order to produce DPrelim-l OS.
+<<section>>
+Heading: 6.1 PPrelim-l 
+Chunks: The computation of the optimal ... less than t (line 21).
+<<section>>
+Heading: 6.2 DPrelim-l OS 
+Chunks: We simplify the previous algorithm ... Eq. 2 and 4, etc.).
+<<section>>
+Heading: 6.3 Discussion 
+Chunks: In terms of cost, in ... f r(ni) < + 1.
+<<section>>
+Heading: 7. EXPERIMENTAL EVALUATION 
+Chunks: We experimentally evaluate the proposed ... processor and 8GB of memory.
+<<section>>
+Heading: 7.1 Effectiveness 
+Chunks: We conducted an effectiveness evaluation ... important information of an OS.
+<<section>>
+Heading: 7.2 Quality of Snippets 
+Chunks: We now compare the holistic ... BF-l algorithm is too expensive.
+<<section>>
+Heading: 7.3 Efficiency 
+Chunks: We compare the run-time performance ... with a negligible quality loss.
+<<section>>
+Heading: 8. CONCLUSION AND FUTURE WORK 
+Chunks: In this paper, we introduced ... and top-k ranking of OSs.
+<<section>>
+Heading: 9. ACKNOWLEDGMENTS 
+Chunks: We would like to thank ... and SRF for ROCS, SEM.
+<<section>>
+Heading: 10. REFERENCES 
+
+tulasi13.xml
+<<section>>
+Chunks: IEEE TRANSACTIONS ON GEOSCIENCE AND ... (CCD), GNSS-based SAR, spatial decorrelation.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: O VER the last few ... experimental data in Section V.
+<<section>>
+Heading: II. THEORETICAL MODEL 
+Chunks: Considering two complex SAR image ... the PSF W (x, y).
+<<section>>
+Heading: III. SPATIAL DECORRELATION FOR DIFFERENT BISTATIC TOPOLOGIES 
+Chunks: In this section, the spatial ... spatial decorrelation is evaluated numerically.
+<<section>>
+Heading: A. Quasi-Monostatic Configuration 
+Chunks: As shown in Fig. 2, ... is more pronounced in (21).
+<<section>>
+Heading: B. Nadir-Looking Configuration 
+Chunks: As shown in Fig. 4, ... it is equal to 0.5.
+<<section>>
+Heading: C. General Bistatic Configuration 
+Chunks: In the general bistatic configuration, ... geometries to minimize spatial errors.
+<<section>>
+Heading: IV. SIMULATION 
+Chunks: In this section, the validity ... presented in the next section.
+<<section>>
+Heading: V. EXPERIMENTAL VERIFICATION 
+Chunks: Experiments were conducted to measure ... are not expected in practice.
+<<section>>
+Heading: VI. CONCLUSION 
+Chunks: This paper has described spatial ... of GNSS-based SAR for CCD.
+<<section>>
+Heading: REFERENCES 
+
+ayush12.xml
+<<section>>
+Chunks: arXiv:1412.6093v2 [cs.LG] 23 Dec 2014 ... generation and obtain state-of-the-art results.
+<<section>>
+Heading: 1 INTRODUCTION 
+Chunks: Deep architectures have been integral ... conference paper at ICRL 2015
+<<section>>
+Heading: 2 DBN 
+Chunks: Restricted Boltzmann Machines (RBMs) are ... distribution in the top-level RBM.
+<<section>>
+Heading: 3 RNN AND BLSTM 
+Chunks: A Recurrent Neural Network (RNN) ... ) (11) 4 THE DBN-BLSTM
+<<section>>
+Heading: 4.1 THE ARCHITECTURE 
+Chunks: The DBN-BLSTM is an extension ... ) given by Eq. (3).
+<<section>>
+Heading: 4.2 TRAINING THE NETWORK 
+Chunks: At each time step t, ... with dropout incorporated per layer.
+<<section>>
+Heading: 5 EXPERIMENT AND RESULTS 
+Chunks: We demonstrate our technique by ... hierarchical representations that DBNs provide.
+<<section>>
+Heading: 7 ACKNOWLEDGEMENTS 
+
+10.1.1.125.3310.xml
+<<section>>
+Chunks: K Q M L a ... is (or should be) competing.
+<<section>>
+Heading: 1 Unless of course the physicist also happens to be interested in cars. 
+Chunks: DRAFT: Finin, Labrou and Mayyeld, ... agent carry out its business.
+<<section>>
+Heading: 2 For systems that use SMTP is a more likely choice than TCP. 
+Chunks: DRAFT: Finin, Labrou and Mayyeld, ... the semi{decidability of logical entailment.
+<<section>>
+Heading: 3.2 Ontologies and Ontolingua 
+Chunks: The SRKB Working Group is ... of interest to software applications.
+<<section>>
+Heading: 3.3 Knowledge Query Manipulation Language (KQML) 
+Chunks: KQML was conceived as both ... more detail in Section 5.
+<<section>>
+Heading: 4 Communication languages and their desired features 
+Chunks: It is fair to ask ... and signaling errors and warnings.
+<<section>>
+Heading: 5 Knowledge Query Manipulation Language (KQML) 
+Chunks: To address many of the ... that they are replying to.
+<<section>>
+Heading: 5.2 Facilitators, mediators and the environment o f K QML-speaking agents 
+Chunks: One of the design criteria ... to the standard KQML port.
+<<section>>
+Heading: 6 Evaluation of KQML as an agent c o m m unication language 
+Chunks: In this section, we e ... application cannot process or comprehend.
+<<section>>
+Heading: 7 Applications of KQML 
+Chunks: The KQML language and implementations ... connned to a Telescript universe.
+<<section>>
+Heading: 9 Conclusions 
+
+manvi6.xml
+<<section>>
+Chunks: Hot Topics in CHI: Trend ... Trend Maps for Visualising Research
+<<section>>
+Heading: Abstract 
+Chunks: The aim of this paper ... the visualisation could be improved.
+<<section>>
+Heading: Acknowledgements 
+
+maths1.xml
+<<section>>
+Chunks: arXiv:1502.00016v2 [math.CO] 2 Sep 2015 ... notation and terminology (Section 1.3).
+<<section>>
+Heading: 1.1 Applications 
+Chunks: Linear algebraic structures and associated ... cases with isolated vertices separately.
+<<section>>
+Heading: 2 Orthogonal subspace representations and projective rank 
+Chunks: In this section, we introduce ... assumed to be complex- valued.
+<<section>>
+Heading: 2.1 Orthogonal subspace representations and r-fold orthogonal rank 
+Chunks: Let G be a graph ... real and complex cases studied).
+<<section>>
+Heading: 3.1 Faithful orthogonal subspace representations and fractional minimum pos- itive semidefinite rank 
+
+tulasi8.xml
+<<section>>
+Chunks: Berikelashvili and Midodashvili Boundary Value ... the end of the article
+<<section>>
+Heading: Abstract 
+Chunks: We consider the third boundary ... corrections; improvement of accuracy; elasticity
+<<section>>
+Heading: 1 Introduction 
+Chunks: The problem of accuracy is ... m ( m [, ].
+<<section>>
+Heading: 2 Statement of the problem 
+Chunks: Below, everywhere we assume that ... = S u x .
+<<section>>
+Heading: 3 Difference scheme, correction procedure, and main result 
+Chunks: At the first stage, we ... the proof of Theorem .
+<<section>>
+Heading: 5 Proof of Theorem 1 
+Chunks: To determine the rate of ... validity of Theorem is obvious.
+<<section>>
+Heading: 6 Numerical experiments 
+Chunks: Now, we present some numerical ... State University, Tbilisi, 0186, Georgia.
+<<section>>
+Heading: Acknowledgements 
+Chunks: This work was supported by ... 2015 Accepted: 19 November 2015
+<<section>>
+Heading: References 
+
+tulasi2.xml
+<<section>>
+Chunks: The Byzantine Generals Problem LESLIE ... and Phrases: Interactive consistency /
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: A reliable computer system must ... an algorithm to guarantee that
+<<section>>
+Heading: A. All loyal generals decide upon the same plan of action. 
+Chunks: The loyal generals will all ... the following must be true:
+<<section>>
+Heading: 1. Every loyal general must obtain the same information v (1) .... , v (n). 
+Chunks: Condition 1 implies that a ... generals acting as the lieutenants.
+<<section>>
+Heading: 2. IMPOSSIBILITY RESULTS 
+Chunks: The Byzantine Generals Problem seems ... The Byzantine Generals Problem 397
+<<section>>
+Heading: 6. RELIABLE SYSTEMS 
+Chunks: Other than using intrinsically reliable ... are two cases of interest:
+<<section>>
+Heading: 1. Random Malfunction. 
+Chunks: By making Si a suitably ... the values to guarantee uniqueness.
+<<section>>
+Heading: 7. CONCLUSION 
+
+tulasi4.xml
+<<section>>
+Chunks: Low-Rank Tensors for Scoring Dependency ... results on 5 languages. 1
+<<section>>
+Heading: 1 Introduction 
+Chunks: Finding an expressive representation of ... with auxiliary information about words
+<<section>>
+Heading: 1 Our code is available at https://github.com/ taolei87/RBGParser. 
+Chunks: participating in an arc, such ... in contrast to the baselines.
+<<section>>
+Heading: 2 Related Work 
+Chunks: Selecting Features for Dependency Parsing ... governed by a low-rank tensor.
+<<section>>
+Heading: 3 Problem Formulation 
+Chunks: We will commence here by ... one of our model parameters.
+<<section>>
+Heading: 3.2 Dependency Parsing 
+Chunks: Let x be a sentence ... (h m) associated with the
+<<section>>
+Heading: 3 In our current version, 
+Chunks: h,m only contains the binned ... separately, which works well empirically.
+<<section>>
+Heading: 5 Experimental Setup 
+Chunks: Datasets We test our dependency ... = 0.01 for third-order model.
+<<section>>
+Heading: 6 Results 
+Chunks: Overall Performance Table 2 shows ... optimized in an alternating fashion.
+<<section>>
+Heading: 8 Acknowledgements 
+Chunks: The authors acknowledge the support ... views of the funding organizations.
+<<section>>
+Heading: References 
+
+ayush3.xml
+<<section>>
+Chunks: Proceedings of the 2013 Conference ... laws ira wilson, eugene charniak}@brown.edu
+<<section>>
+Heading: Abstract 
+Chunks: We develop a novel generative ... a base- line univariate model.
+<<section>>
+Heading: 1 Introduction 
+Chunks: Communication involves at least two ... faithfully than a univariate approach.
+<<section>>
+Heading: 2 The Markov-Multinomial Model 
+Chunks: We begin by considering a ... and make predictions indepen- dently.
+<<section>>
+Heading: 3 JAS: A Joint, Additive, Sequential Model 
+Chunks: An obvious shortcoming of the ... the descent when this declines.
+<<section>>
+Heading: 4 Dataset 
+Chunks: We use a corpus of ... publicly available in some form.
+<<section>>
+Heading: 5 Experimental Results 
+Chunks: Markov-Multinomial Joint Additive Sequential 0.19 ... al., 2007) for this work.
+<<section>>
+Heading: 5.1 Cross-fold Validation 
+Chunks: Our aim is to measure ... number as the MM model).
+<<section>>
+Heading: 6 Related work 
+Chunks: There is a relatively long ... to a sequential task. 6
+<<section>>
+Heading: 7 Conclusions and Future Directions 
+Chunks: We have proposed a novel ... R01MH083595) and by NIDA (R01DA015679).
+<<section>>
+Heading: References 
+
+ayush8.xml
+<<section>>
+Chunks: EFFICIENT REGRESSION PRIORS FOR POST-PROCESSING ... Lab, D-ITET, ETH Zurich, Switzerland
+<<section>>
+Heading: ABSTRACT 
+Chunks: Color demosaicing is a process ... (CFA), re- gression, post-processing, super-resolution.
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: Due to the cost many ... but orders of magnitude faster.
+<<section>>
+Heading: 2. PROPOSED POST-PROCESSING METHOD 
+Chunks: First we briefly review the ... MLRI and other demosaicing methods.
+<<section>>
+Heading: 2.1. MLRI 
+Chunks: MLRI [10] was developed by ... residues and tentative R/B values.
+<<section>>
+Heading: 2.2. A+ as post-processing method 
+Chunks: There are several observations underlying ... go through the above process.
+<<section>>
+Heading: 3. EXPERIMENTS 
+Chunks: We evaluate 2 on the ... on MLRI is almost 1dB
+<<section>>
+Heading: 2 Our Matlab codes are available at: http://www.vision.ee.ethz.ch/timofter/ 
+Chunks: Fig. 4: Number of atoms ... Fig. 5 demonstrates that after
+<<section>>
+Heading: 3 Unfortunately, we do not have access to the SAPCA code. 
+Chunks: Light house MLRI PCSD HQL ... both IMAX and Kodak images.
+<<section>>
+Heading: 4. CONCLUSION 
+Chunks: We proposed a novel efficient ... ERC Advanced Grant VarCity (#273940).
+<<section>>
+Heading: 5. REFERENCES 
+
+mayank4.xml
+<<section>>
+Chunks: Hot Topics in CHI: Trend ... Trend Maps for Visualising Research
+<<section>>
+Heading: Abstract 
+Chunks: The aim of this paper ... the visualisation could be improved.
+<<section>>
+Heading: Acknowledgements 
+
+ayush_1.xml
+<<section>>
+Chunks: HornSchunck optical flow applied to ... the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+<<section>>
+Heading: 1. Introduction 
+Chunks: For the past few decades, ... deformation of a birdlike airfoil.
+<<section>>
+Heading: 2. HornSchunck optical flow 
+Chunks: Since Horn and Schunck proposed ... flow field can be retrieved.
+<<section>>
+Heading: 2.1. Improvements of original HS model 
+Chunks: As proved by many later ... denotes the occlusion labeling, G
+<<section>>
+Heading: X X; r 
+Chunks: X a Gaussian kernel on ... by Sun et al. 30
+<<section>>
+Heading: 2.2. Improvements of minimizations of original HS 
+Chunks: Apart from some defects in ... velocity was set to zero.
+<<section>>
+Heading: 3. Validation of HS optical flow 
+<<section>>
+Heading: 3.1. LK optical flow 
+Chunks: To validate the HS optical ... used to preserve motion discontinuity.
+<<section>>
+Heading: 3.2. Spinning sphere 
+Chunks: To compare the results of ... line in the flow field.
+<<section>>
+Heading: 3.3. Translating rectangle 
+Chunks: The second synthetic image sequence ... motion limitation of LK. 20
+<<section>>
+Heading: 4. Experimental setup 
+Chunks: Wind tunnel experiments of measuring ... is in earlier work. 20
+<<section>>
+Heading: 5. Experimental results 
+<<section>>
+Heading: 5.1. Optical flow for airfoil deformation measurements 
+Chunks: Because the largest pattern displacement ... of a birdlike airfoil 1311
+<<section>>
+Heading: 5.2. Airfoil vertical deformation 
+Chunks: After camera calibration, the 3-D ... demonstrated in Fig. 11 (b).
+<<section>>
+Heading: 6. Conclusions 
+
+manvi17.xml
+
+sidhartha24tick.xml
+<<section>>
+Chunks: Online Sum-Product Computation over Trees ... problem in a multi-task setting.
+<<section>>
+Heading: 1 Introduction 
+Chunks: The use of graphical models ... two vertices in T .
+<<section>>
+Heading: 2.1 The hierarchical cover of a tree 
+Chunks: In this section we describe ... -potentials and only atomic -potentials.
+<<section>>
+Heading: 5 Multi-task learning in the allocation model with TREE-HEDGE 
+Chunks: We conclude by sketching a ... Algorithm: Initialization, Marginalization and Update
+<<section>>
+Heading: 1. Parameters: A triple (T, , D 
+Chunks: 1 ) and (0, ). ... x is a descendant of
+<<section>>
+Heading: x. This implies that 
+Chunks: y x y x and ... |V (T )|, (T ))).
+<<section>>
+Heading: B Weight Identities 
+
+sidhartha19tick.xml
+<<section>>
+Chunks: Building change detection in satellite ... manually extracted change reference mask.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: Accurate and efficient detection of ... of DSmT in our application.
+<<section>>
+Heading: II. BASICS OF BELIEF FUNCTIONS 
+Chunks: Detailed presentations of DST and ... E OtherChange,83 Pixel E NoChange}.
+<<section>>
+Heading: B. Sigmoidal model for BBA cons truction 
+Chunks: BBAs construction is a prerequisite ... from images are named !J.lrng.
+<<section>>
+Heading: C. BBAs cons truction us ing concordance and dis cordance 
+Chunks: The BBAs related with the ... and discordance BBAs from images.
+<<section>>
+Heading: D. BBAs combination for building change detection 
+Chunks: From the previous step of ... are detailed in this section.
+<<section>>
+Heading: A. Datas ets 
+Chunks: The experimental dataset for this ... Fig. I c and d.
+<<section>>
+Heading: B. Res ults and evaluation 
+Chunks: As the first step, BBAs ... 0.7734 93.30 0.7737 93.34 0.7734
+<<section>>
+Heading: V. CONCLUSIONS 
+
+barno2.xml
+<<section>>
+Chunks: Probabilistic Forecasts of Bike-Sharing Systems ... for Advanced Studies Lucca mirco.tribastone@imtlucca.it
+<<section>>
+Heading: ABSTRACT 
+Chunks: We study the problem of ... of up to few hours.
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: In recent years, bicycle sharing ... We conclude in Section 6.
+<<section>>
+Heading: 2. MATHEMATICAL MODEL AND DATASET 
+<<section>>
+Heading: 2.1 Predicting Trips Feasibility 
+Chunks: We focus on a BSS ... predicting the non- empty probability.
+<<section>>
+Heading: 2.3 Deterministic and Probabilistic Predictors 
+Chunks: In this section, we describe ... priori knowledge about the system.
+<<section>>
+Heading: 2.4 Dataset 
+Chunks: In all numerical evaluation, we ... | 2 10 6 values.
+<<section>>
+Heading: 3. MODEL VALIDATION 
+<<section>>
+Heading: 3.1 Parameter Estimation 
+Chunks: We estimate the intensities i(t) ... we focus only on week-days.
+<<section>>
+Heading: 3.2 Model Validation 
+Chunks: Alongside parameter estimation, we use ... valid to a reasonable degree.
+<<section>>
+Heading: 4. A CRITIQUE OF DETERMINISTIC 
+Chunks: FORECASTS AND RMSE Most of ... the capacity of a station.
+<<section>>
+Heading: 4.1 Deterministic Prediction and RMSE 
+Chunks: Assume we want to determine ... to provide this crucial information.
+<<section>>
+Heading: 4.3 RMSE on the V  elib data 
+Chunks: In Figure 6b, we compare ... estimations and measure probabilistic forecasts.
+<<section>>
+Heading: 5. PROBABILISTIC FORECASTS AND 
+Chunks: SCORING RULES Bike-sharing systems exhibit ... terms of its probabilistic predictions.
+<<section>>
+Heading: 5.1 Proper Scoring Rules 
+Chunks: A probabilistic forecast for a ... score, the better the forecast.
+<<section>>
+Heading: 5.2 Scoring for the Number of Available Bikes 
+Chunks: The predictors described in Section ... penalized by these scoring rules.
+<<section>>
+Heading: 5.3 Scoring for the Availability of One Bike 
+Chunks: Predicting the number of available ... on a tuneable probability threshold.
+<<section>>
+Heading: 5.4 Computing the Probability of Making 
+Chunks: Wrong Decisions In the previous ... a function of this level.
+<<section>>
+Heading: 6. CONCLUSIONS 
+Chunks: We presented an approach to ... datasets of availability in BSS.
+<<section>>
+Heading: 7. ACKNOWLEDGMENTS 
+Chunks: This work is supported by ... of the V elib system.
+<<section>>
+Heading: 8. REFERENCES 
+
+Rohith1995.xml
+<<section>>
+
+manvi8.xml
+<<section>>
+Chunks: Semantic Cross-View Matching Francesco Castaldo ... urban area shows promising results.
+<<section>>
+Heading: 1. Introduction 
+Chunks: In this paper, we consider ... in a geographically broad areas.
+<<section>>
+Heading: 2. Related Work 
+Chunks: Cross-view matching in terms of ... classifiers for road or lake.
+<<section>>
+Heading: 3. Semantic Cross-View Matching 
+Chunks: A graphical illustration of our ... concatenation of the per-concept descriptors.
+<<section>>
+Heading: 4.1. Placement of Descriptors 
+Chunks: Similar to appearance based local ... time (see section Sec. 5).
+<<section>>
+Heading: 4.2. Aggregation over Pooling Region 
+Chunks: There are several ways to ... concept are set to zero.
+<<section>>
+Heading: 4.3. Descriptor Computation in Semantic Map 
+Chunks: The descriptor extraction from the ... center of the camera (CC).
+<<section>>
+Heading: 2 The Hellinger distance satisfies the triangle inequality whereas the Bhattacharyya does not. 
+Chunks: 5. Matching Given a street-level ... image resolution and focal length.
+<<section>>
+Heading: 6. Hierarchical Semantic Tree Represen- 
+Chunks: tation of a GIS Map ... be learned for each class.
+<<section>>
+Heading: 8. Summary 
+
+tulasi5.xml
+<<section>>
+Chunks: Vietnam J Comput Sci DOI ... dependencies-based and FD-based data cleansing,
+<<section>>
+Heading: B Ayako Hoshino ayako.hoshino@gmail.com; a-hoshino@cj.jp.nec.com 
+Chunks: Hiroki Nakayama h-nakayama@cj.jp.nec.com Chihiro Ito ... Nakahara-ku, Kawasaki, Kanagawa 211-8666, Japan
+<<section>>
+Heading: 2 NEC System Integration, Services & Engineering Operations Unit, 5-7-1 Shiba, Minato-ku, Tokyo, 108-8001, Japan 
+Chunks: the proposed algorithm scales better ... Cause of errors Multi-tuple violations
+<<section>>
+Heading: 1 Introduction 
+Chunks: Data cleansing is a crucial ... Sect. 5 concludes our paper.
+<<section>>
+Heading: 2 Related work 
+Chunks: With the recent appearance of ... the input set of constraints.
+<<section>>
+Heading: 3 Data cleansing based on error conditions 
+Chunks: In this section, we first ... and (2) generating a repair.
+<<section>>
+Heading: 3.1 Problem description 
+Chunks: The problem of CFD-based data ... to be corrected in D.
+<<section>>
+Heading: 3.2 Finding the cause conditions 
+Chunks: The condition we try to ... a simpler condition (Z, v).
+<<section>>
+Heading: 3.3 Generating a repair 
+Chunks: When tuples to be corrected ... cells in the equivalence classes.
+<<section>>
+Heading: 4 Experiments 
+Chunks: The proposed algorithm, along with ... of repair values (Sect. 4.8).
+<<section>>
+Heading: 4.1 Datasets 
+Chunks: We used three datasets, two ... of a previous algorithm [7].
+<<section>>
+Heading: 4.2 The previous algorithms 
+Chunks: Two previous algorithms were used ... FDRepair obtained from the author.
+<<section>>
+Heading: 4.3 Input rules 
+Chunks: The CFD rules we used ... by Beskales et al. [7].
+<<section>>
+Heading: 4.4 Injected errors 
+Chunks: We injected errors by turning ... for a much smaller probability.
+<<section>>
+Heading: 4.5 Scalability 
+Chunks: We first look at the ... linear with the data size.
+<<section>>
+Heading: 4.6 Effect of error skewness 
+Chunks: We then change the error ... correction precision, CR correction recall
+<<section>>
+Heading: 4.7 Result analysis 1: completeness of repairs 
+Chunks: To test the completeness of ... the number of conflict-introducing errors.
+<<section>>
+Heading: 4.8 Result analysis 2: correctness of repair values 
+Chunks: We look at precision and ... suggest human users possible corrections.
+<<section>>
+Heading: 5 Conclusions 
+Chunks: We have proposed a data-repairing ... end while 14: return E
+<<section>>
+Heading: References 
+
+manvi9.xml
+<<section>>
+Chunks: 978-1-4673-4714-3/13/$31.00 2013 IEEE 423 2013 ... Expression Programming; RS Image Classification
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: Data Mining based on remote ... of RS image classification problem.
+<<section>>
+Heading: II. GENE EXPRESSION PROGRAMMING 
+Chunks: Gene Expression Programming (GEP) is ... eventually obtains the optimal chromosome.
+<<section>>
+Heading: III. RS IMAGE CLASSIFICATION MODEL BASED ON GEP 
+<<section>>
+Heading: A. Idea of the GEP classification model 
+Chunks: The objective of classification in ... pixel as the model input.
+<<section>>
+Heading: B. Modeling 
+Chunks: In this research, Landsat TM ... comparison rules are as follows:
+<<section>>
+Heading: R Var Temp n n = 
+Chunks: ) ( 1 n n ... accounted in the 6 sub-models.
+<<section>>
+Heading: IV. EXPERIMENTAL RESULTS 
+Chunks: In the experimental section, we ... agricultural land model accuracy decline.
+<<section>>
+Heading: V. DISCUSSIONS 
+Chunks: By the experiment of using ... and regrading mixed pixels exactly.
+<<section>>
+Heading: REFERENCES 
+
+sidhartha16.xml
+<<section>>
+Chunks: Texture Classification: Are Filter Banks ... UK OX1 3PJ manik@robots.ox.ac.uk az@robots.ox.ac.uk
+<<section>>
+Heading: Abstract 
+Chunks: We question the role that ... Varma & Zisserman [ECCV 02].
+<<section>>
+Heading: 1 Introduction 
+Chunks: Texture research is generally divided ... being learnt per texture class.
+<<section>>
+Heading: 3 The MRF classifier 
+Chunks: We now develop a classifier ... 4949 neighbourhood and 2440 textons.
+<<section>>
+Heading: 4 Why does the MRF classifier 
+Chunks: work? It was demonstrated in ... belong to such function classes.
+<<section>>
+Heading: 5 Scale, rotation and synthesis 
+Chunks: It could be argued that ... are shown in figure 4.
+<<section>>
+Heading: 6 Discussion and conclusions 
+Chunks: Filter banks have become ubiquitous ... the use of filter banks.
+<<section>>
+Heading: Acknowledgements 
+Chunks: Financial support for this research ... and the EC project CogViSys.
+<<section>>
+Heading: References 
+
+ayush_4.xml
+<<section>>
+Chunks: arXiv:1501.00020v1 [physics.hist-ph] 30 Dec 2014 ... elegant theory which predicts it.
+<<section>>
+Heading: 2 Boscovich views on the rotation of Earth before 1757 
+Chunks: Boscovich, a natural philosopher and ... dissertations are, as required, negative
+<<section>>
+Heading: 8 Markovic (1968, p. 103) 
+Chunks: 9 Other two are De ... to take it further on.
+<<section>>
+Heading: 2.3 Motion of the Earth in Boscovichs Literary writings 
+Chunks: Discussing the motion of the ... dangerous or grossly out of
+<<section>>
+Heading: 19 De Cometis (Section 19, p. 327); Markovic (1968, p. 134) 
+Chunks: 20 Notice abregee de lAstronomie ... the motion of the Earth.
+<<section>>
+Heading: 3 After the lift of the ban 
+Chunks: The clear statements of Numenio ... results of earlier efforts. 28
+<<section>>
+Heading: 3.1 Terrestrial experiment with a telescope filled with water 
+Chunks: After the publication of the ... that the Earth is moving.
+<<section>>
+Heading: 3.2 Comet trajectories 
+Chunks: The several treaties on the ... the working of the heavens.
+<<section>>
+Heading: 4 Conclusions 
+
+tulasi6.xml
+<<section>>
+Chunks: Barnes et al. Planetary Science ... the end of the article
+<<section>>
+Heading: Abstract 
+Chunks: Previous authors have suggested that ... Program grant NNX12AC28G. Author details
+<<section>>
+Heading: 1 Department of Physics, University of Idaho, Moscow, Idaho, 83844-0903 USA. 
+
+tulasi20.xml
+<<section>>
+Chunks: Machine Learning 1: 81-106, 1986 ... illustrations of current research directions.
+<<section>>
+Heading: 1. Introduction 
+Chunks: Since artificial intelligence first achieved ... which the family may grow.
+<<section>>
+Heading: 2. The TDIDT family of learning systems 
+Chunks: Carbonell, Michalski and Mitchell (1983) ... of one of them. 1
+<<section>>
+Heading: 3. The induction task 
+Chunks: We now give a more ... of the training set. 2
+<<section>>
+Heading: 4. ID3 
+Chunks: One approach to the induction ... obtained as the weighted average
+<<section>>
+Heading: V E(A) = Z Pi + n i I(pi, ni) i=l p+n 
+Chunks: where the weight for the ... be applied to large tasks.
+<<section>>
+Heading: 5. Noise 
+Chunks: So far, the information supplied ... tree is put to use.
+<<section>>
+Heading: 6. Unknown attribute values 
+Chunks: The previous section examined modifications ... might have. 100 J.R. QUINLAN
+<<section>>
+Heading: 7. The selection criterion 
+Chunks: Attention has recently been refocussed ... building more reliable decision trees.
+<<section>>
+Heading: Acknowledgements 
+Chunks: It is a pleasure to ... the many improvements he recommended.
+<<section>>
+Heading: References 
+
+mayank2.xml
+
+ayush7.xml
+<<section>>
+Chunks: See discussions, stats, and author ... Retrieved on: 06 December 2015
+<<section>>
+Heading: A LARGE-SCALE SOLAR IMAGE DATASET WITH LABELED EVENT REGIONS 
+Chunks: Michael A. Schuh Rafal A. ... Astrophysics, Cambridge, MA 02138, USA
+<<section>>
+Heading: ABSTRACT 
+Chunks: This paper introduces a new ... mining, machine learning, dataset benchmark
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: The Solar Dynamics Observatory (SDO) ... for single-image, region-based, event recognition.
+<<section>>
+Heading: 1 Available at http://dmlab.cs.montana.edu/solar/data/ 
+Chunks: Fig. 1. An example SDO ... search directions and community feedback.
+<<section>>
+Heading: 2. BACKGROUND 
+Chunks: Large-scale image datasets are steadily ... our ten image parameters [13].
+<<section>>
+Heading: 3. THE DATA 
+Chunks: Here we discuss in detail ... of our ten image parameters.
+<<section>>
+Heading: 3.1. Collection 
+Chunks: All data comes from SDO ... a detailed event boundary outline.
+<<section>>
+Heading: 3.2. Transformation 
+Chunks: We first had to standardize ... event types over 90 days.
+<<section>>
+Heading: 3.3. Formats 
+Chunks: The dataset is released as ... standard use by the community.
+<<section>>
+Heading: 3.4. Uses 
+Chunks: There are a variety of ... event type of its own.
+<<section>>
+Heading: 4. CONCLUSION AND FUTURE WORK 
+Chunks: This paper introduced the first ... alternative formats and future improvements.
+<<section>>
+Heading: 5. ACKNOWLEDGEMENTS 
+Chunks: This work was supported in ... NNX09AB03G, and 2) No. NNX11AM13A.
+<<section>>
+Heading: 6. REFERENCES 
+
+manvi18.xml
+<<section>>
+Chunks: arXiv:1301.0052v1 [cond-mat.mes-hall] 1 Jan 2013 ... E. Feldman, J. Martin, and
+<<section>>
+Heading: A. Yacoby, Science, 330, 812 (2010). 
+
+manvi11.xml
+<<section>>
+Chunks: Approach to the management of ... the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+<<section>>
+Heading: 1. Introduction 
+Chunks: Hyperprolactinemia due to prolactinoma is ... relevant literature describing management approaches.
+<<section>>
+Heading: 2. Cases 
+<<section>>
+Heading: 2.1. Case 1 
+Chunks: A 26-year old G0 woman ... with preg- nancy per se.
+<<section>>
+Heading: 2.2. Case 2 
+Chunks: An 18-year-old G0 woman presented ... the child has normal development.
+<<section>>
+Heading: 3. Discussion 
+Chunks: These cases illustrate the decision-making ... and providers should discuss include:
+<<section>>
+Heading: 3.1. What are the Treatment Goals for Macroprolactinomas Before Conception? 
+Chunks: For a reproductive-age woman with ... and response to medical therapy.
+<<section>>
+Heading: 3.2. What are the Risks During Pregnancy? 
+Chunks: When considering treatment of prolactinomas ... on response to medical therapy.
+<<section>>
+Heading: 3.5. When is Radiosurgery Considered in the Treatment of Prolactinomas? 
+Chunks: Case 2 exemplifies use of ... from radiosurgery may take years.
+<<section>>
+Heading: 3.6. What are the Expected Benefits and Risks of Radiosurgery? 
+Chunks: Rates of biochemical remission after ... years after radiosurgery for prolactinoma.
+<<section>>
+Heading: 4. Conclusion 
+Chunks: In this report, we present ... initiation of treatment and conception.
+<<section>>
+Heading: References 
+
+sidhartha4tick.xml
+<<section>>
+Chunks: arXiv:1511.00117v1 [cs.CR] 31 Oct 2015 ... the area of information security.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: The use of chaos in ... planned future work is discussed.
+<<section>>
+Heading: II. BASIC RECALLS 
+Chunks: This section is devoted to ... points is dense in X,
+<<section>>
+Heading: x X, > 0, p Per( f ), d(x, p) . 
+Chunks: Definition f has sensitive dependence ... occur in an unpredictable way.
+<<section>>
+Heading: B. Chaotic iterations 
+Chunks: In the sequel S n ... chaotic iterations, see e.g. [9].
+<<section>>
+Heading: III. CHAOTIC ITERATIONS AS DEVANEYS CHAOS 
+<<section>>
+Heading: A. The new topological space 
+Chunks: In this section we will ... topological chaos, according to Devaney.
+<<section>>
+Heading: B. Discrete chaotic iterations as topological chaos 
+Chunks: To prove that we are ... cardinality and characterizing this set.
+<<section>>
+Heading: IV. CHAOS IN A FINITE STATE MACHINE 
+<<section>>
+Heading: A. The approach presented in this paper 
+Chunks: In the section above, it ... machine is a chaotic machine.
+<<section>>
+Heading: C. The practical case of finite strategies 
+Chunks: It is worthwhile to notice ... can have fundamentally different behaviors.
+<<section>>
+Heading: V. HASH FUNCTIONS BASED ON TOPOLOGICAL CHAOS 
+<<section>>
+Heading: A. Introduction 
+Chunks: The use of chaotic maps ... of the procedure is given.
+<<section>>
+Heading: C. Application example 
+Chunks: Let us consider the two ... be studied in future work.
+<<section>>
+Heading: VI. CONCLUSION 
+Chunks: In this paper, a new ... security framework will be shown.
+<<section>>
+Heading: REFERENCES 
+
+manvi19.xml
+<<section>>
+Chunks: A Discriminative Graph-Based Parser for ... lems such as semantic parsing.
+<<section>>
+Heading: 2 Notation and Overview 
+Chunks: Our approach to AMR parsing ... results on automatic AMR parsing.
+<<section>>
+Heading: 3 Concept Identification 
+Chunks: The concept identification stage maps ... of all these concept fragments.
+<<section>>
+Heading: 4 Relation Identification 
+Chunks: The relation identification stage adds ... to enforce constraint 4 (4.2).
+<<section>>
+Heading: 4.1 Maximum Preserving, Simple, Spanning, Connected Subgraph Algorithm 
+Chunks: The steps for constructing a ... G (i) = E (i)
+<<section>>
+Heading: 6 For dense graphs, Prims algorithm (Prim, 1957) is asymptotically faster (O(|V | 
+Chunks: 2 )). We conjecture that ... the time in our data.
+<<section>>
+Heading: 4.3 Focus Identification 
+Chunks: In AMR, one node must ... root of the dependency tree.
+<<section>>
+Heading: 5 Automatic Alignments 
+Chunks: In order to train the ... F 1 for the alignments.
+<<section>>
+Heading: 6 Training 
+Chunks: We now describe how to ... tification stage would be beneficial.
+<<section>>
+Heading: 8 Related Work 
+Chunks: Our approach to relation identification ... meaning of an entire sentence.
+<<section>>
+Heading: 9 Conclusion 
+Chunks: We have presented the first ... funded under the DEFT program.
+<<section>>
+Heading: References 
+
+manvi21.xml
+<<section>>
+Chunks: A Database Cache for High ... media failure, very long transactions
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: Performance and availability have become ... first authors doctoral dissertation [6]).
+<<section>>
+Heading: 2. CHARACTERISTICS OF EXISTING RECOVERY METHODS 
+<<section>>
+Heading: 2.1 Prerequisites 
+Chunks: We define a transaction. (TA) ... modifying TA has not committed.
+<<section>>
+Heading: 2.2 Buffer Management and Recovery 
+Chunks: The most important aspect of ... shadow and the logging concepts.
+<<section>>
+Heading: 2.3 The Shadow Concept 
+Chunks: The idea of using a ... 9, No. 4, December 1984.
+<<section>>
+Heading: A Database Cache for Hiih Performance and Fast Restart l 507 
+Chunks: The recovery method of this ... of doubling secondary (disk) storage.
+<<section>>
+Heading: 2.4 The Logging Concept 
+Chunks: The disadvantages of the shadow ... [19] and DMS 1100 [8].
+<<section>>
+Heading: 3. POSTULATES FOR A FAST TRANSACTION RECOVERY METHOD 
+Chunks: In the preceding section, inherent ... stated above can be fulfilled.
+<<section>>
+Heading: 4. DESIGN PRINCIPLES OF THE DB CACHE 
+<<section>>
+Heading: 4.1 Overview 
+Chunks: The idea and feasibility of ... K. Elhardt and R. Bayer
+<<section>>
+Heading: 4.2 Running a Transaction with the DB Cache 
+Chunks: We use the following terms ... management and the restart principles.
+<<section>>
+Heading: 4.3 Restart Principles 
+Chunks: As stated at the beginning ... 9, No. 4, December 1984.
+<<section>>
+Heading: A Database Cache for High Performance and Fast Restart l 513 
+Chunks: In summary, an extremely fast ... checkpoint interval of 5 min.
+<<section>>
+Heading: 4.4 Safe Management 
+Chunks: For the management of the ... 9, No. 4, December 1984.
+<<section>>
+Heading: A Database Cache for High Performance and Fast Restart l 515 
+Chunks: is simply forced to DB. ... readjusted by periodic checkpoint procedures.
+<<section>>
+Heading: 5. IMPACTS ON MEDIA FAILURE RECOVERY 
+Chunks: In this section we outline ... is done at reasonable intervals.
+<<section>>
+Heading: 6. CACHE SIZE IN A SAMPLE APPLICATION 
+Chunks: The applicability of the DB ... according to Belady [ 41.
+<<section>>
+Heading: 7. VERY LONG TRANSACTIONS 
+<<section>>
+Heading: 7.1 Crash and Transaction Failure Recovery for Very Long Transactions 
+Chunks: This section shows how arbitrarily ... of BF pages to DB.
+<<section>>
+Heading: 7.2 Properties of this Scheme 
+Chunks: Long update TAs pose problems ... there is no such restriction.
+<<section>>
+Heading: 7.3 Extension to Media Failures 
+Chunks: Extension of the scheme to ... 9, No. 4, December 1984.
+<<section>>
+Heading: A Database Cache for High Performance and Fast Restart l 521 
+Chunks: ignoring all pages with a ... that LALT should be short).
+<<section>>
+Heading: 8. PERFORMANCE MEASUREMENTS OF A PROTOTYPE IMPLEMENTATION 
+Chunks: This section shows results of ... page references (see Figure 7).
+<<section>>
+Heading: 9. CONCLUSIONS 
+Chunks: This paper presents the DB ... 9, No. 4, December 1984.
+<<section>>
+Heading: A Database Cache for High Performance and Fast Restart l 525 
+
+Rohith5.xml
+<<section>>
+Chunks: Semantic Parsing via Paraphrasing Jonathan ... recently re- leased question-answering datasets.
+<<section>>
+Heading: 1 Introduction 
+Chunks: We consider the semantic parsing ... is released at http://www-nlp.stanford.edu/ software/sempre/.
+<<section>>
+Heading: 2 Setup 
+Chunks: Our task is as follows: ... and Berant et al. (2013).
+<<section>>
+Heading: 3 Model overview 
+Chunks: We now present the general ... a beam of size 2,000.
+<<section>>
+Heading: 4 Canonical utterance construction 
+Chunks: We construct canonical utterances in ... by only a modest amount.
+<<section>>
+Heading: 5 Paraphrasing 
+Chunks: Once the candidate set of ... absolute value of the score.
+<<section>>
+Heading: 5.1 Association model 
+Chunks: The goal of the association ... paraphrases and which are not.
+<<section>>
+Heading: 5.2 Vector space model 
+Chunks: The association model relies on ... soft vector-based representation for utterances.
+<<section>>
+Heading: 6 Empirical evaluation 
+Chunks: In this section, we evaluate ... of the system (Section 6.2).
+<<section>>
+Heading: 6.1 Setup 
+Chunks: We use the WEBQUESTIONS dataset ... brings it down to 17K.
+<<section>>
+Heading: 6.2 Results 
+Chunks: We compare our system to ... improved. For example, PARASEMPRE suggests
+<<section>>
+Heading: 3 We implement all features that do not require depen- dency parsing. 
+
+Rohith14.xml
+<<section>>
+Chunks: On the Generalization Ability of ... problems with bounded regret guarantees.
+<<section>>
+Heading: 1. Introduction 
+Chunks: Several supervised learning problems involve ... learning algorithm with regret bounds.
+<<section>>
+Heading: 3. Online to Batch Conversion Bounds 
+Chunks: for Bounded Loss Functions We ... of Wang et al. (2012).
+<<section>>
+Heading: 3.1. Discussion on the nature of our bounds 
+Chunks: As mentioned above, our proof ... up to a logarithmic factor.
+<<section>>
+Heading: 5. Analyzing Online Learning 
+Chunks: Algorithms that use Finite Buffers ... RS policy of Vitter (1985).
+<<section>>
+Heading: 6. Applications 
+Chunks: In this section we make ... performance for small buffer sizes.
+<<section>>
+Heading: 9. Conclusion 
+Chunks: In this paper we studied ... 1 , the following happens
+<<section>>
+Heading: 1. For all f F such that M(f ) 16 1 + 1 2 r, 
+Chunks: we have M(f ) M(f ... cies for updating the buffer:
+<<section>>
+Heading: 1. FIFO: in this policy, the data point z 
+Chunks: t arriving at time t ... s i=1 1 {r2=i} .
+<<section>>
+Heading: 3. RS-x (see Algorithm 1): in this policy, the in- coming data point z 
+Chunks: t at time t > ... , Bernoulli 1 t .
+<<section>>
+Heading: 4. RS-x 
+Chunks: 2 (see Algorithm 3): this ... ) = (x, x )
+<<section>>
+Heading: 2. Conditioning: For every x X , we will create a function class F 
+Chunks: x = {x (x, x ... have W R dd .
+<<section>>
+Heading: 1. Mahalanobis metric learning: in this case we wish to learn a metric M 
+Chunks: W (x, x ) = ... from the kernel learning step.
+<<section>>
+Heading: G. Regret Bounds for Reservoir 
+Chunks: Sampling Algorithms The Reservoir Sampling ... (see Appendices H and I).
+<<section>>
+Heading: H. Analysis of the RS-x Algorithm 
+Chunks: In this section we analyze ... has a few negative consequences:
+<<section>>
+Heading: 1. Due to increased randomness usage, the variance of the resulting algorithm increases. 
+
+manvi5.xml
+<<section>>
+Chunks: 3D Object Proposals for Accurate ... all three KITTI object classes.
+<<section>>
+Heading: 1 Introduction 
+Chunks: Due to the development of ... data are online: http://www.cs.toronto.edu/ objprop3d.
+<<section>>
+Heading: 2 Related Work 
+Chunks: With the wide success of ... notation and present our framework.
+<<section>>
+Heading: 3.1 Proposal Generation as Energy Minimization 
+Chunks: We represent each object proposal ... the direction of each face.
+<<section>>
+Heading: 3.2 Discretization and Accumulators 
+Chunks: Our point cloud is defined ... compute our accumulators in 3D.
+<<section>>
+Heading: 3.3 Inference 
+Chunks: Inference in our model is ... for N = 2000 proposals.
+<<section>>
+Heading: 3.4 Learning 
+Chunks: We learn the weights {w ... 3D placement of the proposals.
+<<section>>
+Heading: 3.5 Object Detection and Orientation Estimation Network 
+Chunks: We use our object proposal ... on the KITTI training set.
+<<section>>
+Heading: 4 Experimental Evaluation 
+
+sidhartha9tick.xml
+<<section>>
+Chunks: The Acousticvisual Emotion Guassians Model ... {asriver, yang, ihjhuo, yylin, whm}@iis.sinica.edu.tw
+<<section>>
+Heading: ABSTRACT 
+Chunks: This paper presents a novel ... emotion model, cross-modal media retrieval.
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: Recent years have witnessed a ... between their corresponding predicted emotions.
+<<section>>
+Heading: 2. EMOTION MODEL AND CORPUS 
+Chunks: To identify the internal human ... discrete 9-point scale online [10].
+<<section>>
+Heading: 3. SYSTEM AND METHODOLOGY 
+<<section>>
+Heading: 3.1 Feature Extraction and CFA 
+Chunks: We extract segment-level (with dynamic ... x Ax and y By.
+<<section>>
+Heading: 3.2 Acousticvisual Emotion Gaussians 
+Chunks: As shown in Figure 1, ... personal annotations are available [13].
+<<section>>
+Heading: 3.3 Music and Video Matching 
+Chunks: Suppose we have learned the ... trade-off between accuracy and efficiency.
+<<section>>
+Heading: 4. CONCLUSION 
+Chunks: We have presented a novel ... the automatically generated music videos.
+<<section>>
+Heading: 5. REFERENCES 
+
+manvi12.xml
+<<section>>
+Chunks: Single DNG Interface Makes a ... where DNG,DPS =( 2 (/c)
+<<section>>
+Heading: 2 DNG,DPS DNG,DPS ) 
+Chunks: 1/2 , and c is ... constants generates the flat-band solution.
+<<section>>
+Heading: 3. Origin and mechanism of DNG perfect lensing and the single-interface perfect lens 
+Chunks: The pivotal argument in this ... schemes at the image plain.
+<<section>>
+Heading: 4. The robustness of the single-interface perfect lens 
+Chunks: In a lossy scenario the ... a path to realistic application.
+<<section>>
+Heading: 5. Conclusion 
+
+sidhartha8tick.xml
+<<section>>
+Chunks: Exploiting the Entire Feature Space ... University of Trento, Italy sebe@disi.unitn.it
+<<section>>
+Heading: ABSTRACT 
+Chunks: The explosive growth of digital ... Feature Se- lection, Manifold Learning
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: With the popularity of digital ... section V concludes this paper.
+<<section>>
+Heading: 2. RELATED WORK 
+Chunks: Our work is geared towards ... learning and automatic image annotation.
+<<section>>
+Heading: 2.1 Feature Selection 
+Chunks: Feature selection aims to extract ... it to a semi-supervised way.
+<<section>>
+Heading: 2.2 Semi-Supervised Learning 
+Chunks: Semi-supervised learning uses both labeled ... focused application in our work.
+<<section>>
+Heading: 2.3 Automatic Image Annotation 
+Chunks: Image annotation correlates labels that ... selection and semi-supervised learning methodology.
+<<section>>
+Heading: 3. METHODOLOGY 
+Chunks: In this section, we first ... the objective function of SFSS.
+<<section>>
+Heading: 3.1 Formulation of Proposed Framework 
+Chunks: Most traditional feature selection algorithms ... W and elaborate it subsequently.
+<<section>>
+Heading: 3.2 Solution 
+Chunks: The objective problem of (6) ... W + 2,1 . (14)
+<<section>>
+Heading: 3.3 Algorithm 
+Chunks: To solve the problem in ... ; 5: A = XH(I
+<<section>>
+Heading: 2 P)HX 
+Chunks: T ; 6: B = ... converges to the global optimum.
+<<section>>
+Heading: 4. EXPERIMENTS 
+Chunks: In this section, we conduct ... method with four other algorithms.
+<<section>>
+Heading: 4.1 Image Datasets 
+Chunks: We choose three image datasets, ... Direction Histogram and Wavelet Texture.
+<<section>>
+Heading: 4.2 Compared Methods 
+Chunks: In our experiments, we compare ... is given in Table 1.
+<<section>>
+Heading: 4.3 Experiments Setup 
+Chunks: To begin with, we randomly ... in our experiments as well.
+<<section>>
+Heading: 4.4 Image Annotation Results 
+Chunks: Figure 2 shows the annotation ... can learn the manifold structure.
+<<section>>
+Heading: 4.5 Influence of the Unlabeled Data 
+Chunks: As our method uses both ... clearly im- proves annotation results.
+<<section>>
+Heading: 4.6 Parameter Sensitivity Study 
+Chunks: To understand how the two ... scope of our current focus.
+<<section>>
+Heading: 5. CONCLUSION 
+Chunks: In this paper we have ... suitable for large-scale image annotation.
+<<section>>
+Heading: 6. ACKNOWLEDGMENTS 
+Chunks: The work of Z. Ma, ... of the National Science Foundation.
+<<section>>
+Heading: 7. REFERENCES 
+
+samuel3.xml
+<<section>>
+Chunks: High efficiency positron accumulation for ... with a direct mechanical coupling.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: A great triumph of the ... for a 4.2 K apparatus.
+<<section>>
+Heading: II. APPARATUS OVERVIEW 
+Chunks: A completely new cryogenic apparatus ... with an identi- fying label.
+<<section>>
+Heading: III. CRYOGENIC CHALLENGES 
+Chunks: It is important that the ... path for the radioactive source.
+<<section>>
+Heading: IV. POSITRON LOADING 
+Chunks: Since the positron magnetic moment ... are shown in Fig. 6.
+<<section>>
+Heading: V. RESULTS AND DISCUSSION 
+Chunks: Particles in the loading trap ... with previous work 13 .
+<<section>>
+Heading: VI. CONCLUSION 
+
+sidhartha18tick.xml
+<<section>>
+Chunks: Estimating Illumination Direction from Textured ... are compared to ground truth.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: In this paper we address ... resolving the Generalised Bas-Relief ambiguity.
+<<section>>
+Heading: II. ESTIMATING THE LIGHT SOURCE AZIMUTH 
+Chunks: This section develops the basic ... influences the albedo parameter A.
+<<section>>
+Heading: III. SINGLE IMAGE EXPERIMENTS AND COMPARISONS 
+Chunks: It is interesting to note ... appears to work quite well.
+<<section>>
+Heading: IV. ESTIMATION FROM TWO IMAGES 
+Chunks: There are often cases when ... 2 2 = 0.8 (24)
+<<section>>
+Heading: V. EXPERIMENTAL RESULTS FOR TWO IMAGES 
+Chunks: We now assess the validity ... and the best results reported.
+<<section>>
+Heading: VI. LOCAL ESTIMATION 
+Chunks: Even though the methods developed ... distribution is 65 . 7
+<<section>>
+Heading: VII. CONCLUSIONS 
+
+samuel2.xml
+<<section>>
+Chunks: ! " # $ % ... 0 q 1 4 &
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: a ! Reference monitor Object ... O a A 3 14
+<<section>>
+Heading: 2. CONCEPTS 
+Chunks: a A c c C ... n o c c A
+<<section>>
+Heading: 3.2 Principals 
+Chunks: A O U A u ... o o o O a
+<<section>>
+Heading: 3.3 Handoff and Credentials 
+Chunks: 3 E 4 E 5 ... e O Y e C
+<<section>>
+Heading: 4. CHANNELS AND ENCRYPTION 
+Chunks: 3 " o n o ... 34 A A O a
+<<section>>
+Heading: 4.1 Encryption 
+Chunks: 34 A A 34 14 ... a % % % A
+<<section>>
+Heading: 4.2 Encryption Channels 
+Chunks: 34 b w 5 ) ... o e S e u
+<<section>>
+Heading: 5. PRINCIPALS WITH NAMES 
+Chunks: 34 o 7 5 & ... A I 4 i A
+<<section>>
+Heading: 5.3 Groups 
+Chunks: 3 A n o n ... c 3 o o o
+<<section>>
+Heading: 6. ROLES AND PROGRAMS 
+Chunks: 3 a 3 14 s ... " A n o e
+<<section>>
+Heading: 6.1 Loading Programs 
+Chunks: 34 O A A A ... Mainframes n o DB2 DBSystems
+<<section>>
+Heading: 6.2 Booting 
+Chunks: a n o e S ... Y % u A o
+<<section>>
+Heading: 7.1 Login 
+Chunks: 3 a A o ( ... A A A C O
+<<section>>
+Heading: 8.2 The Authentication Agent 
+Chunks: E O C E E ... A A A C O
+<<section>>
+Heading: 8.3 Granting Access 
+Chunks: 0 I A A C ... E I O C O
+<<section>>
+Heading: 8.4 Pragmatics 
+Chunks: E A A A I ... U A C A O
+<<section>>
+Heading: 9. ACCESS CONTROL 
+Chunks: u A A A A ... A O A O O
+<<section>>
+Heading: 9.1 Auditing 
+Chunks: T O I E E ... A E A O !
+<<section>>
+Heading: 10. CONCLUSION 
+
+mayank3.xml
+<<section>>
+Chunks: Differentially Private Learning with Kernels ... val- idation of our methods.
+<<section>>
+Heading: 1. Introduction 
+Chunks: Modern systems can log and ... our algorithm we outperform them.
+<<section>>
+Heading: 1.1. Contributions: 
+Chunks: We consider the problem of ... our interactive and semi-interactive models.
+<<section>>
+Heading: 3. Preliminaries 
+Chunks: Privacy: In this work, we ... matrices with capital letters (X).
+<<section>>
+Heading: 4. Problem Formulation 
+Chunks: In this section, we study ... our algorithms without violating privacy.
+<<section>>
+Heading: 6. Non-Interactive Setting 
+Chunks: In the previous section we ... by (Chaudhuri et al., 2011).
+<<section>>
+Heading: 6.1. Test Data Dependent Learner (Semi-interactive model) 
+Chunks: In this section, we propose ... all z R d .
+<<section>>
+Heading: 6.2. Test Data Independent Learner (Non-interactive model) 
+
+tulasi7.xml
+<<section>>
+Chunks: IEEE JOURNAL OF SELECTED TOPICS ... swarm optimization (PBPSO), remote sensing.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: T HE IDENTIFICATION and quantification ... V, this paper is concluded.
+<<section>>
+Heading: II. PARTICLE SWARM OPTIMIZATION 
+Chunks: PSO is a population-based optimization ... terms of performance metrics [30].
+<<section>>
+Heading: A. Binary PSO and Parameters for Change Detection 
+Chunks: There are two important steps ... of the input image, respectively.
+<<section>>
+Heading: III. PROPOSED CHANGE-DETECTION METHOD 
+Chunks: Unlike the other unsupervised algorithms ... 1992. (Right) EM-based approach [22].
+<<section>>
+Heading: A. Preprocessing 
+Chunks: In the change-detection problem, the ... because of the illumination variation.
+<<section>>
+Heading: B. Estimation of Difference Image 
+Chunks: The second step is to ... 1 (x, y) . (6)
+<<section>>
+Heading: C. Objective Function 
+Chunks: In the optimization methods, it ... to minimize the cost function.
+<<section>>
+Heading: D. Population Initialization 
+Chunks: In BPSO, each particle is ... by running the corresponding BPSO.
+<<section>>
+Heading: E. Parallel Binary PSO 
+Chunks: A typical BPSO algorithm searches ... v g i . (11)
+<<section>>
+Heading: F. Communication Strategy and Position Mutation Scheme 
+Chunks: The aim of the proposed ... same candidates in different groups.
+<<section>>
+Heading: IV. RESULTS AND DISCUSSION 
+<<section>>
+Heading: A. Data Sets 
+Chunks: We demonstrate the accuracy of ... on air travel in Europe.
+<<section>>
+Heading: B. Change-Detection Methods 
+Chunks: We evaluate the proposed method ... convergence times and computational cost.
+<<section>>
+Heading: D. Performance Comparison of GA, BPSO, and Parallel BPSO 
+Chunks: Here, the objective is to ... the small size of image.
+<<section>>
+Heading: E. Parallel Versus Sequential Search 
+Chunks: We compare the performance of ... optimum solution in shorter time.
+<<section>>
+Heading: F. Performance Evaluation 
+Chunks: We calculate three different quantitative ... + N 1 ) 100.
+<<section>>
+Heading: G. Tests on Semisynthetic Data 
+Chunks: 1) Generating Semisynthetic Data: To ... ratio (PSNR), in decibel (dB)
+<<section>>
+Heading: P SNR = 
+Chunks: 10 log 10 255 2 ... different levels of Gaussian noise.
+<<section>>
+Heading: H. Comparing Performance of Different Change-Detection Methods on Data Sets 
+Chunks: Here, real data sets are ... between changed and unchanged pixels.
+<<section>>
+Heading: I. Performance Comparison of Change-Detection Methods Using Nonparametric Tests 
+Chunks: The main idea of using ... all the post-hoc procedures considered.
+<<section>>
+Heading: J. Discussion 
+Chunks: Generally, the methods in the ... accurately than the other techniques.
+<<section>>
+Heading: V. CONCLUSION 
+
+elsevier6.xml
+<<section>>
+Chunks: The effect of some factors ... thoroughly with sterile distilled water.
+<<section>>
+Heading: 2 M.A. El-Nabarawy et al. 
+Chunks: Culture medium The sterile explants ... 0.098 R = hairy root.
+<<section>>
+Heading: 4 M.A. El-Nabarawy et al. 
+Chunks: formation and function of mitotic ... 2.517 0.106 = 6-Gingerol undetected.
+<<section>>
+Heading: 6 M.A. El-Nabarawy et al. 
+Chunks: fresh and dry weight was ... observed with 1 mg/l MVA.
+<<section>>
+Heading: References 
+Chunks: Ajungla, L., Patil, P.P., Barmukh, ... potential. Forum Nutr. 61, 182192.
+<<section>>
+Heading: 8 M.A. El-Nabarawy et al. 
+
+mayank5.xml
+<<section>>
+Chunks: IEEE GEOSCIENCE AND REMOTE SENSING ... neural networks (PCNN), remote sensing.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: C HANGE detection is a ... Fig. 2. Flowchart of MPCNNCD.
+<<section>>
+Heading: II. CHANGE DETECTION BASED ON PCNN AND THE NMI FEATURE FOR HSR IMAGERY 
+Chunks: In this letter, a modified ... the steps are as follows.
+<<section>>
+Heading: A. Deblocking Mechanism for HSR Images 
+Chunks: In order to obtain the ... are then processed by PCNN.
+<<section>>
+Heading: B. Initialization of MPCNNCD 
+Chunks: The initialization stage can be ... AND THE NMI FEATURE 539
+<<section>>
+Heading: C. PCNN Processing 
+Chunks: After the initialization of MPCNNCD, ... represents the number of blocks.
+<<section>>
+Heading: D. Hot Spot Area Detection Based on NMI Feature Extraction 
+Chunks: In the original PCNNCD, the ... whole images at different times.
+<<section>>
+Heading: E. Change Detection Processing 
+Chunks: For the NMI feature vectors ... very large remote sensing images.
+<<section>>
+Heading: F. Stopping Condition 
+Chunks: This process repeats from Step ... change map is the output.
+<<section>>
+Heading: III. EXPERIMENTS AND ANALYSIS 
+Chunks: The aforementioned algorithm was coded ... the various methods is provided.
+<<section>>
+Heading: A. Description of the Data Sets 
+Chunks: In order to test the ... the changed and unchanged areas.
+<<section>>
+Heading: B. Design of the Experiments 
+Chunks: In the two experiments, certain ... THE DIFFERENT CHANGE DETECTION APPROACHES
+<<section>>
+Heading: C. Experimental Results and Analysis 
+Chunks: Figs. 7(a)(c) and 8(a)(c) show ... detection algorithms for HSR imagery.
+<<section>>
+Heading: IV. CONCLUSION 
+Chunks: A modified change detection technique ... data sets will be processed.
+<<section>>
+Heading: REFERENCES 
+
+manvi16.xml
+<<section>>
+Chunks: Change Detection of Multi-temporal Remote ... wavelet-based fusion , k-means clustering
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: As far as a change ... approach II. CHANGE DETECTION METHOD
+<<section>>
+Heading: A. Global algorithm 
+Chunks: Summarizes the global algorithm proposed ... 2011 IEEE DOI 10.1109/IHMSC.2011.99 119
+<<section>>
+Heading: B. Image Registration and Normalization 
+Chunks: Firstly, a necessary preprocessing step ... image and the t1image, respectively.
+<<section>>
+Heading: C. Image comparison 
+Chunks: The two registered and corrected ... been applied to this proposed.
+<<section>>
+Heading: D. Wavelet-based fusion 
+Chunks: The multi-scale fusion of the ... images with added difference detail.
+<<section>>
+Heading: E. K-Means Clustering 
+Chunks: In order to fully carried ... convergence is achieved. III. EXPERIMENT
+<<section>>
+Heading: A. Experiment Data 
+Chunks: A real multi-temporal data sets ... original images used in experiments
+<<section>>
+Heading: B. Result 
+Chunks: We record the true positive ... result of the proposed method.
+<<section>>
+Heading: IV. CONCLUSION 
+
+sidhartha20tick.xml
+<<section>>
+Chunks: New Research Directions in Knowledge ... University Montclair, NJ, USA vardea@montclair.edu
+<<section>>
+Heading: ABSTRACT 
+Chunks: The realm of knowledge discovery ... and Knowledge Management, CIKM 2011.
+<<section>>
+Heading: Keywords 
+Chunks: Ranking, Text Mining, Extreme Web, ... Database, Data Warehousing, Database Analytics
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: Knowledge discovery is an interdisciplinary ... of the previous PIKM workshops.
+<<section>>
+Heading: 2. KNOWLEDGE DISCOVERY 
+Chunks: The topics surveyed here are ... namely, databases and information retrieval.
+<<section>>
+Heading: 2.1 Pattern Recognition in Evolving Data 
+Chunks: Many devices today, such as ... provide better responses to queries.
+<<section>>
+Heading: 2.2 Resource Monitoring with KM Models 
+Chunks: Abele et al. [1] focused ... ontology and logic through formalisms.
+<<section>>
+Heading: 2.3 Version Control under Uncertainty 
+Chunks: Collaborative work on documents poses ... of XML in information retrieval.
+<<section>>
+Heading: 2.4 Random Walk k-NN for Classification 
+Chunks: The challenging problem of multi-label ... scene classification and text categorization.
+<<section>>
+Heading: 3. DATABASE RESEARCH PROBLEMS 
+Chunks: The work presented at PIKM ... and schema and data versioning.
+<<section>>
+Heading: 3.1 Aggregation Strategies for Columnar In- 
+Chunks: memory Database Systems Some of ... reunified in one single database.
+<<section>>
+Heading: 3.2 Managing Evolving ETL Processing 
+Chunks: Traditional data warehouse systems employ ... can detect and adapt to.
+<<section>>
+Heading: 3.1 Schema and Data Versioning Systems 
+Chunks: The topic of schema and ... operational in the same time.
+<<section>>
+Heading: 3.2 Automatic Regulatory Compliance 
+Chunks: A unique research on using ... practice in the pharmaceutical industry.
+<<section>>
+Heading: 4. INFORMATION RETRIEVAL 
+Chunks: THEMES The third thematic track ... award winner (see Section 4.5).
+<<section>>
+Heading: 4.1 User Interaction with 
+Chunks: Polyrepresentation Zellhoefer et al. [20] ... work a refreshingly practical angle.
+<<section>>
+Heading: 4.2 Online Conversation Mining 
+Chunks: Inches et al. [5] address ... features still to be explored.
+<<section>>
+Heading: 4.3 Sub-topical document structure 
+Chunks: In text segmentation, a document ... query is an entire patent.
+<<section>>
+Heading: 4.4 Cost Optimization in Test Collections 
+Chunks: Information retrieval systems are usually ... of information retrieval in general.
+<<section>>
+Heading: 4.5 Ranking with ER graphs 
+Chunks: The area of Information Retrieval ... award of the PIKM 2011.
+<<section>>
+Heading: 5. CONCLUSIONS 
+Chunks: In this article, we have ... from the researchers of tomorrow.
+<<section>>
+Heading: 6. REFERENCES 
+
+tulasi12.xml
+<<section>>
+Chunks: Vietnam J Comput Sci (2015) ... Hwa University, Hualien, Taiwan, ROC
+<<section>>
+Heading: 1 Introduction 
+Chunks: Data hiding [119] is interested ... Section 6 presents our conclusions.
+<<section>>
+Heading: 2 MSDR and hiding schemes using Z q -modules with small q 
+<<section>>
+Heading: 2.1 Theoretical limit MSDR for hiding schemes 
+Chunks: In this section, given an ... (1,7,4) which is introduced below.
+<<section>>
+Heading: 2.2 Module method 
+Chunks: First, let us recall some ... as the following 1-hiding scheme.
+<<section>>
+Heading: A. Hiding a secret element d 
+Chunks: Step (0) Given a secret ... = F q + 1.
+<<section>>
+Heading: B. Extracting the secret element embedded in F 
+Chunks: Step (1) Calculate u = ... schemes for 8-bit grayscale images
+<<section>>
+Heading: 3.1 Hiding scheme (1,7,4) 
+Chunks: For a given 8-bit grayscale ... the recovered value we need.
+<<section>>
+Heading: 4 Searching in hidden text with fuzzy automata approach 
+Chunks: In this section, we present ... caches in insecurity environ- ments.
+<<section>>
+Heading: 4.1 Searching text with finite automata by fuzzy approach 
+Chunks: Applications of finite automata and ... 5 1 2 0 0
+<<section>>
+Heading: 4.2 Searching in hidden text embedded in stego-images 
+Chunks: In this section, we use ... of about 1/7 in speed.
+<<section>>
+Heading: 5 Experimental results 
+Chunks: We proposed the (1,7,4) scheme ... for various fields of steganography.
+<<section>>
+Heading: 6 Conclusion 
+Chunks: In this paper, in the ... indicate if changes were made.
+<<section>>
+Heading: References 
+
+samuel6.xml
+<<section>>
+Chunks: Remote sensing image-based analysis of ... PRD; Vegetation water content (VWC)
+<<section>>
+Heading: 1. Introduction 
+Chunks: Urban heat island (UHI) has ... it has changed over time.
+<<section>>
+Heading: 2. Data and methods 
+<<section>>
+Heading: 2.1. Study area and data 
+Chunks: The Pearl River Delta (PRD), ... achieved by high spatial resolution.
+<<section>>
+Heading: 2.2. Image pre-processing 
+Chunks: Noise reduction is necessary for ... than 0.5 in this study.
+<<section>>
+Heading: 2.3. Derivation of brightness temperature 
+Chunks: Satellite TIR sensors measure radiances ... ) by the following formula:
+<<section>>
+Heading: R TM6 14 V 
+Chunks: 255 R max R min ... in watts/(meter squared ster m).
+<<section>>
+Heading: 2.4. Derivation of NDVI, NDWI, NDBI and NDBaI from Landsat TM and ETM + imagery 
+Chunks: THE NDVI, NDWI (Gao, 1996), ... differentiate different land use/cover types.
+<<section>>
+Heading: 2.5. Retrieval of land use/cover patterns and the temperature 
+Chunks: Indices of NDVI, NDWI, NDBI ... determined by using regression analysis.
+<<section>>
+Heading: 3. Results and discussion 
+<<section>>
+Heading: 3.1. Relationship between urban heat island and land use/ cover changes at the regional level 
+Chunks: 3.1.1. Land use/cover patterns in ... in the PRD (Table 6).
+<<section>>
+Heading: 3.2. Relationship between urban heat island and land use/ cover changes at local level 
+Chunks: 3.2.1. Temperature variations for different ... by optimizing land use planning.
+<<section>>
+Heading: 3.3. Relationship between temperature and indices, NDWI, NDVI, NDBI and NDBaI 
+Chunks: Fig. 10 shows the maps ... indices and temperature were found.
+<<section>>
+Heading: 4. Conclusions 
+Chunks: In this paper, qualitative and ... more accurately estimated or removed.
+<<section>>
+Heading: Acknowledgement 
+Chunks: This work was funded by ... in China (Grant No. 200401006(1)).
+<<section>>
+Heading: References 
+
+sidhartha3tick.xml
+<<section>>
+Chunks: arXiv:1511.06726v1 [cs.AR] 20 Nov 2015 ... Repeaterless Low Swing On-Chip Interconnect
+<<section>>
+Heading: K. Naveen* and Dinesh K. Sharma 
+Chunks: Department of Electrical Engineering, Indian ... BIST, Repeaterless interconnect, Mesochronous synchronizers.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: Low swing repeaterless interconnects have ... critical path of the design.
+<<section>>
+Heading: A. Notations and Fault models 
+Chunks: The additional circuitry added only ... used for the analog circuits.
+<<section>>
+Heading: B. Paper organization 
+Chunks: The paper is organized as ... Section V concludes the paper.
+<<section>>
+Heading: II. CAPACITIVELY COUPLED TRANSMITTER AND CLOCK SYNCHRONIZING RECEIVER 
+Chunks: Fig. 1 shows the block ... the chip and tested separately.
+<<section>>
+Heading: A. The data path scan chain 
+Chunks: The low swing transmitter (Fig. ... A register by 1 flip-flop.
+<<section>>
+Heading: B. Clock control path scan chain 
+Chunks: The first circuit block in ... switch matrix can be tested.
+<<section>>
+Heading: III. BIST 
+Chunks: The Lock Detector in Fig. ... integrated with the interconnect test.
+<<section>>
+Heading: IV. SIMULATION RESULTS 
+Chunks: The interconnect system was designed ... signals 2 Logic gates 6
+<<section>>
+Heading: V. CONCLUSIONS 
+Chunks: This paper describes the test ... scale high volume digital systems.
+<<section>>
+Heading: ACKNOWLEDGEMENT 
+Chunks: The authors would like to ... funds for EDA tools respectively.
+<<section>>
+Heading: REFERENCES 
+
+samuel7.xml
+<<section>>
+Chunks: 3960 IEEE TRANSACTIONS ON GEOSCIENCE ... radar (SAR) image change detection.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: C HANGE detection that aims ... Section V gives the conclusion.
+<<section>>
+Heading: II. KERNEL METHOD AND SVM 
+Chunks: First, this section briefly introduces ... of the SVM are shown.
+<<section>>
+Heading: A. Kernel Methods 
+Chunks: Nonlinear problems can be seen ... also valid Mercers kernels [26].
+<<section>>
+Heading: B. SVM 
+Chunks: SVM is a powerful kernel ... for SAR image change detection.
+<<section>>
+Heading: III. SAR IMAGE CHANGE DETECTION WITH ITERATIVE LIC KERNEL SUPERVISED BY ANISOTROPIC TEXTURE 
+Chunks: Because the kernel function can ... kernel method are finally given.
+<<section>>
+Heading: A. Anisotropic Texture Analysis 
+Chunks: A SAR system is a ... construction of the LIC kernel.
+<<section>>
+Heading: B. Construction of the LIC Kernel 
+Chunks: The construction of the LIC ... edge locations of changed areas.
+<<section>>
+Heading: C. Complete Steps of the Proposed LIC Kernel Method 
+Chunks: In this part, the complete ... map as the final result.
+<<section>>
+Heading: IV. EXPERIMENTAL RESULTS AND ANALYSIS 
+Chunks: This section presents the experimental ... the neighborhood size are given.
+<<section>>
+Heading: A. Experimental Setup 
+Chunks: Four sets of real SAR ... precision is within one pixel.
+<<section>>
+Heading: B. Analysis of the LIC Kernel 
+Chunks: The linear combination of the ... for the LIC kernel method.
+<<section>>
+Heading: C. Experimental Results on Real SAR Images 
+Chunks: The proposed LIC kernel is ... different realizations of training sets.
+<<section>>
+Heading: V. CONCLUSION 
+
+tulasi15.xml
+<<section>>
+Chunks: Models of Semantic Representation with ... 2 , Mirella Lapata 1
+<<section>>
+Heading: 1 Institute for Language, Cognition and Computation, 
+Chunks: 2 Institute of Perception, Action ... on hand- crafted norming data.
+<<section>>
+Heading: 1 Introduction 
+Chunks: Recent years have seen increased ... on human generated feature norms.
+<<section>>
+Heading: 2 Related Work 
+Chunks: Grounding semantic representations with visual ... humans (e.g., in norming studies).
+<<section>>
+Heading: 3 The Attribute Dataset 
+Chunks: Concepts and Images We created ... are shown in Table 2.
+<<section>>
+Heading: 4 Attribute-based Classification 
+Chunks: Following previous work (Farhadi et ... particular attribute, we used all
+<<section>>
+Heading: 2 Available from http://homepages.inf.ed.ac.uk/ mlap/index.php?page=resources. 
+Chunks: 3 We only trained classifiers ... attribute vector p w .
+<<section>>
+Heading: 5 Attribute-based Semantic Models 
+Chunks: We evaluated the effectiveness of ... obtained a 9,394-dimensional semantic space
+<<section>>
+Heading: 7 From http://w3.usf.edu/FreeAssociation/. 
+Chunks: 8 Previous work (Griffiths et ... belief networks and Bayesian non-parametrics.
+<<section>>
+Heading: References 
+
+Rohith8.xml
+<<section>>
+Chunks: Abstract This work proposes an ... Kullback-Leibler distance, Support Vector Machines.
+<<section>>
+Heading: I. INTRODUCCION 
+Chunks: E denomina Deteccion de Cambios ... basado en Maquinas de Soporte
+<<section>>
+Heading: E. Martinez, A. Arquero and I. Molina 
+Chunks: Optimizing Panchromatic Image Change Detection ... conclusiones en la Seccion VI.
+<<section>>
+Heading: II. MAPA DE CAMBIOS 
+Chunks: Para abordar el problema de ... casos, de manera empirica [18].
+<<section>>
+Heading: A. Indice de Cambios: Imagen Diferencia 
+Chunks: La Imagen Diferencia, D(x), se ... D 1 2 = (3)
+<<section>>
+Heading: B. Indice de Cambios: Imagen Cociente 
+Chunks: La Imagen Cociente, R(x), se ... R 1 2 = (4)
+<<section>>
+Heading: C. Indice de Cambios: Imagen Distancia de Kullback-Leibler 
+Chunks: En este caso se debe ... ) ( ector det (6)
+<<section>>
+Heading: III. CLASIFICADOR BINARIO BASADO EN SVM 
+Chunks: Las Maquinas de Soporte Vectorial ... grandes conjuntos de datos [20].
+<<section>>
+Heading: IV. METODOLOGIA 
+<<section>>
+Heading: A. Caracteristicas de la imagen 
+Chunks: Se trata de dos escenas ... 3. Sensibilidades espectrales en SPOT5
+<<section>>
+Heading: B. Propuesta metodologica de Deteccion de Cambios 
+Chunks: En esta seccion se propone ... N P P P (19)
+<<section>>
+Heading: V. RESULTADOS 
+Chunks: Las imagenes Indices de Cambios ... PARA LAS CLASES CAMBIO (C)
+<<section>>
+Heading: Y NO_CAMBIO (NC) 
+Chunks: EN LAS CLASIFICACIONES CON SVM. ... 13, NO. 3, MARCH 2015
+<<section>>
+Heading: VI. CONCLUSIONES. 
+Chunks: En este trabajo se ha ... a los buenos resultados obtenidos.
+<<section>>
+Heading: VII. REFERENCIAS 
+
+Rohith15.xml
+<<section>>
+Chunks: Paper 2.1 INTERNATIONAL TEST CONFERENCE ... Iowa City, IA 52246 reddy@engineering.uiowa.edu
+<<section>>
+Heading: Abstract 
+Chunks: In this paper we consider ... covering faults in such cells.
+<<section>>
+Heading: 1. Introduction 
+Chunks: To detect defects occurring during ... Section 6 concludes the paper.
+<<section>>
+Heading: 2. Preliminaries 
+Chunks: In this section we review ... based on the cell functions.
+<<section>>
+Heading: 2.1. Unate Functions 
+Chunks: In this work we extensively ... and (1001) are not comparable.
+<<section>>
+Heading: 2.2. Minimal True Vertices and Maximal False Vertices 
+Chunks: An (input) vertex X is ... for any true (false) vertex.
+<<section>>
+Heading: 2.3. Unate Gate Networks 
+Chunks: In [13][14] it was shown ... 2: A static CMOS gate
+<<section>>
+Heading: 2.4. CMOS Gates 
+Chunks: In this work we consider ... true) vertices of FP (FN).
+<<section>>
+Heading: 3. Faults in CMOS Gates and Their Detection 
+Chunks: In this section we consider ... detect the faults in C.
+<<section>>
+Heading: 3.1. Stuck-at Faults on the Inputs 
+Chunks: Theorem 1: A detectable single ... by the proposed test set.
+<<section>>
+Heading: 3.2. Transistor Stuck-Open (TSOP) Faults 
+Chunks: Transistor stuck-open faults are referred ... We discuss these faults next.
+<<section>>
+Heading: 3.3. Cross Wire Open Faults 
+Chunks: Cross wire open faults are ... two- pattern tests discussed next.
+<<section>>
+Heading: 3.4. Delay Faults 
+Chunks: Since we do not assume ... partially/resistive open cross wire faults.
+<<section>>
+Heading: 3.5. Bridging Faults 
+Chunks: We next consider bridging faults ... of F realized by C.
+<<section>>
+Heading: 3.6. Summary of Tests 
+Chunks: It should be noted that ... the detection of delay faults.
+<<section>>
+Heading: 4. Mapping Cell Tests to Scan Tests 
+Chunks: We implemented a prototype tool ... embedded in a larger circuit.
+<<section>>
+Heading: 5. Experimental Results 
+Chunks: We applied the proposed tests ... on detecting various cell defects.
+<<section>>
+Heading: 6. Conclusions 
+Chunks: We considered generation of tests ... the functions of the cells.
+<<section>>
+Heading: References 
+
+sidharthatick1999ieee.xml
+<<section>>
+Chunks: IEEE TRANSACTIONS ON MICROWAVE THEORY ... Effective permeability, nonlinearity, photonic crystals.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: I N A SENSE, every ... potential for enhancing nonlinear effects.
+<<section>>
+Heading: II. DEFINING AN EFFECTIVE PERMEABILITY 
+Chunks: We are seeking to build ... effect as large as possible.
+<<section>>
+Heading: III. EXAMPLES OF MAGNETIC MICROSTRUCTURES 
+<<section>>
+Heading: A. An Array of Cylinders 
+Chunks: We start with a very ... paper have a similar .
+<<section>>
+Heading: B. Capacitative Array of Sheets Wound on Cylinders 
+Chunks: The previous structure showed a ... medium approximation will be excellent.
+<<section>>
+Heading: C Swiss Roll Capacitor 
+Chunks: We take the same arrangement ... we are willing to tolerate.
+<<section>>
+Heading: IV. AN ISOTROPIC MAGNETIC MATERIAL 
+Chunks: The structures shown above give ... are determined by this frequency.
+<<section>>
+Heading: V. ENHANCED NONLINEAR EFFECTS 
+
+sidhartha13.xml
+<<section>>
+Chunks: Fast Image Search for Learned ... at Austin {pjain, kulis, grauman}@cs.utexas.edu
+<<section>>
+Heading: Abstract 
+Chunks: We introduce a method that ... tances and very large databases.
+<<section>>
+Heading: 1. Introduction 
+Chunks: As the worlds store of ... gains over relevant state-of-the-art techniques.
+<<section>>
+Heading: 2. Related Work 
+Chunks: Recent work has yielded various ... by the approximate search technique.
+<<section>>
+Heading: 3. Approach 
+Chunks: The main idea of our ... collide in a hash table.
+<<section>>
+Heading: 3.1. Parameterized Mahalanobis Metrics 
+Chunks: Given n points {x 1 ... background and equations from [8].
+<<section>>
+Heading: 3.2. Information-Theoretic Metric Learning 
+Chunks: Given an initial d d ... t cannot be explicitly represented.
+<<section>>
+Heading: 3.3. Hashing for Semi-Supervised Similarity Search 
+Chunks: A family of locality-sensitive hash ... metrics in [8] with LSH.
+<<section>>
+Heading: 3.4. Searching Hashed Examples 
+Chunks: Having constructed LSH functions for ... more details on the complexity.
+<<section>>
+Heading: 4. Results 
+Chunks: The need to search for ... = I + St+1 T
+<<section>>
+Heading: 2 In this experiment we were able to reproduce the baseline for L 
+Chunks: 2 given in [16], however ... from ORAU and Microsoft Research.
+<<section>>
+Heading: References 
+
+matter5.xml
+<<section>>
+Chunks: arXiv:1301.0110v1 [cond-mat.mtrl-sci] 1 Jan 2013 ... a) Electronic mail: ygodin@uncc.edu 1
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: The goal of this work ... the solution of the problem.
+<<section>>
+Heading: II. DERIVATION OF PERIODIC POTENTIAL 
+Chunks: Suppose that a periodic lattice ... (25) and calculation by (39).
+<<section>>
+Heading: C. Anisotropic lattice 
+Chunks: As an example of anisotropic ... 2 = le 3i/8 .
+<<section>>
+Heading: V. CONCLUSION 
+Chunks: We determine the effective complex ... optimal design of such composites.
+<<section>>
+Heading: REFERENCES 
+
+tulasi16.xml
+<<section>>
+Chunks: 772 IEEE GEOSCIENCE AND REMOTE ... analy- sis (PCA), remote sensing.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: C HANGE detection methods could ... where 2 is Euclidean distance.
+<<section>>
+Heading: III. EXPERIMENTAL RESULTS 
+Chunks: In order to assess the ... 8. (j) h = 10.
+<<section>>
+Heading: IV. CONCLUSION 
+Chunks: An unsupervised change detection technique ... in optical and SAR images.
+<<section>>
+Heading: REFERENCES 
+
+manvi20.xml
+<<section>>
+Chunks: Development of a Smart Grid ... of Twente Enschede, The Netherlands
+<<section>>
+Heading: Abstract 
+Chunks: With the increased integration of ... smart grid, simulation, renewable energy
+<<section>>
+Heading: 1 Introduction 
+Chunks: Over the last decades, there ... we conclude in Section 5.
+<<section>>
+Heading: 2 Model components 
+Chunks: A smart neighbourhood consists of ... each component will be presented.
+<<section>>
+Heading: 2.1 House 
+Chunks: The House model is the ... charged by locally generated energy.
+<<section>>
+Heading: 2.2 Demand 
+Chunks: In the Demand module, the ... to create fully customized simulations.
+<<section>>
+Heading: 2.3 Weather 
+Chunks: The Weather module provides the ... horizontal plane, 0 degree tilting.
+<<section>>
+Heading: J. Delamare et al. / Electronic Notes in Theoretical Computer Science 318 (2015) 1929 21 
+<<section>>
+Heading: 2.4 Solar Panel 
+Chunks: The Solar Panel module converts ... the area of the panels.
+<<section>>
+Heading: 2.5 Battery 
+Chunks: The Battery is a component ... able to deliver sufficient power.
+<<section>>
+Heading: 2.6 Pricing Module 
+Chunks: The Pricing module allows the ... investment of a future setup.
+<<section>>
+Heading: 2.7 Neighbourhood 
+Chunks: By configuring multiple houses, a ... 2. Example of Neighbourhood model
+<<section>>
+Heading: 3 Simulation studies 
+<<section>>
+Heading: 3.1 Set-up 
+Chunks: The simulation is run on ... House B Units Panel m
+<<section>>
+Heading: 2 Battery Ah Units Panel m 
+Chunks: 2 Battery Ah Single 2 ... Smart Grid Residence Setup Scenario
+<<section>>
+Heading: 3.2 Neigbourhood level 
+Chunks: At the neighbourhood level, cumulative ... 4000 kWh has been generated
+<<section>>
+Heading: J. Delamare et al. / Electronic Notes in Theoretical Computer Science 318 (2015) 1929 23 
+Chunks: Fig. 3. Distribution of Neighbourhood ... autonomously from the central grid.
+<<section>>
+Heading: 3.3 Residential level 
+Chunks: Within the same simulation run ... the demand. In addition to
+<<section>>
+Heading: J. Delamare et al. / Electronic Notes in Theoretical Computer Science 318 (2015) 1929 24 
+Chunks: that data can be gathered ... models from the utility companies.
+<<section>>
+Heading: 4 Related Work 
+Chunks: The importance of smart energy ... the utilization of the elec-
+<<section>>
+Heading: J. Delamare et al. / Electronic Notes in Theoretical Computer Science 318 (2015) 1929 26 
+Chunks: Fig. 7. Hourly Credit and ... energy consumption even further. There
+<<section>>
+Heading: J. Delamare et al. / Electronic Notes in Theoretical Computer Science 318 (2015) 1929 27 
+Chunks: are two levels in the ... reduction of the energy consumption.
+<<section>>
+Heading: 5 Conclusion 
+Chunks: A smart grid simulation tool ... usage of the connected battery.
+<<section>>
+Heading: References 
+Chunks: [1] Bazan, P. and R. ... 23 July 2015. URL http://www.knmi.nl/klimatologie/uurgegevens/
+<<section>>
+Heading: J. Delamare et al. / Electronic Notes in Theoretical Computer Science 318 (2015) 1929 29 
+
+ayush5.xml
+<<section>>
+Chunks: RELAXED LOCAL TERNARY PATTERN FOR ... 50 Nanyang Avenue, Singapore 639798
+<<section>>
+Heading: ABSTRACT 
+Chunks: Local binary pattern (LBP) is ... State, Relaxed LTP, Face Recognition.
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: Local binary pattern has been ... sistently outperforms LBP and LTP.
+<<section>>
+Heading: 2. PROPOSED RELAXED LTP 
+Chunks: Let us firstly briefly analyze ... corresponding bin of the histogram.
+<<section>>
+Heading: 3. EXPERIMENTAL RESULTS 
+Chunks: In this section, we compare ... [1] to perform photometric normalization.
+<<section>>
+Heading: 3.1. Experimental Results on the CMU-PIE Database 
+Chunks: The CMU-PIE database contains over ... LTP consistently outperforms LBP and
+<<section>>
+Heading: 1 The images of Subject 39 are not complete and hence excluded. 
+Chunks: Fig. 2. The first row ... RLTP on the CMU-PIE database.
+<<section>>
+Heading: 3.2. Experimental Results on the Extended Yale B Database 
+Chunks: The extended Yale B database ... on the Yale B database.
+<<section>>
+Heading: 3.3. Experimental Results on the O2FN Mobile Database 
+Chunks: The O2FN mobile face database ... RLTP on the O2FN database.
+<<section>>
+Heading: 4. CONCLUSION 
+Chunks: In this paper, we address ... can be selected as 2.
+<<section>>
+Heading: 5. REFERENCES 
+
+tulasi17.xml
+<<section>>
+Chunks: arXiv:1212.0467v1 [stat.ML] 3 Dec 2012 ... while allowing a simpler analysis.
+<<section>>
+Heading: 1 Introduction 
+Chunks: Finding a low-rank matrix to ... represent their orthonormal basis. 2
+<<section>>
+Heading: 2 Our Results 
+Chunks: In this section, we will ... completion as an open problem.
+<<section>>
+Heading: 4 Matrix Sensing 
+Chunks: In this section, we study ... assuming 2 1 100 .
+<<section>>
+Heading: 4.2 Rank-k Case 
+Chunks: In this section, we present ... to general rank-k matrices. 13
+<<section>>
+Heading: 5.1 Rank-1 Case 
+Chunks: Consider the rank-1 matrix completion ... of samples required per step.
+<<section>>
+Heading: 5.2 Rank-k case 
+Chunks: We now extend our proof ... = P (M ), whp.
+<<section>>
+Heading: B Matrix Sensing: Proofs 
+
+sidhartha1tick.xml
+<<section>>
+Chunks: arXiv:1511.00367v1 [cs.DB] 2 Nov 2015 ... less than 4.2 GB memory.
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: Graphs have been widely used ... Section VIII concludes the paper.
+<<section>>
+Heading: II. PROBLEM STATEMENT 
+Chunks: Consider an undirected and unweighted ... of other nodes keep unchanged.
+<<section>>
+Heading: III. EXISTING SOLUTIONS 
+Chunks: In this section, we introduce ... found in [27] and [19].
+<<section>>
+Heading: IV. I/O EFFICIENT CORE DECOMPOSITION 
+Chunks: In this section, we present ... eliminating all useless node computations.
+<<section>>
+Heading: A. Basic Semi-external Algorithm 
+Chunks: Drawback of EMCore. EMCore (Algorithm ... algorithm terminates in 4 iterations.
+<<section>>
+Heading: B. Partial Node Computation 
+Chunks: The Rationality. In this subsection, ... computations from 36 to 23.
+<<section>>
+Heading: C. Optimal Node Computation 
+Chunks: Although SemiCore + improves SemiCore ... computations from 23 to 11.
+<<section>>
+Heading: V. I/O EFFICIENT CORE MAINTENANCE 
+Chunks: In this section, we discuss ... graph under the semi-external setting.
+<<section>>
+Heading: A. Edge Deletion 
+Chunks: Algorithm Design. In Theorem 3.1, ... as shown in Fig. 6.
+<<section>>
+Heading: B. Edge Insertion 
+Chunks: The Rationality. After a new ... of node computations is 12.
+<<section>>
+Heading: C. Optimization for Edge Insertion 
+Chunks: The Rationality. Algorithm 7 handles ... computations from 12 to 5.
+<<section>>
+Heading: VI. PERFORMANCE STUDIES 
+Chunks: In this section, we experimentally ... 6 and LAW 7 .
+<<section>>
+Heading: A. Core Decomposition 
+Chunks: Small Graphs. To explicitly reveal ... (a) Time Cost (Small Graphs)
+<<section>>
+Heading: 1 Min 10 Mins 100 Mins 1K Mins 10K Mins 
+Chunks: W e b b a ... (c) Memory Usage (Small Graphs)
+<<section>>
+Heading: 1 MB 10 MB 100 MB 1 GB 10 GB 
+Chunks: W e b b a ... SemiCore + in all datasets.
+<<section>>
+Heading: B. Core Maintenance 
+Chunks: We test the performance of ... and data access model used
+<<section>>
+Heading: 1 Sec 
+Chunks: 10 Sec 100 Sec 1K ... and I/Os for all datasets.
+<<section>>
+Heading: C. Scalability Testing 
+Chunks: In this experiment, we test ... very large in some cases.
+<<section>>
+Heading: VII. RELATED WORK 
+Chunks: Core Decomposition. k-core is first ... set under the semi-external model.
+<<section>>
+Heading: VIII. CONCLUSIONS 
+Chunks: In this paper, considering that ... efficiency of our proposed algorithm.
+<<section>>
+Heading: REFERENCES 
+
+samuel18.xml
+<<section>>
+Chunks: Kowalczyk et al. Environ Sci ... 2 and M. LahrssenWiederholt 1
+<<section>>
+Heading: Abstract 
+
+10.1.1.123.1085.xml
+<<section>>
+Chunks: The Entity-Relationship Model-Toward a Unified ... Categories: 3.50, 3.70, 4.33, 4.34
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: The logical view of data ... derived from the entity-relationship model.
+<<section>>
+Heading: 2. THE ENTITY-RELATIONSHIP MODEL 
+<<section>>
+Heading: 2.1 Multilevel Views of Doto 
+Chunks: In the study of a ... with levels 1 and 2.
+<<section>>
+Heading: 2.2 Information Concerning Entities and Relationships (Level 1) 
+Chunks: At this level we consider ... on the relationship set PROJECT-WORKER
+<<section>>
+Heading: 2.3 Information Structure (Level 2) 
+Chunks: The entities, relationships, and values ... IN DATA DESCRIPTION AND MANIPULATION
+<<section>>
+Heading: 3.1 System Analysis Using the Entity-Relationship Diagram 
+Chunks: In this section we introduce ... part of its primary key).
+<<section>>
+Heading: 3.2 An Example of a Database Design and Description 
+Chunks: There are four steps in ... KEY: NAME EMPLOYEE.PK THROUGH EMPLOYEE-DEPENDENT
+<<section>>
+Heading: 3.3 Implications on Data Integrity 
+Chunks: Some work has been done ... DEPARTMENT and [e,,ei] E COMPANY-DEPARTMENT.
+<<section>>
+Heading: 3.4 Semantics and Set Operations of Information Retrieval Requests 
+Chunks: The semantics of information retrieval ... used to clarify the semantics.
+<<section>>
+Heading: 4. ANALYSIS OF OTHER DATA MODELS AND THEIR DERIVATION FROM THE ENTITY-RELATIONSHIP MODEL 
+<<section>>
+Heading: 4.1 The Relational Model 
+Chunks: 4.1.1 The Relational View of ... organize data in entity/relationship relations.
+<<section>>
+Heading: 4.2 The Network Model 
+Chunks: 4.2.1 Semantics of the Data-Structure ... 3.3-3.5 will also be useful.
+<<section>>
+Heading: 4.3 The Entity Set Model 
+Chunks: 4.3.1 The Entity Set View. ... in revising this paper. REFERENCES
+<<section>>
+Heading: 1. ABRIAL, J.R. Data semantics. In 
+
+ayush10.xml
+<<section>>
+
+ayush11.xml
+<<section>>
+Chunks: Diffusion in Social and Information ... Georgia Institute of Technology lsong@cc.gatech.edu
+<<section>>
+Heading: ABSTRACT 
+Chunks: In recent years, there has ... influence estimation and influence control.
+<<section>>
+Heading: 1. TARGET AUDIENCE, AIMS AND PRE- 
+Chunks: REQUISITES This tutorial is meant ... context of diffusion over networks.
+<<section>>
+Heading: 2. FORMAT AND OUTLINE OF THE TU- 
+Chunks: TORIAL We will divide our ... experimental setups and data sources.
+<<section>>
+Heading: 2.1 Diffusion Models (45 minutes) 
+Chunks: We will provide an introduction ... fluence estimation and influence control.
+<<section>>
+Heading: 2.2 Network Estimation (45 minutes) 
+Chunks: Given a set of cascades ... and recurrent events [22, 23].
+<<section>>
+Heading: 2.3 Influence Estimation (45 minutes) 
+Chunks: Given a diffusion model and ... networks with million of nodes.
+<<section>>
+Heading: 2.4 Influence Control (45 minutes) 
+Chunks: Given a diffusion model, the ... models [6, 9, 15, 19].
+<<section>>
+Heading: 3. TUTORS BIO AND EXPERTISE 
+Chunks: Manuel Gomez Rodriguez is an ... Paper Award at ICML 10.
+<<section>>
+Heading: References 
+
+samuel19.xml
+<<section>>
+Chunks: arXiv:1501.00024v2 [physics.flu-dyn] 21 Aug 2015 ... the nonrelativistic limit. yano@k.u-tokyo.ac.jp 2
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: In the early epoch of ... state in the next section.
+<<section>>
+Heading: A Analytical solutions of density and temperature under pure conductive state 8 
+Chunks: III. TEMPERATURE JUMPS ON TWO ... are reflected on two perfectly
+<<section>>
+Heading: A Numerical results of conductive state 13 
+Chunks: diffusive walls at x 1 ... 1 = 0) is markedly
+<<section>>
+Heading: A Numerical results of conductive state 14 
+Chunks: accelerated in the vicinity of ... p i 2 , (38)
+<<section>>
+Heading: A Numerical results of conductive state 15 
+Chunks: where we used relations, U ... ( ) = 0. (44)
+<<section>>
+Heading: A Numerical results of conductive state 16 
+Chunks: Finally, Fourier law, which is ... moments beyond Grads 14 moments
+<<section>>
+Heading: A Numerical results of conductive state 17 
+
+manvi1.xml
+<<section>>
+Chunks: SelfieBoost: A Boosting Algorithm for ... seems to hold in practice.
+<<section>>
+Heading: 1 Introduction 
+Chunks: Deep learning, which involves training ... solution at each boosting iteration.
+<<section>>
+Heading: 2 The SelfieBoost Algorithm 
+Chunks: We now describe the SelfieBoost ... no such f t+1 found
+<<section>>
+Heading: 3 Analysis 
+Chunks: For any classifier, define M ... network with (1) being negative.
+<<section>>
+Heading: 4 Discussion and Future Work 
+Chunks: We have described ana analyzed ... results beyond binary classification problems.
+<<section>>
+Heading: References 
+
+sidhartha2tick.xml
+<<section>>
+Chunks: Seventh Workshop on Exploiting Semantic ... CA The Netherlands Stockholm, Sweden
+<<section>>
+Heading: ABSTRACT 
+Chunks: There is an increasing amount ... Search; Query Suggest; Semantic Annotation
+<<section>>
+Heading: 1. THEME AND TOPICS 
+Chunks: The goal of the seventh ... through an intractable information space.
+<<section>>
+Heading: 2. OBJECTIVES, GOALS, AND OUTCOME 
+Chunks: The ESAIR14 workshop will have ... to not creep out users?
+<<section>>
+Heading: 3. ACCEPTED PAPERS 
+Chunks: We requested the submission of ... of unconditionally embracing such inferences.
+<<section>>
+Heading: 4. FORMAT 
+Chunks: We start the day with ... Edwards) for their great support.
+<<section>>
+Heading: 5. REFERENCES 
+
+samuel15.xml
+<<section>>
+Chunks: Errata for SIGCOMM CCR (Vol. ... telescope; Spoofed traffic; Internet census
+<<section>>
+Heading: 1. INTRODUCTION AND MOTIVATION 
+Chunks: We discovered three errors in ... this overhead reduction to 38.5%.
+<<section>>
+Heading: 4. TECHNIQUES FOR A PASSIVE CENSUS 
+<<section>>
+Heading: 4.2 Measurements from darknets 
+Chunks: The second error we discovered ... in (an updated) Table 3.
+<<section>>
+Heading: 4.3 Validation 
+Chunks: The third error we discovered ... blocks known to be active.
+<<section>>
+Heading: 7. CONCLUSION 
+Chunks: In the conclusion of the ... of the previously reported 250K).
+<<section>>
+Heading: 7. REFERENCES 
+
+Rohith9.xml
+<<section>>
+Chunks: Proceedings of the 52nd Annual ... the Depart- ment of Defense.
+<<section>>
+Heading: 1 Introduction 
+Chunks: In recent years, neural network ... Translation) Arabic-English and Chinese-English conditions.
+<<section>>
+Heading: 2 Neural Network Joint Model (NNJM) 
+Chunks: Formally, our model approximates the ... a 15-gram LM would be
+<<section>>
+Heading: 1 We arbitrarily round down. 
+Chunks: 2 We have found that ... arbi- trarily large context sizes.
+<<section>>
+Heading: 2.1 Neural Network Architecture 
+Chunks: Our neural network architecture is ... are given in Section 6.5.
+<<section>>
+Heading: 2.2 Neural Network Training 
+Chunks: The training procedure is identical ... is performed on a CPU.
+<<section>>
+Heading: 2.3 Self-Normalized Neural Network 
+Chunks: The computational cost of NNLMs ... oughly compare self-normalization vs. NCE.
+<<section>>
+Heading: 2.4 Pre-Computing the Hidden Layer 
+Chunks: Although self-normalization significantly im- proves ... compared to the standard NNJM.
+<<section>>
+Heading: 3 Decoding with the NNJM 
+Chunks: Because our NNJM is fundamentally ... scores during hierarchical de- coding.
+<<section>>
+Heading: 3.2 Affiliation Heuristic 
+Chunks: For aligned target words, the ... affiliated with s i .
+<<section>>
+Heading: 4 Model Variations 
+Chunks: Recall that our NNJM feature ... use it in rescor- ing.
+<<section>>
+Heading: 4.1 Neural Network Lexical Translation Model (NNLTM) 
+Chunks: One issue with the S2T ... system used in our experiments.
+<<section>>
+Heading: 5.1 MT Decoder 
+Chunks: We use a state-of-the-art string-to-dependency ... highest overlap with our NNJM.
+<<section>>
+Heading: 5.2 Training and Optimization 
+Chunks: For Arabic word tokenization, we ... function (Rosti et al., 2010).
+<<section>>
+Heading: 6 Experimental Results 
+Chunks: We present MT primary results ... to further analyze our features.
+<<section>>
+Heading: 6.1 NIST OpenMT12 Results 
+Chunks: Our NIST system is fully ... show in the next section.
+<<section>>
+Heading: 6.2 Simple Hierarchical NIST Results 
+Chunks: The baseline used in the ... BLEU on top of that.
+<<section>>
+Heading: 6.3 BOLT Web Forum Results 
+Chunks: DARPA BOLT is a major ... features from all previous rows.
+<<section>>
+Heading: 6.4 Effect of k-best Rescoring Only 
+Chunks: Table 5 shows performance when ... the NNJM is used. 1376
+<<section>>
+Heading: 6.5 Effect of Neural Network Configuration 
+Chunks: Table 6 shows results using ... relative to the default NNJM.
+<<section>>
+Heading: 6.6 Effect of Speedups 
+Chunks: All previous results use a ... a low-latency, high-throughput MT engine.
+<<section>>
+Heading: 7 Related Work 
+Chunks: Although there has been a ... out- perform any past work.
+<<section>>
+Heading: 8 Discussion 
+
+Rohith12.xml
+<<section>>
+Chunks: Proceedings of the 52nd Annual ... high- and mid- frequency words.
+<<section>>
+Heading: 1 Introduction 
+Chunks: A key assumption of most ... whatever the value of .
+<<section>>
+Heading: 2 Systems 
+Chunks: 1. We parsed the BNC ... PMI (Church and Hanks, 1990).
+<<section>>
+Heading: 2. For each of the 3 rank-biased similarity sys- tems (R 
+Chunks: ,SI ) and cosine, we ... refer to as Wordsim 201.
+<<section>>
+Heading: 3. For each of 3 -skewed similarity systems (T 
+Chunks: ,SI ) and cosine, we ... best system in Table 1.
+<<section>>
+Heading: 3 Human correlations 
+Chunks: Table 1 presents the Spearmans ... Conversely, = .04 works better.
+<<section>>
+Heading: 5 Previous work 
+Chunks: The debt owed to Tversky ... 1 , w 2 ):
+<<section>>
+Heading: T SI (w 1 , w 2 ) = 1 
+Chunks: (w 1 ,w 1 ) ... the proportions in the mixture.
+<<section>>
+Heading: 6 Conclusion 
+
+ayush_2.xml
+<<section>>
+Chunks: arXiv:1402.2324v2 [stat.ML] 11 Jul 2014 ... matrix completion in Section 5.
+<<section>>
+Heading: 4 Main Results 
+Chunks: We now present our main ... to recover back M exactly.
+<<section>>
+Heading: 4.1 Matrix approximation 
+Chunks: Theorem 4.1. Let G be ... is given in appendix A.
+<<section>>
+Heading: 4.2 Nuclear norm minimization 
+Chunks: We now present our result ... still remains an open problem.
+<<section>>
+Heading: 5 Discussion 
+Chunks: In this section, we discuss ... takes exponential time to compute.
+<<section>>
+Heading: 7 Proof of Theorem 4.2 
+Chunks: In this section, we present ... < 1/2. Hence, proved. 12
+<<section>>
+Heading: 8 Conclusions 
+Chunks: In this paper, we provided ... s.t. || n 2 /4.
+<<section>>
+Heading: D Proofs of Lemmas used to prove Theorem 4.2 
+
+tulasi9.xml
+<<section>>
+Chunks: Geothermal exploration in Gujarat: case ... in Fig. 1c (Sharma 2013).
+<<section>>
+Heading: Abstract 
+
+tulasi3.xml
+<<section>>
+Chunks: Disconnected Operation in the Coda ... reintegration, second-class replication, server emulation
+<<section>>
+Heading: 1. INTRODUCTION 
+Chunks: Every serious user of a ... disconnections lasting a typical workday.
+<<section>>
+Heading: 2. DESIGN OVERVIEW 
+Chunks: Coda is designed for an ... open file yields its latest
+<<section>>
+Heading: 1 Unix is a trademark of AT&T Bell Telephone Labs 
+Chunks: ACM Transactions on Computer Systems, ... our design for disconnected operation.
+<<section>>
+Heading: 3. DESIGN RATIONALE 
+Chunks: At a high level, two ... issues in the following sections.
+<<section>>
+Heading: 3.1 Scalability 
+Chunks: Successful distributed systems tend to ... partition state of the network.
+<<section>>
+Heading: 3.2 Portable Workstations 
+Chunks: Powerful, lightweight and compact laptop ... different in the two cases.
+<<section>>
+Heading: 3.3 First- vs. Second-Class Replication 
+Chunks: If disconnected operation is feasible, ... operation if it so chooses.
+<<section>>
+Heading: 3.4 Optimistic vs. Pessimistic Replica Control 
+Chunks: By definition, a network partition ... throughout his now-enlarged accessible universe.
+<<section>>
+Heading: 4. DETAILED DESIGN AND IMPLEMENTATION 
+Chunks: In describing our implementation of ... Fig.2. Structure ofa Coda client.
+<<section>>
+Heading: 4.1 Client Structure 
+Chunks: Because of the complexity of ... critical for good performance [211,
+<<section>>
+Heading: 4.2 Venus States 
+Chunks: Logically, Venus operates in one ... failure conditions in the system.
+<<section>>
+Heading: 4.3 Hoarding 
+Chunks: The hoarding state is so ... little, but increases availability considerably.
+<<section>>
+Heading: 4.4 Emulation 
+Chunks: In the emulation state, Venus ... media such as floppy disks.
+<<section>>
+Heading: 4.5 Reintegration 
+Chunks: Reintegration is a transitory state ... correct approach for disconnected operation.
+<<section>>
+Heading: 5. STATUS AND EVALUATION 
+Chunks: Today, Coda runs on IBM ... (3) How likely are conflicts?
+<<section>>
+Heading: 5.1 Duration of Reintegration 
+Chunks: In our experience, typical disconnected ... disconnected session in our environment.
+<<section>>
+Heading: 5.2 Cache Size 
+Chunks: A local disk capacity of ... specified ex ante by users.
+<<section>>
+Heading: 5.3 Likelihood of Conflicts 
+Chunks: In our use of optimistic ... by Coda in our environment.
+<<section>>
+Heading: 6. RELATED WORK 
+Chunks: Coda is unique in that ... Coda File System . 23
+<<section>>
+Heading: 7. FUTURE WORK 
+Chunks: Disconnected operation in Coda is ... and caching at intermediate levels.
+<<section>>
+Heading: 8. CONCLUSION 
+Chunks: Disconnected operation is a tantalizingly ... Maria Okasaki, and David Steere.
+<<section>>
+Heading: REFERENCES 
+
+samuel5.xml
+<<section>>
+Chunks: AbstractThis paper proposes a lower ... Maps, multiple threads, Georegistration, Orthorectification
+<<section>>
+Heading: I. INTRODUCTION 
+Chunks: This paper is based on ... has been explained in [16].
+<<section>>
+Heading: II. PROPOSED METHODOLOGY 
+<<section>>
+Heading: A. CUDA Programming [7] 
+Chunks: Compute unified device architecture (CUDA) ... outputs to the global memory.
+<<section>>
+Heading: B. Enhancements to the original methodology 
+Chunks: The following enhancements were introduced ... CPU and GPU implementations, respectively.
+<<section>>
+Heading: C. Image Projection 
+Chunks: A georectified image has been ... + + + = (3)
+<<section>>
+Heading: C. Iterative Algorithm Description 
+Chunks: The following equations are based ... endfor endfor x; endfor y;
+<<section>>
+Heading: IV Implementation and Experimental results 
+<<section>>
+Heading: A. Multi threaded algorithm 
+Chunks: The iterative algorithm given above ... host cudaMemcpy(gpu_results, d_results, results_mem_size, cudaMemcpyDeviceToHost);
+<<section>>
+Heading: B. Experimental Results 
+Chunks: Various tests were conducted using ... Quad core Xeon based machine.
+<<section>>
+Heading: V Conclusion 
+Chunks: This paper gives extensive details ... in OpenCL as future works.
+<<section>>
+Heading: REFERENCES 
+
+mayank1.xml
+<<section>>
+Chunks: Accepted as a workshop contribution ... described in the previous section.
+<<section>>
+Heading: REFERENCES 
+
+manvi13.xml
+<<section>>
+Chunks: Supplement to Bayesian optimization explains ... human answers over test trials.
+<<section>>
+Heading: 3.2 Selection Criteria 
+Chunks: Below we explain the 5 ... uses the local gradient information.
+<<section>>
+Heading: 4 Convergence of Hit Rate and Function Calls 
+Chunks: f1 f5 0 50 100 ... happen over other algorithms. 5
+<<section>>
+Heading: 5 Stimuli in Interpolation and Extrapolation Tasks 

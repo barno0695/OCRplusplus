@@ -1,0 +1,9 @@
+<<map>>
+Author : Reda Alhajj 
+Email  : alhajj@ucalgary.ca
+<<map>>
+Author : Behrouz H. Far 
+Email  : far@ucalgary.ca
+<<map>>
+Author : Mohammad Moshirpour 
+Email  : mmoshirp@ucalgary.ca

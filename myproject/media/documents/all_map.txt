@@ -1,0 +1,844 @@
+
+Rohith19.xml
+
+sidhartha23tick.xml
+<<map>>
+Author : David Elsweiler 
+Email  : david@elsweiler.co.uk
+<<map>>
+Author : Evangelos Kanoulas 
+Email  : ekanoulas@gmail.com
+<<map>>
+Author : Liadh Kelly 
+Email  : lkelly@computing.dcu.ie
+<<map>>
+Author : Mark D. Smucker 
+Email  : msmucker@uwaterloo.ca
+
+ayush_3.xml
+
+manvi7.xml
+<<map>>
+Author : Martin Andrews 
+Email  : martin@redcatlabs.com
+
+Rohith18.xml
+
+ayush9.xml
+
+samuel13.xml
+<<map>>
+Author : George Varghese 
+Email  : varghese@microsoft.com
+
+Rohiththriplecolumn.xml
+
+barno1.xml
+<<map>>
+Author : Aleksandr I. Myslenkov 
+Email  : myslenkov@mail.ru
+
+tulasi19.xml
+
+phy1.xml
+<<map>>
+Author : MARYA BAZZI 
+Email  : bazzi@maths.ox.ac.uk
+<<map>>
+Author : SAM D. HOWISON 
+Email  : howison@maths.ox.ac.uk
+
+sidhartha17tick.xml
+
+manvi15.xml
+
+samuel1.xml
+<<map>>
+Author : Mirgita Frasheri 
+Email  : mirgita.frasheri@gmail.com
+
+Rohith17.xml
+
+PalodOld.xml
+
+phy3.xml
+
+ayush4.xml
+<<map>>
+Author : Hayley Hung 
+Email  : h.hung@tudelft.nl
+<<map>>
+Author : Hatice Gunes 
+Email  : h.gunes@qmul.ac.uk
+
+samuel1995.xml
+<<map>>
+Author : CORINNA CORTES 
+Email  : corinna@neural.att.com
+<<map>>
+Author : VLADIMIR VAPNIK 
+Email  : vlad@neural.att.com
+
+manvi4.xml
+<<map>>
+Author : Biao Wang 
+Email  : wangbiao@chungbuk.ac.kr
+<<map>>
+Author : Seokkeun Choi 
+Email  : skchoi@chungbuk.ac.kr
+<<map>>
+Author : Jaewan Choi 
+Email  : jaewanchoi@chungbuk.ac.kr
+<<map>>
+Author : Younggi Byun 
+Email  : ygbyun@kari.re.kr
+
+sidhartha22tick.xml
+
+Rohith3.xml
+<<map>>
+Author : Maoguo Gong 
+Email  : gong@ieee.org
+<<map>>
+Author : Jia Liu 
+Email  : lchjiao@ieee.org
+<<map>>
+Author : Qiguang Miao 
+Email  : qgmiao@xidian.edu.cn
+<<map>>
+Author : Jiaojiao Zhao 
+Email  : 942407055@qq.com
+
+sidhartha14.xml
+<<map>>
+Author : Junior Fabian 
+Email  : jfabian@cvc.uab.es
+<<map>>
+Author : Miguel A. Bautista 
+Email  : miguelangelbautistamartin@gmail.com
+<<map>>
+Author : Marc Oliu 
+Email  : moliusimon@gmail.com
+<<map>>
+Author : Isabelle Guyon 
+Email  : guyon@chalearn.org
+<<map>>
+Author : Sergio Escalera 
+Email  : sergio@maia.ub.es
+
+samuel17.xml
+<<map>>
+Author : Luciano De Sio 
+Email  : luciano@beamco.com
+
+samuel9.xml
+
+tulasi18.xml
+<<map>>
+Author : Jia Liu 
+Email  : liujia01@radi.ac.cn
+<<map>>
+Author : Yong Xue 
+Email  : xueyong@radi.ac.cn
+
+Rohith16.xml
+
+matter3.xml
+
+sidhartha6.xml
+<<map>>
+Author : Jacob G. Martin 
+Email  : jacob.vogelstein@jhuapl.edu
+<<map>>
+Author : Garrick Orchard 
+Email  : garrickorchard@nus.edu.sg
+<<map>>
+Author : R. Jacob Vogelstein 
+Email  : jacob.martin@jhuapl.edu
+
+samuel10.xml
+<<map>>
+Author : Abhay Kumar Alok 
+Email  : abhayalok@iitp.ac.in
+<<map>>
+Author : Sriparna Saha 
+Email  : sriparna@iitp.ac.in
+
+elsevier3.xml
+<<map>>
+Author : R. Alizadeh 
+Email  : mrbalizadeh@ut.ac.ir
+
+sidhartha5tick.xml
+<<map>>
+Author : Debarun Kar 
+Email  : dkar@usc.edu
+<<map>>
+Author : Milind Tambe 
+Email  : tambe@usc.edu
+
+sidhartha15.xml
+
+sidhartha10.xml
+
+maths3.xml
+<<map>>
+Author : A. Loi 
+Email  : loi@unica.it
+
+Rohith13.xml
+
+tulasi11.xml
+<<map>>
+Author : Tugrul Daim 
+Email  : tugrul@etm.pdx.edu
+
+Rohith21.xml
+<<map>>
+Author : Alan Jern 
+Email  : ajern@cmu.edu
+<<map>>
+Author : Charles Kemp 
+Email  : ckemp@cmu.edu
+
+tulasi14.xml
+<<map>>
+Author : Khalid Ashraf 
+Email  : ashrafkhalid@eecs.berkeley.edu
+<<map>>
+Author : Kurt Keutzer 
+Email  : keutzer@eecs.berkeley.edu
+
+tulasi10.xml
+<<map>>
+Author : Natt Leelawat 
+Email  : leelawat.n.aa@m.titech.ac.jp
+
+ayush2.xml
+<<map>>
+Author : Yunyao Li 
+Email  : yunyaoli@us.ibm.com
+
+Rohith20.xml
+
+ayush14.xml
+
+ayush1.xml
+<<map>>
+Author : Aparna S. Varde 
+Email  : vardea@montclair.edu
+
+samuel14.xml
+<<map>>
+Author : Gokay Huz 
+Email  : ghuz@cmand.org
+<<map>>
+Author : Steven Bauer 
+Email  : bauer@mit.edu
+<<map>>
+Author : Robert Beverly 
+Email  : rbeverly@nps.edu
+
+Rohith22.xml
+<<map>>
+Author : David Burkett 
+Email  : Inc.dburkett@twitter.com
+
+sidhartha7tick.xml
+<<map>>
+Author : Adithya Rao 
+Email  : adithya@klout.com
+
+sidhartha21tick.xml
+
+samuel16.xml
+<<map>>
+Author : Emanuele Angiuli 
+Email  : emanuele.angiuli@jrc.ec.europa.eu
+<<map>>
+Author : Giovanna Trianni 
+Email  : giovanna.trianni@unipv.it
+
+tulasi1.xml
+
+matter2.xml
+
+barno3.xml
+<<map>>
+Author : Wenzhong Shi 
+Email  : lswzshi@polyu.edu.hk
+
+ayush13.xml
+<<map>>
+Author : Chelsea Finn 
+Email  : cbfinn@eecs.berkeley.edu
+
+Rohith10.xml
+<<map>>
+Author : Ujwala M. Bhangale 
+Email  : ujwala.bhangale@iitb.ac.in
+
+Rohith23.xml
+<<map>>
+Author : Daniel Cer 
+Email  : danielcer@stanford.edu
+<<map>>
+Author : Richard Socher 
+Email  : richard@socher.org
+
+ayush6.xml
+<<map>>
+Author : Chenghua Xu 
+Email  : chxu@nlpr.ia.ac.cn
+
+manvi3.xml
+
+Rohith11.xml
+
+Rohith6.xml
+
+samuel20.xml
+<<map>>
+Author : Elizabeth G. Matzkin 
+Email  : ematzkin@partners.org
+
+samuel11.xml
+<<map>>
+Author : Anirudh Sivaraman 
+Email  : anirudh@mit.edu
+<<map>>
+Author : Keith Winstein 
+Email  : keithw@mit.edu
+<<map>>
+Author : Pauline Varley 
+Email  : paulinev@mit.edu
+<<map>>
+Author : Somak Das 
+Email  : das@mit.edu
+<<map>>
+Author : Joshua Ma 
+Email  : joshma@mit.edu
+
+sidhartha12.xml
+<<map>>
+Author : Prateek Jain 
+Email  : pjain@cs.utexas.edu
+
+PriyankOld.xml
+
+manvi2.xml
+<<map>>
+Author : Jonathan Berant 
+Email  : joberant@stanford.edu
+<<map>>
+Author : Andrew Chou 
+Email  : akchou@stanford.edu
+<<map>>
+Author : Percy Liang 
+Email  : pliang@cs.stanford.edu
+<<map>>
+Author : Roy Frostig 
+Email  : rf@cs.stanford.edu
+
+sidharthachi1tick.xml
+
+sidhartha11.xml
+<<map>>
+Author : Akansha Singh 
+Email  : akanshasing@gmail.com
+<<map>>
+Author : Krishna Kant Singh 
+Email  : krishnaiitr2011@gmail.com
+
+samuel8.xml
+
+manvi10.xml
+
+Rohith7.xml
+
+samuel4.xml
+<<map>>
+Author : Owen Rambow 
+Email  : rambow@ccls.columbia.edu
+<<map>>
+Author : Vinodkumar Prabhakaran 
+Email  : vinod@cs.columbia.edu
+
+manvi14.xml
+<<map>>
+Author : Tejovanth N 
+Email  : snrj@aero.iisc.ernet.in
+<<map>>
+Author : V. Mani 
+Email  : mani@aero.iisc.ernet.in
+
+samuel12.xml
+<<map>>
+Author : Zhi Cai 
+Email  : caiz@bjut.edu.cn
+
+tulasi13.xml
+<<map>>
+Author : Qilei Zhang 
+Email  : zhangqilei1985@gmail.com
+<<map>>
+Author : Wenge Chang 
+Email  : changwenge@nudt.edu.cn
+<<map>>
+Author : Michail Antoniou 
+Email  : m.antoniou@bham.ac.uk
+
+ayush12.xml
+<<map>>
+Author : Kratarth Goel 
+Email  : kratarthgoel@gmail.com
+<<map>>
+Author : Raunaq Vohra 
+Email  : ronvohra@gmail.com
+
+10.1.1.125.3310.xml
+
+manvi6.xml
+
+maths1.xml
+<<map>>
+Author : Leslie Hogben 
+Email  : hogben@aimath.org
+
+tulasi8.xml
+<<map>>
+Author : Givi Berikelashvili 
+Email  : berikela@yahoo.com
+
+tulasi2.xml
+
+tulasi4.xml
+<<map>>
+Author : Tao Lei 
+Email  : taolei@csail.mit.edu
+<<map>>
+Author : Yu Xin 
+Email  : yuxin@csail.mit.edu
+<<map>>
+Author : Yuan Zhang 
+Email  : yuanzh@csail.mit.edu
+<<map>>
+Author : Regina Barzilay 
+Email  : regina@csail.mit.edu
+<<map>>
+Author : Tommi Jaakkola 
+Email  : tommi@csail.mit.edu
+
+ayush3.xml
+<<map>>
+Author : Eugene Charniak 
+Email  : eugene@brown.edu
+
+ayush8.xml
+
+mayank4.xml
+
+ayush_1.xml
+<<map>>
+Author : Gong Xiaoliang 
+Email  : xlianggong@gmail.com
+
+manvi17.xml
+
+sidhartha24tick.xml
+<<map>>
+Author : Fabio Vitale 
+Email  : fabio.vitale@unimi.it
+
+sidhartha19tick.xml
+<<map>>
+Author : Jiaojiao Tian 
+Email  : jiaojiao.tian.peter.reinartz@dlr.de
+
+barno2.xml
+<<map>>
+Author : Nicolas Gast 
+Email  : nicolas.gast@inria.fr
+<<map>>
+Author : Guillaume Massonnet 
+Email  : guillaume.massonnet@inria.fr
+
+Rohith1995.xml
+<<map>>
+Author : Peter Pirolli 
+Email  : pirolli>@parc.xerox.com
+
+manvi8.xml
+<<map>>
+Author : Amir Zamir 
+Email  : zamir@stanford.edu
+<<map>>
+Author : Silvio Savarese 
+Email  : ssilvio@stanford.edu
+<<map>>
+Author : Roland Angst 
+Email  : rangst@mpi-inf.mpg.de
+
+tulasi5.xml
+<<map>>
+Author : Hiroki Nakayama 
+Email  : h-nakayama@cj.jp.nec.com
+<<map>>
+Author : Chihiro Ito 
+Email  : c-ito@az.jp.nec.com
+<<map>>
+Author : Kyota Kanno 
+Email  : k-kanno@ah.jp.nec.com
+
+manvi9.xml
+
+sidhartha16.xml
+
+ayush_4.xml
+
+tulasi6.xml
+<<map>>
+Author : Jason W Barnes 
+Email  : jwbarnes@uidaho.edu
+
+tulasi20.xml
+
+mayank2.xml
+<<map>>
+Author : Jennifer Dworak 
+Email  : jdworak@lyle.smu.edu
+
+ayush7.xml
+
+manvi18.xml
+
+manvi11.xml
+<<map>>
+Author : Ana Espinosa Ycaza 
+Email  : espinosadeycaza.ana@mayo.edu
+<<map>>
+Author : Alice Y. Chang 
+Email  : chang.alice1@mayo.edu
+<<map>>
+Author : Jani R. Jensen 
+Email  : jensen.jani@mayo.edu
+<<map>>
+Author : Zaraq Khan 
+Email  : khan.zaraq@mayo.edu
+<<map>>
+Author : Dana Erickson 
+Email  : erickson.dana@mayo.edu
+
+sidhartha4tick.xml
+<<map>>
+Author : Christophe Guyeux 
+Email  : christophe.guyeux@univ-fcomte.fr
+
+manvi19.xml
+<<map>>
+Author : Jeffrey Flanigan 
+Email  : jflanigan@cs.cmu.edu
+<<map>>
+Author : Sam Thomson 
+Email  : sthomson@cs.cmu.edu
+<<map>>
+Author : Chris Dyer 
+Email  : cdyer@cs.cmu.edu
+<<map>>
+Author : Noah A. Smith 
+Email  : nasmith@cs.cmu.edu
+
+manvi21.xml
+
+Rohith5.xml
+
+Rohith14.xml
+<<map>>
+Author : Prateek Jain 
+Email  : prajain@microsoft.com
+<<map>>
+Author : Purushottam Kar 
+Email  : purushot@cse.iitk.ac.in
+
+manvi5.xml
+<<map>>
+Author : Xiaozhi Chen 
+Email  : chenxz12@mails.tsinghua.edu.cn
+<<map>>
+Author : Kaustav Kundu 
+Email  : kkundu@cs.toronto.edu
+<<map>>
+Author : Yukun Zhu 
+Email  : yukun@cs.toronto.edu
+<<map>>
+Author : Andrew Berneshawi 
+Email  : andrew.berneshawi@mail.utoronto.ca
+<<map>>
+Author : Sanja Fidler 
+Email  : fidler@cs.toronto.edu
+<<map>>
+Author : Raquel Urtasun 
+Email  : urtasun@cs.toronto.edu
+
+sidhartha9tick.xml
+<<map>>
+Author : Yen-Yu Lin 
+Email  : yylin@iis.sinica.edu.tw
+
+manvi12.xml
+<<map>>
+Author : Meir Orenstein 
+Email  : meiro@ee.technion.ac.il
+
+sidhartha8tick.xml
+<<map>>
+Author : Zhigang Ma 
+Email  : ma@disi.unitn.it
+<<map>>
+Author : Yi Yang 
+Email  : yiyang@cs.cmu.edu
+<<map>>
+Author : Jasper Uijlings 
+Email  : uijlings@disi.unitn.it
+<<map>>
+Author : Nicu Sebe 
+Email  : sebe@disi.unitn.it
+
+samuel3.xml
+
+sidhartha18tick.xml
+<<map>>
+Author : Manik Varma 
+Email  : manik@robots.ox.ac.uk
+<<map>>
+Author : Andrew Zisserman 
+Email  : az@robots.ox.ac.uk
+
+samuel2.xml
+
+mayank3.xml
+<<map>>
+Author : Prateek Jain 
+Email  : prajain@microsoft.com
+
+tulasi7.xml
+<<map>>
+Author : Huseyin Kusetogullari 
+Email  : hok1@aber.ac.uk
+
+elsevier6.xml
+
+mayank5.xml
+<<map>>
+Author : Yanfei Zhong 
+Email  : zhongyanfei@whu.edu.cn
+<<map>>
+Author : Wenfeng Liu 
+Email  : liufeng4652177@163.com
+<<map>>
+Author : Ji Zhao 
+Email  : zhaoji2015@gmail.com
+<<map>>
+Author : Liangpei Zhang 
+Email  : zlp62@whu.edu.cn
+
+manvi16.xml
+
+sidhartha20tick.xml
+<<map>>
+Author : Anisoara Nica 
+Email  : anisoara.nica@sybase.com
+<<map>>
+Author : Aparna S. Varde 
+Email  : vardea@montclair.edu
+
+tulasi12.xml
+<<map>>
+Author : Le Quang Hoa 
+Email  : hoalqbk@gmail.com
+<<map>>
+Author : Nguyen Huy Truong 
+Email  : truong.nguyenhuy@hust.edu.vn
+
+samuel6.xml
+<<map>>
+Author : Hong-Mei Zhao 
+Email  : zhm8012@tom.com
+
+sidhartha3tick.xml
+
+samuel7.xml
+
+tulasi15.xml
+<<map>>
+Author : Vittorio Ferrari 
+Email  : vferrari@inf.ed.ac.uk
+<<map>>
+Author : Mirella Lapata 
+Email  : mlap@inf.ed.ac.uk
+
+Rohith8.xml
+
+Rohith15.xml
+
+sidharthatick1999ieee.xml
+
+sidhartha13.xml
+<<map>>
+Author : Prateek Jain 
+Email  : pjain@cs.utexas.edu
+<<map>>
+Author : Kristen Grauman 
+Email  : grauman@cs.utexas.edu
+
+matter5.xml
+
+tulasi16.xml
+<<map>>
+Author : Turgay Celik 
+Email  : celikturgay@gmail.com
+
+manvi20.xml
+<<map>>
+Author : J. Delamare 
+Email  : j.s.r.delamare@student.utwente.nl
+<<map>>
+Author : B. Bitachon 
+Email  : b.bitachon@student.utwente.nl
+<<map>>
+Author : Z. Peng 
+Email  : z.peng-1@student.utwente.nl
+<<map>>
+Author : Y. Wang 
+Email  : y.wang-6@student.utwente.nl
+<<map>>
+Author : M.R. Jongerden 
+Email  : m.r.jongerden@utwente.nl
+
+ayush5.xml
+
+tulasi17.xml
+<<map>>
+Author : Prateek Jain 
+Email  : prajain@microsoft.com
+<<map>>
+Author : Praneeth Netrapalli 
+Email  : praneethn@utexas.edu
+<<map>>
+Author : Sujay Sanghavi 
+Email  : sanghavi@mail.utexas.edu
+
+sidhartha1tick.xml
+<<map>>
+Author : Dong Wen 
+Email  : dong.wen@student.uts.edu.au
+<<map>>
+Author : Lu Qin 
+Email  : lu.qin@uts.edu.au;
+<<map>>
+Author : Jeffrey Xu Yu 
+Email  : lxue@cse.unsw.edu.au
+
+samuel18.xml
+
+10.1.1.123.1085.xml
+
+ayush10.xml
+
+ayush11.xml
+<<map>>
+Author : Manuel Gomez-Rodriguez 
+Email  : manuelgr@mpi-sws.org
+<<map>>
+Author : Le Song 
+Email  : lsong@cc.gatech.edu
+
+samuel19.xml
+<<map>>
+Author : Ryosuke Yano 
+Email  : yano@k.u-tokyo.ac.jp
+
+manvi1.xml
+
+sidhartha2tick.xml
+
+samuel15.xml
+<<map>>
+Author : Alberto Dainotti 
+Email  : alberto@caida.org
+<<map>>
+Author : Karyn Benson 
+Email  : karyn@caida.org
+<<map>>
+Author : Alistair King 
+Email  : alistair@caida.org
+<<map>>
+Author : Eduard Glatz 
+Email  : eglatz@tik.ee.ethz.ch
+<<map>>
+Author : Michael Kallitsis 
+Email  : kc@caida.org
+
+Rohith9.xml
+<<map>>
+Author : Jacob Devlin 
+Email  : jdevlin@bbn.com
+<<map>>
+Author : Rabih Zbib 
+Email  : rzbib@bbn.com
+<<map>>
+Author : Zhongqiang Huang 
+Email  : zhuang@bbn.com
+<<map>>
+Author : Thomas Lamar 
+Email  : tlamar@bbn.com
+<<map>>
+Author : Richard Schwartz 
+Email  : schwartz@bbn.com
+<<map>>
+Author : John Makhoul 
+Email  : makhoul@bbn.com
+
+Rohith12.xml
+
+ayush_2.xml
+<<map>>
+Author : Srinadh Bhojanapalli 
+Email  : bsrinadh@utexas.edu
+<<map>>
+Author : Prateek Jain 
+Email  : prajain@microsoft.com
+
+tulasi9.xml
+<<map>>
+Author : Anirbid Sircar 
+Email  : anirbid.sircar@spt.pdpu.ac.in
+
+tulasi3.xml
+
+samuel5.xml
+
+mayank1.xml
+<<map>>
+Author : Ross Goroshin 
+Email  : goroshin@cims.nyu.edu
+<<map>>
+Author : Joan Bruna 
+Email  : bruna@cims.nyu.edu
+<<map>>
+Author : Jonathan Tompson 
+Email  : tompson@cims.nyu.edu
+<<map>>
+Author : David Eigen 
+Email  : deigen@cims.nyu.edu
+<<map>>
+Author : Yann LeCun 
+Email  : yann@cims.nyu.edu
+
+manvi13.xml
+<<map>>
+Author : Ali Borji 
+Email  : borji@usc.edu
+<<map>>
+Author : Laurent Itti 
+Email  : itti@usc.edu
