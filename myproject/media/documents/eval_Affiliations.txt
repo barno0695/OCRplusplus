@@ -1,4 +1,1 @@
-<<Affiliation>> University of Calgary Department of Electrical and Computer Engineering 2500 University Dr NW Calgary AB Canada
-<<Affiliation>> T2N 1N4
-<<Affiliation>> Calgary Department of Computer Science 2500 University Dr NW Calgary AB Canada
-<<Affiliation>> T2N 1N4
+<<Affiliation>> State Key Laboratory Intelligent Technology and Systems Tsinghua National Laboratory for Information Science and Technology Department of Computer Sci and Tech Tsinghua University Beijing 100084 China

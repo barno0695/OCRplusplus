@@ -82,7 +82,7 @@
 					var htmlstuff = ""
 					var libraries = [];
 					$.ajax({
-						url: '/gettabfig/',
+						url: '/getcitref/',
 						type: 'GET',
 						success: function(response) {
 							// console.log(response)
@@ -93,16 +93,18 @@
 							}
 							else
 							{
-								var cnames = response.split("<<figure>>");
+								var cnames = response.split("<<citation>>");
 								console.log(cnames);
 								for(var i=1; i<cnames.length; i++)
 								{
-									htmlstuff = htmlstuff + "<tr><th scope=\"row\">" + i.toString() + "</th><td>"+ cnames[i] +"</td></tr>"
+									tab = cnames[i].split("<<reference>>")[0];
+									console.log(tab);
+									htmlstuff = htmlstuff + "<tr><th scope=\"row\">" + i.toString() + "</th><td>"+ tab +"</td></tr>"
 								}
 
 							}
 
-							document.getElementById("figures").innerHTML = htmlstuff;
+							document.getElementById("citations").innerHTML = htmlstuff;
 						},
 						error: function(error) {
 							console.log(error);
@@ -115,7 +117,7 @@
 					<div class="col-md-6 col-sm-6 col-xs-12">
 					    <div class="x_panel">
 					        <div class="x_title">
-					            <h2>Figure Headings</h2>
+					            <h2>Citations</h2>
 					            <ul class="nav navbar-right panel_toolbox">
 					                <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
 					                </li>
@@ -130,10 +132,10 @@
 					                <thead>
 					                    <tr>
 					                        <th>#</th>
-					                        <th>Figure</th>
+					                        <th>Citation</th>
 					                    </tr>
 					                </thead>
-					                <tbody id="figures">
+					                <tbody id="Citations">
 
 					                </tbody>
 					            </table>

@@ -82,7 +82,7 @@
 					var htmlstuff = ""
 					var libraries = [];
 					$.ajax({
-						url: '/gettabfig/',
+						url: '/geturl/',
 						type: 'GET',
 						success: function(response) {
 							// console.log(response)
@@ -93,8 +93,7 @@
 							}
 							else
 							{
-								var cnames = response.split("<<figure>>");
-								console.log(cnames);
+								var cnames = response.split("<url>>");
 								for(var i=1; i<cnames.length; i++)
 								{
 									htmlstuff = htmlstuff + "<tr><th scope=\"row\">" + i.toString() + "</th><td>"+ cnames[i] +"</td></tr>"
@@ -102,7 +101,7 @@
 
 							}
 
-							document.getElementById("figures").innerHTML = htmlstuff;
+							document.getElementById("urls").innerHTML = htmlstuff;
 						},
 						error: function(error) {
 							console.log(error);
@@ -112,10 +111,10 @@
 				</script>
 
 				<div class="row">
-					<div class="col-md-6 col-sm-6 col-xs-12">
+					<div class="col-md-4 col-sm-4 col-xs-12">
 					    <div class="x_panel">
 					        <div class="x_title">
-					            <h2>Figure Headings</h2>
+					            <h2>URLs</h2>
 					            <ul class="nav navbar-right panel_toolbox">
 					                <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
 					                </li>
@@ -130,10 +129,10 @@
 					                <thead>
 					                    <tr>
 					                        <th>#</th>
-					                        <th>Figure</th>
+					                        <th>URL</th>
 					                    </tr>
 					                </thead>
-					                <tbody id="figures">
+					                <tbody id="urls">
 
 					                </tbody>
 					            </table>
@@ -142,10 +141,8 @@
 					    </div>
 					</div>
 
-					<div class="col-md-6 col-sm-6 col-xs-12" >
-						<!-- <div class="col-md-6 col-sm-6 col-xs-12" style="position:fixed;"> -->
-				        	<embed class = "x_panel" src="../../media/documents/input.pdf" height="500px">
-						<!-- </div> -->
+					<div class="col-md-8 col-sm-8 col-xs-12">
+				        <embed class = "x_panel" src="../../media/documents/input.pdf" height="500px">
 					</div>
 
 				</div>

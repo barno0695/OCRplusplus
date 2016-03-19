@@ -1,16 +1,8 @@
 
 <email>
-	mmoshirp@ucalgary.ca
+	qixia.jiang@gmail.com
 </email>
 
 <email>
-	smmelshe@ucalgary.ca
-</email>
-
-<email>
-	alhajj@ucalgary.ca
-</email>
-
-<email>
-	far@ucalgary.ca
+	sms@tsinghua.edu.cn
 </email>

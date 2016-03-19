@@ -1,48 +1,24 @@
 <?xml version="1.0" ?>
 <title_author>
 	<title>
-	Analyzing the Scalability of a Social Network of Agents 
+	Semi-Supervised SimHash for Efﬁcient Document Similarity Search 
 
 	</title>
 	<name>
 		<first_name>
-			Mohammad
+			Qixia
 		</first_name>
 		<last_name>
-			Moshirpour
+			Jiang
 		</last_name>
 	</name>
 
 	<name>
 		<first_name>
-			Shimaa
-		</first_name>
-		<middle_name>
-			M. 
-		</middle_name>
-		<last_name>
-			El-Sherif
-		</last_name>
-	</name>
-
-	<name>
-		<first_name>
-			Reda
+			Maosong
 		</first_name>
 		<last_name>
-			Alhajj
-		</last_name>
-	</name>
-
-	<name>
-		<first_name>
-			Behrouz
-		</first_name>
-		<middle_name>
-			H. 
-		</middle_name>
-		<last_name>
-			Far
+			Sun
 		</last_name>
 	</name>
 

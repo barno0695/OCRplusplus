@@ -1,9 +1,6 @@
 <<map>>
-Author : Reda Alhajj 
-Email  : alhajj@ucalgary.ca
+Author : Qixia Jiang 
+Email  : qixia.jiang@gmail.com
 <<map>>
-Author : Behrouz H. Far 
-Email  : far@ucalgary.ca
-<<map>>
-Author : Mohammad Moshirpour 
-Email  : mmoshirp@ucalgary.ca
+Author : Maosong Sun 
+Email  : sms@tsinghua.edu.cn

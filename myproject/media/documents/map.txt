@@ -1,14 +1,10 @@
 <email_author>
 	<map>
-		Reda Alhajj 
-		alhajj@ucalgary.ca
+		Qixia Jiang 
+		qixia.jiang@gmail.com
 	</map>
 	<map>
-		Behrouz H. Far 
-		far@ucalgary.ca
-	</map>
-	<map>
-		Mohammad Moshirpour 
-		mmoshirp@ucalgary.ca
+		Maosong Sun 
+		sms@tsinghua.edu.cn
 	</map>
 </email_author>

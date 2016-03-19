@@ -92,6 +92,18 @@ def table_heading(request):
 def figure_heading(request):
     return render(request, "myapp/figure_heading.html")
 
+def url(request):
+    return render(request, "myapp/url.html")
+
+def footnote(request):
+    return render(request, "myapp/footnote.html")
+
+def citation(request):
+    return render(request, "myapp/citation.html")
+
+def reference(request):
+    return render(request, "myapp/reference.html")
+
 def getauthor(request):
     if request.method == 'GET':
         resp = ""
@@ -181,4 +193,43 @@ def gettabfig(request):
             resp = "No file"
 
         response = {'status': 1, 'message': "Confirmed!!", 'url':'/table_heading/'}
+        return HttpResponse(resp, content_type='string')
+
+def geturl(request):
+    if request.method == 'GET':
+        resp = ""
+        if os.path.isfile(directory + "eval_url.txt"):
+            resp = open(directory + "eval_url.txt").read()
+            if len(resp)==0:
+                resp = "No file"
+        else:
+            resp = "No file"
+
+        response = {'status': 1, 'message': "Confirmed!!", 'url':'/url/'}
+        return HttpResponse(resp, content_type='string')
+
+def getfootnote(request):
+    if request.method == 'GET':
+        resp = ""
+        if os.path.isfile(directory + "eval_footnote.txt"):
+            resp = open(directory + "eval_footnote.txt").read()
+            if len(resp)==0:
+                resp = "No file"
+        else:
+            resp = "No file"
+
+        response = {'status': 1, 'message': "Confirmed!!", 'url':'/footnote/'}
+        return HttpResponse(resp, content_type='string')
+
+def getcitref(request):
+    if request.method == 'GET':
+        resp = ""
+        if os.path.isfile(directory + "eval_citref.txt"):
+            resp = open(directory + "eval_citref.txt").read()
+            if len(resp)==0:
+                resp = "No file"
+        else:
+            resp = "No file"
+
+        response = {'status': 1, 'message': "Confirmed!!", 'url':'/reference/'}
         return HttpResponse(resp, content_type='string')

@@ -1,25 +1,17 @@
+<<table>>
+Table 1: Averaged intra- and inter- class Hamming dis- tance of 20 Newsgroups for 32-bit fingerprint. is the difference between the averaged inter- and intra- class Hamming distance. Large implies good hashing.
+<<table>>
+Table 2: Averaged intra- and inter- class Hamming dis- tance of ODP for 32-bit fingerprint (860K features). is the difference between averaged intra- and inter- class Hamming distance.
 
 <<figure>>
-Figure 1. Spiral workflow between semantic search and concept learning
+Figure 1: Mean Averaged Precision (MAP) for different number of bits for hash ranking on 20 Newsgroups. (a) 10K features. (b) 30K features.
 <<figure>>
-Figure 2. Semantic search system architecture
+Figure 2: Precision within Hamming radius 3 for hash lookup on 20 Newsgroups. (a) 10K features. (b) 30K features.
 <<figure>>
-Figure 3 shows different agent roles in each MAS in our prototype system [2]. In this system, agents of different MASs are the nodes in a social network. They connect with each other by a tie.
+Figure 3: Averaged searched sample numbers using 4K query messages for hash lookup. (a) 10K features. (b) 30K features.
 <<figure>>
-Figure 3. Agent roles within the semantic search engine
+Figure 4: Computational complexity of training for dif- ferent feature dimensions for 32-bit fingerprint. (a) Train- ing time (sec). (b) Training space cost (MB).
 <<figure>>
-Figure 4. The tie between MAS A and B are established based on their mutual peers
+Figure 5: Overview of ODP data set. (a) Class distribu- tion at level 3. (b) Distribution of document length.
 <<figure>>
-Figure 5. The relation between MAS A and B is decided based on their ability to cooperate on a given query
-<<figure>>
-Figure 6. The tie between MAS A and B are established based on how frequently they contact each other
-<<figure>>
-Figure 7. The union of state machines built from MSCs 1 and 2
-<<figure>>
-Figure 8. Behavior model of the system after scaling
-<<figure>>
-Figure 9. Resulted FSM after merging identical states
-<<figure>>
-Figure 10. Screenshot of the tool's user interface; displaying an imported MSC
-<<figure>>
-Figure 11. Screenshot of the tool's user interface; displaying a constructed FSM
+Figure 6: Retrieval performance of different methods on ODP. (a) Mean Averaged Precision (MAP) for different number of bits for hash ranking. (b) Precision within Hamming radius 2 for hash lookup.

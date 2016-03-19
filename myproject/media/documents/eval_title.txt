@@ -1,2 +1,2 @@
 <<title>>
-Title : Analyzing the Scalability of a Social Network of Agents 
+Title : Semi-Supervised SimHash for Efﬁcient Document Similarity Search 
