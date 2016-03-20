@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	{% include "myapp/includes/header.html" %}
+	{% include "includes/header.html" %}
 
 	<style>
         * {
@@ -74,7 +74,7 @@
 
 		<div class="main_container">
 
-			{% include "myapp/includes/leftandtop.html" %}
+			{% include "includes/leftandtop.html" %}
 			<!-- page content -->
 			<div class="right_col" role="main">
 
@@ -82,28 +82,42 @@
 					var htmlstuff = ""
 					var libraries = [];
 					$.ajax({
-						url: '/getcitref/',
+						url: '/getsection/',
 						type: 'GET',
 						success: function(response) {
 							console.log(response)
 
 							if(response == "No file")
 							{
-								htmlstuff = htmlstuff + "<tr><th scope=\"row\">N.A.</th><td>N.A.</td></tr>"
+								htmlstuff = htmlstuff + "<li><div class=\"block\"><div class=\"block_content\"><h2 class=\"title\"><a>N.A.</a></h2><p class=\"excerpt\">N.A.</p></div></div></li>"
 							}
 							else
 							{
-								var cnames = response.split("<<reference>> ");
+								var cnames = response.split("<<section>>");
 								console.log(cnames);
 								for(var i=1; i<cnames.length; i++)
 								{
-									console.log(cnames[i])
-									htmlstuff = htmlstuff + "<tr><th scope=\"row\">" + i.toString() + "</th><td>"+ cnames[i] +"</td></tr>"
+									head = "N.A."
+									chunk = "N.A."
+									if(cnames[i].indexOf("Heading: ") > -1)
+									{
+										heading = cnames[i].split("Heading: ")[1];
+										head = heading.split("Chunks: ")[0];
+										if(cnames[i].indexOf("Chunks: ") > -1)
+										{
+											chunk = heading.split("Chunks: ")[1];
+										}
+									}
+									else
+									{
+										chunk = cnames[i].split("Chunks: ")[1];
+									}
+									htmlstuff = htmlstuff + "<li><div class=\"block\"><div class=\"block_content\"><h2 class=\"title\"><a>"+ head +"</a></h2><p class=\"excerpt\">"+ chunk +"</p></div></div></li>"
 								}
 
 							}
 
-							document.getElementById("references").innerHTML = htmlstuff;
+							document.getElementById("map").innerHTML = htmlstuff;
 						},
 						error: function(error) {
 							console.log(error);
@@ -114,33 +128,31 @@
 
 				<div class="row">
 					<div class="col-md-6 col-sm-6 col-xs-12">
-					    <div class="x_panel">
-					        <div class="x_title">
-					            <h2>References</h2>
-					            <ul class="nav navbar-right panel_toolbox">
-					                <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
-					                </li>
 
-					                <li><a class="close-link"><i class="fa fa-close"></i></a>
-					                </li>
-					            </ul>
-					            <div class="clearfix"></div>
-					        </div>
-					        <div class="x_content">
-					            <table class="table table-hover">
-					                <thead>
-					                    <tr>
-					                        <th>#</th>
-					                        <th>Reference</th>
-					                    </tr>
-					                </thead>
-					                <tbody id="references">
+                        <div class="x_panel">
+                            <div class="x_title">
+                                <h2>Sections</h2>
+                                <ul class="nav navbar-right panel_toolbox">
+                                    <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                                    </li>
+                                    <li><a class="close-link"><i class="fa fa-close"></i></a>
+                                    </li>
+                                </ul>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="x_content">
+                                <div class="dashboard-widget-content">
 
-					                </tbody>
-					            </table>
+                                    <ul class="list-unstyled timeline widget">
+										<div id="map">
+										</div>
 
-					        </div>
-					    </div>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
 					</div>
 
 					<div class="col-md-6 col-sm-6 col-xs-12">
@@ -150,7 +162,7 @@
 				</div>
 
 				<footer>
-					{% include "myapp/includes/footer.html" %}
+					{% include "includes/footer.html" %}
 				</footer>
 				<!-- /footer content -->
 			</div>
@@ -166,35 +178,35 @@
 		<div id="notif-group" class="tabbed_notifications"></div>
 	</div>
 
-	<script src="/static/myapp/js/bootstrap.min.js"></script>
+	<script src="/static/js/bootstrap.min.js"></script>
 
 	<!-- gauge js -->
-	<script type="text/javascript" src="/static/myapp/js/gauge/gauge.min.js"></script>
-	<script type="text/javascript" src="/static/myapp/js/gauge/gauge_demo.js"></script>
+	<script type="text/javascript" src="/static/js/gauge/gauge.min.js"></script>
+	<script type="text/javascript" src="/static/js/gauge/gauge_demo.js"></script>
 	<!-- chart js -->
-	<script src="/static/myapp/js/chart/static/myapp/js/chart.min.js"></script>
+	<script src="/static/js/chart/static/js/chart.min.js"></script>
 	<!-- bootstrap progress js -->
-	<script src="/static/myapp/js/progressbar/bootstrap-progressbar.min.js"></script>
-	<script src="/static/myapp/js/nicescroll/jquery.nicescroll.min.js"></script>
+	<script src="/static/js/progressbar/bootstrap-progressbar.min.js"></script>
+	<script src="/static/js/nicescroll/jquery.nicescroll.min.js"></script>
 	<!-- icheck -->
-	<script src="/static/myapp/js/icheck/icheck.min.js"></script>
+	<script src="/static/js/icheck/icheck.min.js"></script>
 	<!-- daterangepicker -->
-	<script type="text/javascript" src="/static/myapp/js/moment.min.js"></script>
-	<script type="text/javascript" src="/static/myapp/js/datepicker/daterangepicker.js"></script>
+	<script type="text/javascript" src="/static/js/moment.min.js"></script>
+	<script type="text/javascript" src="/static/js/datepicker/daterangepicker.js"></script>
 
-	<script src="/static/myapp/js/custom.js"></script>
+	<script src="/static/js/custom.js"></script>
 
 	<!-- flot js -->
-	<!--[if lte IE 8]><script type="text/javascript" src="/static/myapp/js/excanvas.min.js"></script><![endif]-->
-	<script type="text/javascript" src="/static/myapp/js/flot/jquery.flot.js"></script>
-	<script type="text/javascript" src="/static/myapp/js/flot/jquery.flot.pie.js"></script>
-	<script type="text/javascript" src="/static/myapp/js/flot/jquery.flot.orderBars.js"></script>
-	<script type="text/javascript" src="/static/myapp/js/flot/jquery.flot.time.min.js"></script>
-	<script type="text/javascript" src="/static/myapp/js/flot/date.js"></script>
-	<script type="text/javascript" src="/static/myapp/js/flot/jquery.flot.spline.js"></script>
-	<script type="text/javascript" src="/static/myapp/js/flot/jquery.flot.stack.js"></script>
-	<script type="text/javascript" src="/static/myapp/js/flot/curvedLines.js"></script>
-	<script type="text/javascript" src="/static/myapp/js/flot/jquery.flot.resize.js"></script>
+	<!--[if lte IE 8]><script type="text/javascript" src="/static/js/excanvas.min.js"></script><![endif]-->
+	<script type="text/javascript" src="/static/js/flot/jquery.flot.js"></script>
+	<script type="text/javascript" src="/static/js/flot/jquery.flot.pie.js"></script>
+	<script type="text/javascript" src="/static/js/flot/jquery.flot.orderBars.js"></script>
+	<script type="text/javascript" src="/static/js/flot/jquery.flot.time.min.js"></script>
+	<script type="text/javascript" src="/static/js/flot/date.js"></script>
+	<script type="text/javascript" src="/static/js/flot/jquery.flot.spline.js"></script>
+	<script type="text/javascript" src="/static/js/flot/jquery.flot.stack.js"></script>
+	<script type="text/javascript" src="/static/js/flot/curvedLines.js"></script>
+	<script type="text/javascript" src="/static/js/flot/jquery.flot.resize.js"></script>
 	<script>
 	$(document).ready(function () {
 		// [17, 74, 6, 39, 20, 85, 7]
@@ -257,12 +269,12 @@
 	</script>
 
 	<!-- worldmap -->
-	<script type="text/javascript" src="/static/myapp/js/maps/jquery-jvectormap-2.0.3.min.js"></script>
-	<script type="text/javascript" src="/static/myapp/js/maps/gdp-data.js"></script>
-	<script type="text/javascript" src="/static/myapp/js/maps/jquery-jvectormap-world-mill-en.js"></script>
-	<script type="text/javascript" src="/static/myapp/js/maps/jquery-jvectormap-us-aea-en.js"></script>
+	<script type="text/javascript" src="/static/js/maps/jquery-jvectormap-2.0.3.min.js"></script>
+	<script type="text/javascript" src="/static/js/maps/gdp-data.js"></script>
+	<script type="text/javascript" src="/static/js/maps/jquery-jvectormap-world-mill-en.js"></script>
+	<script type="text/javascript" src="/static/js/maps/jquery-jvectormap-us-aea-en.js"></script>
 	<!-- pace -->
-	<script src="/static/myapp/js/pace/pace.min.js"></script>
+	<script src="/static/js/pace/pace.min.js"></script>
 	<script>
 	$(function () {
 		$('#world-map-gdp').vectorMap({
@@ -283,7 +295,7 @@
 	});
 	</script>
 	<!-- skycons -->
-	<script src="/static/myapp/js/skycons/skycons.min.js"></script>
+	<script src="/static/js/skycons/skycons.min.js"></script>
 	<script>
 	var icons = new Skycons({
 		"color": "#73879C"

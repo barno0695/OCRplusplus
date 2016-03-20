@@ -59,50 +59,50 @@ def list(request):
 
     # Render list page with the documents and the form
     return render_to_response(
-        'myapp/home.html',
+        'home.html',
         {'documents': documents, 'form': form},
 
         context_instance=RequestContext(request)
     )
 
 def author_names(request):
-    return render(request, "myapp/author_names.html")
+    return render(request, "author_names.html")
 
 def title(request):
-    return render(request, "myapp/title.html")
+    return render(request, "title.html")
 
 def home(request):
-    return render(request, "myapp/home.html")
+    return render(request, "home.html")
 
 def email(request):
-    return render(request, "myapp/email.html")
+    return render(request, "email.html")
 
 def affiliation(request):
-    return render(request, "myapp/affiliation.html")
+    return render(request, "affiliation.html")
 
 def map(request):
-    return render(request, "myapp/map.html")
+    return render(request, "map.html")
 
 def section(request):
-    return render(request, "myapp/section.html")
+    return render(request, "section.html")
 
 def table_heading(request):
-    return render(request, "myapp/table_heading.html")
+    return render(request, "table_heading.html")
 
 def figure_heading(request):
-    return render(request, "myapp/figure_heading.html")
+    return render(request, "figure_heading.html")
 
 def url(request):
-    return render(request, "myapp/url.html")
+    return render(request, "url.html")
 
 def footnote(request):
-    return render(request, "myapp/footnote.html")
+    return render(request, "footnote.html")
 
 def citation(request):
-    return render(request, "myapp/citation.html")
+    return render(request, "citation.html")
 
 def reference(request):
-    return render(request, "myapp/reference.html")
+    return render(request, "reference.html")
 
 def getauthor(request):
     if request.method == 'GET':

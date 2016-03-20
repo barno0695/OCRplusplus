@@ -1,6 +1,12 @@
 <<map>>
-Author : Qixia Jiang 
-Email  : qixia.jiang@gmail.com
+Author : Tanmoy Chakraborty 
+Email  : tanmoy@cse.iitkgp.ernet.in
 <<map>>
-Author : Maosong Sun 
-Email  : sms@tsinghua.edu.cn
+Author : Sandipan Sikdar 
+Email  : sandipansikdar@cse.iitkgp.ernet.in
+<<map>>
+Author : Niloy Ganguly 
+Email  : niloy@cse.iitkgp.ernet.in
+<<map>>
+Author : Vihar Tammana 
+Email  : vihartsk@gmail.com

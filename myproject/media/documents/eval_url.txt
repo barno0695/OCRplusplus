@@ -1,6 +1,8 @@
 <<url>>
-http://www.burtleburtle.net/bob/hash/doobs.html
+http://arnetminer.org/citation
 <<url>>
-http://www.cs.cmu.edu/afs/cs/project/theo-3/www/
+http://academic.research.microsoft.com/
 <<url>>
-http://rdf.dmoz.org/
+http://www.nsf.gov/
+<<url>>
+http://cnerg.org

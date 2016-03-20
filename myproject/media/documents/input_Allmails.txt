@@ -1,8 +1,24 @@
 
 <email>
-	qixia.jiang@gmail.com
+	its@cse.iitkgp.ernet.in
 </email>
 
 <email>
-	sms@tsinghua.edu.cn
+	tanmoy@cse.iitkgp.ernet.in
+</email>
+
+<email>
+	sandipansikdar@cse.iitkgp.ernet.in
+</email>
+
+<email>
+	niloy@cse.iitkgp.ernet.in
+</email>
+
+<email>
+	animeshm@cse.iitkgp.ernet.in
+</email>
+
+<email>
+	vihartsk@gmail.com
 </email>

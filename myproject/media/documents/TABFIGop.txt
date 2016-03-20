@@ -1,16 +1,18 @@
 <?xml version="1.0" ?>
 <Tables_Figures>
 	<Tables>
-		<table>Table 1: Averaged intra- and inter- class Hamming dis- tance of 20 Newsgroups for 32-bit fingerprint. is the difference between the averaged inter- and intra- class Hamming distance. Large implies good hashing. </table>
-		<table>Table 2: Averaged intra- and inter- class Hamming dis- tance of ODP for 32-bit fingerprint (860K features). is the difference between averaged intra- and inter- class Hamming distance. </table>
+		<table>TABLE I. GENERAL INFORMATION OF RAW AND FILTERED DATASET. </table>
+		<table>TABLE II. PERCENTAGE </table>
+		<table>TABLE III. HEURISTICS APPLIED FOR CONTINENT TAGGING. </table>
+		<table>TABLE IV. COMMUNITY SCORING FUNCTIONS OF THE NETWORK IN DIFFERENT TIME-WINDOWS WITH THE GROUND-TRUTH (GT) AND RANDOM (RN) COMMUNITIES. </table>
+		<table>TABLE V. RANKING </table>
+		<table>TABLE VI. FUNDING STATISTICS COMPARED WITH THE INWARDNESS RESULTS (TOP THREE RANKED FIELDS ARE TABULATED FROM LEFT TO RIGHT). </table>
+		<table>TABLE VII. CORRELATIONS BETWEEN OUR RECOMMENDATIONS (OUR) WITH THE SUBMIT (SUBMIT) AND AWARD (AWARD) PATTERNS OF GRANTS. </table>
 	</Tables>
 	<Figures>
-		<figure>Figure 1: Mean Averaged Precision (MAP) for different number of bits for hash ranking on 20 Newsgroups. (a) 10K features. (b) 30K features. </figure>
-		<figure>Figure 2: Precision within Hamming radius 3 for hash lookup on 20 Newsgroups. (a) 10K features. (b) 30K features. </figure>
-		<figure>Figure 3: Averaged searched sample numbers using 4K query messages for hash lookup. (a) 10K features. (b) 30K features. </figure>
-		<figure>Figure 4: Computational complexity of training for dif- ferent feature dimensions for 32-bit fingerprint. (a) Train- ing time (sec). (b) Training space cost (MB). </figure>
-		<figure>Figure 5: Overview of ODP data set. (a) Class distribu- tion at level 3. (b) Distribution of document length. </figure>
-		<figure>Figure 6: Retrieval performance of different methods on ODP. (a) Mean Averaged Precision (MAP) for different number of bits for hash ranking. (b) Precision within Hamming radius 2 for hash lookup. </figure>
+		<figure>Fig. 1. (Color online) Community scoring functions for real-world ground-truth communities (sold lines) in different time windows (2004-2008, 1994-2003, 1960-1981, 1982-2008 and 1960-2008). Results from the randomized versions (10% and 100%) of the ground-truth communities are presented in the right-most panel (indicated by RN). For better visualization, all the functional values are rescaled between 0 and 1. In each slice of the figure, Pearsons correlation coefficient () between two similar functions is reported. </figure>
+		<figure>Fig. 2. (Color online) Average distribution pattern of inward citations (with variances) for a paper after publication (inset: same measure for every field). </figure>
+		<figure>Fig. 3. (Color online) (a) Top two scientific communities (based on inwardness) at the forefront of scientific research trend (names of topmost backup communities for the communities in the forefront of every trend-window are mentioned). Cause analysis: Fig.(b) fraction of papers for top and second ranked communities among the 10% high impact papers in each year; Fig.(c) change of citations from the topmost backup communities; Fig.(d) fraction of papers for top and second ranked communities among the 10% highly influential papers in each trend-window. To smoothen the curves, the best sliding window size of five years has been used. </figure>
 	</Figures>
 </Tables_Figures>
 

@@ -1,9 +1,10 @@
 <?xml version="1.0" ?>
 <UniformResourceLocator>
 	<URL>
-		<url>http://www.burtleburtle.net/bob/hash/doobs.html</url>
-		<url>http://www.cs.cmu.edu/afs/cs/project/theo-3/www/</url>
-		<url>http://rdf.dmoz.org/</url>
+		<url>http://arnetminer.org/citation</url>
+		<url>http://academic.research.microsoft.com/</url>
+		<url>http://www.nsf.gov/</url>
+		<url>http://cnerg.org</url>
 	</URL>
 </UniformResourceLocator>
 

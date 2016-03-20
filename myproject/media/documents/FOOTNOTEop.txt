@@ -1,15 +1,19 @@
 <?xml version="1.0" ?>
 <Footnotes>
 	<Footnotes>
-		<footnote>1 Hamming space is a set of binary strings of length L. </footnote>
-		<footnote>2 The extended covariance matrix is composed of two com- ponents, one is an unsupervised covariance term and another is a constraint matrix involving labeled information. 3 Hamming distance is defined as the number of bits that are different between two binary strings. </footnote>
-		<footnote>2 2 w 2 2 </footnote>
-		<footnote>2 w </footnote>
-		<footnote>4 http://www.burtleburtle.net/bob/hash/doobs.html </footnote>
-		<footnote>5 The direction is determined by concatenating w L times. </footnote>
-		<footnote>6 http://www.cs.cmu.edu/afs/cs/project/theo-3/www/ </footnote>
-		<footnote>7 http://rdf.dmoz.org/ 8 The title together with the corresponding short description of a page are considered as a document in our experiments. </footnote>
-		<footnote>9 We have tested feature selection. However, if we select 40K features via Chi-squared feature selection method, docu- ments are represented by 3.15 terms on average. About 44.9% documents are represented by no more than 2 terms. </footnote>
+		<footnote>426 ASONAM'13, August 25-29, 2013, Niagara, Ontario, CAN Copyright 2013 ACM 978-1-4503-2240-9 /13/08 ...$15.00 </footnote>
+		<footnote>1 http://arnetminer.org/citation, named as DBLP-Citation-network V4 </footnote>
+		<footnote>2 http://academic.research.microsoft.com/ </footnote>
+		<footnote>1 0408 </footnote>
+		<footnote>0 Community </footnote>
+		<footnote>100 =0.37 </footnote>
+		<footnote>10 =0.93 </footnote>
+		<footnote>10 =0.77 </footnote>
+		<footnote>100 =0.16 =0.946 </footnote>
+		<footnote>3 Note that, these results are representative and therefore hold for any reasonable size sampling of the data. The first set represents a period of the most recent 5 years; the second set corresponds to a period of 10 years from the immediate past; the third and fourth sets represent the full data partitioned into two chunks and the last set presents the results on the entire dataset. </footnote>
+		<footnote>4 Note that, in this case, the rank x is higher than rank y if x &lt; y conforming to the usual notion of any ranking system. </footnote>
+		<footnote>5 http://www.nsf.gov/ </footnote>
+		<footnote>6 lag(x, y, t) means the event x took place t years after the event y. 7 lead(x, y, t) means the event x took place t years before the event y. </footnote>
 	</Footnotes>
 </Footnotes>
 

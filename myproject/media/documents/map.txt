@@ -1,10 +1,18 @@
 <email_author>
 	<map>
-		Qixia Jiang 
-		qixia.jiang@gmail.com
+		Tanmoy Chakraborty 
+		tanmoy@cse.iitkgp.ernet.in
 	</map>
 	<map>
-		Maosong Sun 
-		sms@tsinghua.edu.cn
+		Sandipan Sikdar 
+		sandipansikdar@cse.iitkgp.ernet.in
+	</map>
+	<map>
+		Niloy Ganguly 
+		niloy@cse.iitkgp.ernet.in
+	</map>
+	<map>
+		Vihar Tammana 
+		vihartsk@gmail.com
 	</map>
 </email_author>

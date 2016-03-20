@@ -1,4 +1,12 @@
 <<Email>> 
-qixia.jiang@gmail.com
+its@cse.iitkgp.ernet.in
 <<Email>> 
-sms@tsinghua.edu.cn
+tanmoy@cse.iitkgp.ernet.in
+<<Email>> 
+sandipansikdar@cse.iitkgp.ernet.in
+<<Email>> 
+niloy@cse.iitkgp.ernet.in
+<<Email>> 
+animeshm@cse.iitkgp.ernet.in
+<<Email>> 
+vihartsk@gmail.com

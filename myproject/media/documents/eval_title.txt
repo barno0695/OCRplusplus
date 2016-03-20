@@ -1,2 +1,2 @@
 <<title>>
-Title : Semi-Supervised SimHash for Efﬁcient Document Similarity Search 
+Title : Computer Science Fields as Ground-truth Communities: Their Impact, Rise and Fall 

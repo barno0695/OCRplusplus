@@ -1,5 +1,10 @@
 0	0	0
-qixia.jiang@gmail.com	1	0
+{	1	0
+its	1	0
+tanmoy,	1	0
+sandipansikdar,	1	0
+niloy,	1	0
+animeshm}@cse.iitkgp.ernet.in	1	0
 0	0	0
-sms@tsinghua.edu.cn	1	0
+vihartsk@gmail.com	1	0
 0	0	0
