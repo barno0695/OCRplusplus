@@ -1,4 +1,0 @@
-#f Qixia
-#l Jiang
-#f Maosong
-#l Sun

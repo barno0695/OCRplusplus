@@ -37,7 +37,7 @@ $('#btnSignUp').click(function(e) {
     $("#status").html('waiting...');
 
     $.ajax({
-        url: '../signUp/',
+        url: '/signUp/',
         dataType: 'json',
         contentType:'application/json',
         type: 'POST',

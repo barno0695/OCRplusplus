@@ -13,7 +13,7 @@ $('#btnSubmit').click(function(e) {
 
     console.log(data);
     $.ajax({
-        url: '../addLecture/',
+        url: '/addLecture/',
         dataType: 'json',
         contentType:'application/json',
         type: 'POST',

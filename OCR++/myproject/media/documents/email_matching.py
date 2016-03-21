@@ -22,7 +22,7 @@ import unicodedata
 
 from itertools import izip
 
-# latin_dict = {
+# latin_dict = { 
 # ord(u"À"): u"A", ord(u"Á"): u"A", ord(u"Â"): u"A", ord(u"Ã"): u"A",
 # ord(u"Ä"): u"A", ord(u"Å"): u"A", ord(u"Æ"): u"Ae",ord( u"Ç"): u"C", ord(u"È"): u"E",
 # ord(u"É"): u"E", ord(u"Ê"): u"E", ord(u"Ë"): u"E", ord(u"Ì"): u"I", ord(u"Í"): u"I",
@@ -35,7 +35,7 @@ from itertools import izip
 # ord(u"ì"): u"i", ord(u"í"): u"i", ord(u"î"): u"i", ord(u"ï"): u"i", ord(u"ð"): u"d",
 # ord(u"ñ"): u"n", ord(u"ò"): u"o", ord(u"ó"): u"o", ord(u"ô"): u"o", ord(u"õ"): u"o",
 # ord(u"ö"): u"o", ord(u"÷"): u"/", ord(u"ø"): u"o", ord(u"ù"): u"u", ord(u"ú"): u"u",
-# ord(u"û"): u"u", ord(u"ü"): u"u", ord(u"ý"): u"y", ord(u"þ"): u"p", ord(u"ÿ"): u"y",
+# ord(u"û"): u"u", ord(u"ü"): u"u", ord(u"ý"): u"y", ord(u"þ"): u"p", ord(u"ÿ"): u"y", 
 # ord(u"’"): u"'", ord(u"-"):u"",
 # }
 directory = '/var/www/html/OCR++/myproject/media/documents/'
@@ -91,7 +91,7 @@ with open(directory+'names.txt','r') as f1:
 
 			# y1 = y[0].split("@")
 			# y1 = y1[0]
-
+			
 			uni_x = []
 			for it in x:
 				it = unicodedata.normalize('NFKD',it.decode("utf-8","ignore")).encode("ascii","ignore")

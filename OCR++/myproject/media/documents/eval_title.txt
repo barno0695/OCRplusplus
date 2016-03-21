@@ -1,2 +1,0 @@
-<<title>>
-Title : Semi-Supervised SimHash for Efﬁcient Document Similarity Search 

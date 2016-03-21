@@ -30,19 +30,22 @@ def runScript():
     fn = fname.split('/')
     fn = fn[-1]
     print fn
-    # subprocess.call("clear", shell=True)
+    #subprocess.call("rm -r " + directory + "*.pdf", shell=True)
     subprocess.call("mv " + directory + fn + " " + directory + "input.pdf", shell=True)
+    subprocess.call("rm -r /var/www/html/media/documents/*pdf",shell=True)
+    subprocess.call("cp " + directory + "input.pdf /var/www/html/media/documents/input.pdf", shell=True)
     subprocess.call(directory + "IntegratedShellScript.sh ", shell=True)
 
     return HttpResponse("Done")
 
 def list(request):
     if request.method == 'GET':
-        return HttpResponseRedirect("/home/")
+        return HttpResponseRedirect("../home/")
         # return HttpResponse('This page shows a list of most recent posts.')
         # pass
     # Handle file upload
     if request.method == 'POST':
+	subprocess.call("rm -r " + directory + "*.pdf", shell=True)	
         form = DocumentForm(request.POST, request.FILES)
         if form.is_valid():
             newdoc = Document(docfile = request.FILES['docfile'])
@@ -50,7 +53,7 @@ def list(request):
             runScript()
 
             # Redirect to the document list after POST
-            return HttpResponseRedirect("/home/")
+            return HttpResponseRedirect("../home/")
     else:
         form = DocumentForm() # A empty, unbound form
 
