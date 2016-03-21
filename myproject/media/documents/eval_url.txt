@@ -1,8 +1,0 @@
-<<url>>
-http://arnetminer.org/citation
-<<url>>
-http://academic.research.microsoft.com/
-<<url>>
-http://www.nsf.gov/
-<<url>>
-http://cnerg.org

@@ -1,8 +1,0 @@
-#f Tanmoy
-#l Chakraborty
-#f Sandipan
-#l Sikdar
-#f Vihar
-#l Tammana
-#f Niloy
-#l Ganguly
