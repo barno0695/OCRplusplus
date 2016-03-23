@@ -1,9 +1,7 @@
 <?xml version="1.0" ?>
 <UniformResourceLocator>
 	<URL>
-		<url>http://www.burtleburtle.net/bob/hash/doobs.html</url>
-		<url>http://www.cs.cmu.edu/afs/cs/project/theo-3/www/</url>
-		<url>http://rdf.dmoz.org/</url>
+		<url>http://secondlife.com</url>
 	</URL>
 </UniformResourceLocator>
 

@@ -1,5 +1,7 @@
 0	0	0
-qixia.jiang@gmail.com	1	0
+small@albany.edu	1	0
 0	0	0
-sms@tsinghua.edu.cn	1	0
+jstromer@albany.edu	1	0
+0	0	0
+tomek@albany.edu	1	0
 0	0	0

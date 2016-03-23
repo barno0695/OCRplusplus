@@ -1,4 +1,6 @@
 <<Email>> 
-qixia.jiang@gmail.com
+small@albany.edu
 <<Email>> 
-sms@tsinghua.edu.cn
+jstromer@albany.edu
+<<Email>> 
+tomek@albany.edu

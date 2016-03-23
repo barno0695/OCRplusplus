@@ -82,7 +82,7 @@
 					var htmlstuff = ""
 					var libraries = [];
 					$.ajax({
-						url: '../getmap/',
+						url: '../getcitref/',
 						type: 'GET',
 						success: function(response) {
 							console.log(response)
@@ -93,20 +93,20 @@
 							}
 							else
 							{
-								var cnames = response.split("<<map>>");
+								var cnames = response.split("<<cit2ref>>");
 								console.log(cnames);
 								for(var i=1; i<cnames.length; i++)
 								{
-									name = cnames[i].split("Author : ")[1];
+									name = cnames[i].split("Citation : ")[1];
 									console.log(name);
-									nam = name.split("Email  : ")[0];
-									email = name.split("Email  : ")[1];
+									nam = name.split("Reference  : ")[0];
+									email = name.split("Reference  : ")[1];
 									htmlstuff = htmlstuff + "<li><div class=\"block\"><div class=\"block_content\"><h2 class=\"title\"><a>"+nam+"</a></h2><p class=\"excerpt\">"+email+"</p></div></div></li>"
 								}
 
 							}
 
-							document.getElementById("map").innerHTML = htmlstuff;
+							document.getElementById("citref").innerHTML = htmlstuff;
 						},
 						error: function(error) {
 							console.log(error);
@@ -116,11 +116,11 @@
 				</script>
 
 				<div class="row">
-					<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="col-md-6 col-sm-6 col-xs-12">
 
                         <div class="x_panel">
                             <div class="x_title">
-                                <h2>Author-Email Map</h2>
+                                <h2>Citation-Reference Map</h2>
                                 <ul class="nav navbar-right panel_toolbox">
                                     <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
                                     </li>
@@ -133,7 +133,7 @@
                                 <div class="dashboard-widget-content">
 
                                     <ul class="list-unstyled timeline widget">
-										<div id="map">
+										<div id="citref">
 										</div>
 
 
@@ -144,7 +144,7 @@
 
 					</div>
 
-					<div class="col-md-8 col-sm-8 col-xs-12">
+					<div class="col-md-6 col-sm-6 col-xs-12">
 				        <embed class = "x_panel" src="../../media/documents/input.pdf" height="500px">
 					</div>
 

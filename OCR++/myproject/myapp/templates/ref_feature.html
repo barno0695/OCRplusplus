@@ -10,7 +10,7 @@
             margin: 0;
         }
         #searchbar input[type="text"] {
-            margin: 0 auto;
+            margin: 0 editoro;
             text-align: center;
             width: 430px;
             display: block;
@@ -82,31 +82,94 @@
 					var htmlstuff = ""
 					var libraries = [];
 					$.ajax({
-						url: '../getmap/',
+						url: '../getref_feature/',
 						type: 'GET',
 						success: function(response) {
-							console.log(response)
+							// console.log(response)
 
 							if(response == "No file")
 							{
-								htmlstuff = htmlstuff + "<li><div class=\"block\"><div class=\"block_content\"><h2 class=\"title\"><a>N.A.</a></h2><p class=\"excerpt\">N.A.</p></div></div></li>"
+								htmlstuff = htmlstuff + "<li><div class=\"block\"><div class=\"block_content\"><p class=\"excerpt\">N.A.</p></div></div></li>"
 							}
 							else
 							{
-								var cnames = response.split("<<map>>");
-								console.log(cnames);
-								for(var i=1; i<cnames.length; i++)
+								refs = response.split("\n\n")
+								console.log(refs)
+								for(var i=0; i<refs.length-1; i++)
 								{
-									name = cnames[i].split("Author : ")[1];
-									console.log(name);
-									nam = name.split("Email  : ")[0];
-									email = name.split("Email  : ")[1];
-									htmlstuff = htmlstuff + "<li><div class=\"block\"><div class=\"block_content\"><h2 class=\"title\"><a>"+nam+"</a></h2><p class=\"excerpt\">"+email+"</p></div></div></li>"
+									var block = ""
+									var flag = 0
+									var aut = refs[i].match(new RegExp("<author>(.*)</author>"))
+									if(aut[1]!="")
+									{
+										flag=1
+										block = block + "<p><strong>Author : </strong>" + aut[1] + "</p>"
+									}
+									var title = refs[i].match(new RegExp("<title>(.*)</title>"))
+									if(title[1]!="")
+									{
+										flag=1
+										block = block + "<p><strong>Title : </strong>" + title[1] + "</p>"
+									}
+									var journal = refs[i].match(new RegExp("<journal>(.*)</journal>"))
+									if(journal[1]!="")
+									{
+										flag=1
+										block = block + "<p><strong>Journal : </strong>" + journal[1] + "</p>"
+									}
+									var publisher = refs[i].match(new RegExp("<publisher>(.*)</publisher>"))
+									if(publisher[1]!="")
+									{
+										flag=1
+										block = block + "<p><strong>Publisher : </strong>" + publisher[1] + "</p>"
+									}
+									var year = refs[i].match(new RegExp("<year>(.*)</year>"))
+									if(year[1]!="")
+									{
+										flag=1
+										block = block + "<p><strong>Year : </strong>" + year[1] + "</p>"
+									}
+									var booktitle = refs[i].match(new RegExp("<booktitle>(.*)</booktitle>"))
+									if(booktitle[1]!="")
+									{
+										flag=1
+										block = block + "<p><strong>Booktitle : </strong>" + booktitle[1] + "</p>"
+									}
+									var volume = refs[i].match(new RegExp("<volume>(.*)</volume>"))
+									if(volume[1]!="")
+									{
+										flag=1
+										block = block + "<p><strong>Volume : </strong>" + volume[1] + "</p>"
+									}
+									var pagenumber = refs[i].match(new RegExp("<pagenumber>(.*)</pagenumber>"))
+									if(pagenumber[1]!="")
+									{
+										flag=1
+										block = block + "<p><strong>Pagenumber : </strong>" + pagenumber[1] + "</p>"
+									}
+									var location = refs[i].match(new RegExp("<location>(.*)</location>"))
+									if(location[1]!="")
+									{
+										flag=1
+										block = block + "<p><strong>Location : </strong>" + location[1] + "</p>"
+									}
+									var editor = refs[i].match(new RegExp("<editor>(.*)</editor>"))
+									if(editor[1]!="")
+									{
+										block = block + "<p><strong>Editor : </strong>" + aut[1] + "</p>"
+										flag=1
+									}
+									if(flag==0)
+									{
+										continue;
+									}
+									// console.log(block)
+									htmlstuff = htmlstuff + "<li><div class=\"block\"><div class=\"block_content\"><h2 class=\"title\"><a>"+"</a></h2><p class=\"excerpt\">"+block+"</p></div></div></li>"
 								}
 
 							}
 
-							document.getElementById("map").innerHTML = htmlstuff;
+							document.getElementById("ref").innerHTML = htmlstuff;
 						},
 						error: function(error) {
 							console.log(error);
@@ -116,11 +179,11 @@
 				</script>
 
 				<div class="row">
-					<div class="col-md-4 col-sm-4 col-xs-12">
+					<div class="col-md-6 col-sm-6 col-xs-12">
 
                         <div class="x_panel">
                             <div class="x_title">
-                                <h2>Author-Email Map</h2>
+                                <h2>Reference Features</h2>
                                 <ul class="nav navbar-right panel_toolbox">
                                     <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
                                     </li>
@@ -133,7 +196,7 @@
                                 <div class="dashboard-widget-content">
 
                                     <ul class="list-unstyled timeline widget">
-										<div id="map">
+										<div id="ref">
 										</div>
 
 
@@ -144,7 +207,7 @@
 
 					</div>
 
-					<div class="col-md-8 col-sm-8 col-xs-12">
+					<div class="col-md-6 col-sm-6 col-xs-12">
 				        <embed class = "x_panel" src="../../media/documents/input.pdf" height="500px">
 					</div>
 

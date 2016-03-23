@@ -1,2 +1,2 @@
 <<title>>
-Title : Semi-Supervised SimHash for Efﬁcient Document Similarity Search 
+Title : Multi-Modal Annotation of Quest Games in Second Life 

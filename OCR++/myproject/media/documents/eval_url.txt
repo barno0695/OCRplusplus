@@ -1,6 +1,2 @@
 <<url>>
-http://www.burtleburtle.net/bob/hash/doobs.html
-<<url>>
-http://www.cs.cmu.edu/afs/cs/project/theo-3/www/
-<<url>>
-http://rdf.dmoz.org/
+http://secondlife.com
