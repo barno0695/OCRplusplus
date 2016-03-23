@@ -33,4 +33,6 @@ urlpatterns = patterns('',
     url(r'^figure_heading/$', views.figure_heading, name = 'figure_heading'),
 	url(r'^gettabfig/$', views.gettabfig, name = 'gettabfig'),
     url(r'^getcitref/$', views.getcitref, name = 'getcitref'),
+    url(r'^getref_feature/$', views.getref_feature, name = 'getref_feature'),
+    url(r'^ref_feature/$', views.ref_feature, name = 'ref_feature'),
 ) + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

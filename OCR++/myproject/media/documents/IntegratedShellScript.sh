@@ -12,67 +12,72 @@ $Directory/files/pdftoxml.linux64.exe.1.2_7 -noImage -noImageInline -l 2 $Direct
 # echo "222"
 $Directory/Clear.sh
 
-# echo "1/10 section starting"
+# echo "1/12 section starting"
 python $Directory/files/Secmapping.py > $Directory/Secmap.xml
 python $Directory/create_eval_sections.py
-echo "1/10 section done"
+echo "1/12 section done"
 #samuel
 
 
 
 #Priyank
-# echo "2/10 Email and Affil starting"
+# echo "2/12 Email and Affil starting"
 python $Directory/Aff_new.py
 python $Directory/Email_new.py
 python $Directory/printEmail.py
 python $Directory/printAff.py
-echo "2/10 Email and Affil done"
+echo "2/12 Email and Affil done"
 #Priyank
 
 # barno
-# echo "3/10 Title starting"
+# echo "3/12 Title starting"
 python $Directory/files/TitleAuthor_parse.py
-# echo "2/10 titleauthor parse done"
+# echo "2/12 titleauthor parse done"
 python $Directory/files/extra.py
-# echo "3/10 extra done"
+# echo "3/12 extra done"
 crf_test -m $Directory/files/model_all_com.txt $Directory/test_file.txt > $Directory/final.txt
 python $Directory/files/TitleAuthorFinalTouch.py
-# echo "4/10 final touch done"
+# echo "4/12 final touch done"
 
 python $Directory/files/printTitle.py > $Directory/TitleAuthor.xml
 crf_test -m $Directory/files/model_all_com.txt $Directory/test_aut.txt > $Directory/final_aut.txt
-echo "3/10 Title done"
+echo "3/12 Title done"
 # barno
 
-# echo "4/10 Author starting"
+# echo "4/12 Author starting"
 
 python $Directory/files/printAuthor.py
 echo "</title_author>" >> $Directory/TitleAuthor.xml
-echo "4/10 Author done"
+echo "4/12 Author done"
 # #Tulasi
-# echo "8/10 cit starting"
+# echo "8/12 cit starting"
 # python $Directory/cit2ref.py
-# echo "8/10 cit done"
+# echo "8/12 cit done"
 # #Tulasi
-# echo "5/10 Mapping starting"
+# echo "5/12 Mapping starting"
 $Directory/Mapping.sh
-echo "5/10 Mapping done"
+echo "5/12 Mapping done"
 #ayush
-# echo "6/10 URL starting"
+# echo "6/12 URL starting"
 python $Directory/url.py > $Directory/URLop.txt
-echo "6/10 URL done"
-# echo "7/10 Footnotes starting"
+echo "6/12 URL done"
+# echo "7/12 Footnotes starting"
 python $Directory/footnotes.py > $Directory/FOOTNOTEop.txt
-echo "7/10 Footnotes starting"
-# echo "8/10 Tabfig starting"
+echo "7/12 Footnotes done"
+# echo "8/12 Tabfig starting"
 python $Directory/tables_figures.py > $Directory/TABFIGop.txt
-echo "8/10 Tabfig done"
+echo "8/12 Tabfig done"
 # ayush
 
+$Directory/ref_extract.sh
+echo "9/12 Reference feature extraction done"
 # rm $Directory/input.xml
+
+python $Directory/cit_final.py
+echo "10/12 Cit2ref done"
 
 #$Directory/Clean.sh
 
 $Directory/eval_op.sh
-echo "9/10 Printing done"
-echo "10/10 Done Done Done"
+echo "11/12 Printing done"
+echo "12/12 Done Done Done"

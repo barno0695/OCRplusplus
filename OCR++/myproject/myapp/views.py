@@ -104,6 +104,9 @@ def citation(request):
 def reference(request):
     return render(request, "reference.html")
 
+def ref_feature(request):
+    return render(request, "ref_feature.html")
+
 def getauthor(request):
     if request.method == 'GET':
         resp = ""
@@ -232,4 +235,17 @@ def getcitref(request):
             resp = "No file"
 
         response = {'status': 1, 'message': "Confirmed!!", 'url':'/reference/'}
+        return HttpResponse(resp, content_type='string')
+
+def getref_feature(request):
+    if request.method == 'GET':
+        resp = ""
+        if os.path.isfile(directory + "testResults/xmls/input.xml"):
+            resp = open(directory + "testResults/xmls/input.xml").read()
+            if len(resp)==0:
+                resp = "No file"
+        else:
+            resp = "No file"
+
+        response = {'status': 1, 'message': "Confirmed!!", 'url':'/ref_feature/'}
         return HttpResponse(resp, content_type='string')
