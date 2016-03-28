@@ -69,11 +69,16 @@ python $Directory/tables_figures.py > $Directory/TABFIGop.txt
 echo "8/12 Tabfig done"
 # ayush
 
+rm $Directory/testResults/xmls/input.xml
+rm $Directory/testResults/input.txt
+rm $Directory/test_files/input.txt
 $Directory/ref_extract.sh
 echo "9/12 Reference feature extraction done"
 # rm $Directory/input.xml
 
 python $Directory/cit_final.py
+rm $Directory/input_cit2ref.xml
+mv /var/www/html/OCR++/input_cit2ref.xml $Directory
 echo "10/12 Cit2ref done"
 
 #$Directory/Clean.sh

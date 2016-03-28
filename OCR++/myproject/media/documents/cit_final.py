@@ -416,6 +416,6 @@ def mainf(root):
     ###########################################
 
     # cit2ref.write("<!-- END DOC -->\n")
-    ET.ElementTree(doc_Sam).write("input_cit2ref.xml")
+    ET.ElementTree(doc_Sam).write(directory+"input_cit2ref.xml")
 
 mainf(root)

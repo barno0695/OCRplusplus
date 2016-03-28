@@ -1,8 +1,12 @@
 
 <email>
-	qixia.jiang@gmail.com
+	small@albany.edu
 </email>
 
 <email>
-	sms@tsinghua.edu.cn
+	jstromer@albany.edu
+</email>
+
+<email>
+	tomek@albany.edu
 </email>

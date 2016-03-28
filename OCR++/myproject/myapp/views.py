@@ -98,14 +98,14 @@ def url(request):
 def footnote(request):
     return render(request, "footnote.html")
 
-def citation(request):
-    return render(request, "citation.html")
-
-def reference(request):
-    return render(request, "reference.html")
+def citref(request):
+    return render(request, "citref.html")
 
 def ref_feature(request):
     return render(request, "ref_feature.html")
+
+def team(request):
+    return render(request, "team.html")
 
 def getauthor(request):
     if request.method == 'GET':
@@ -227,14 +227,16 @@ def getfootnote(request):
 def getcitref(request):
     if request.method == 'GET':
         resp = ""
-        if os.path.isfile(directory + "eval_citref.txt"):
-            resp = open(directory + "eval_citref.txt").read()
+        # print os.path.isfile(directory + "eval_cit2ref.xml")
+        if os.path.isfile(directory + "eval_cit2ref.xml"):
+            # print "aya toh****************"
+            resp = open(directory + "eval_cit2ref.xml").read()
             if len(resp)==0:
                 resp = "No file"
         else:
             resp = "No file"
 
-        response = {'status': 1, 'message': "Confirmed!!", 'url':'/reference/'}
+        response = {'status': 1, 'message': "Confirmed!!", 'url':'/citref/'}
         return HttpResponse(resp, content_type='string')
 
 def getref_feature(request):

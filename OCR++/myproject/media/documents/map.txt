@@ -1,10 +1,10 @@
 <email_author>
 	<map>
-		Qixia Jiang 
-		qixia.jiang@gmail.com
+		Tomek Strzalkowski 
+		tomek@albany.edu
 	</map>
 	<map>
-		Maosong Sun 
-		sms@tsinghua.edu.cn
+		Jennifer Stromer-Galley 
+		small@albany.edu
 	</map>
 </email_author>

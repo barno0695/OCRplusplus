@@ -1,17 +1,21 @@
-<<table>>
-Table 1: Averaged intra- and inter- class Hamming dis- tance of 20 Newsgroups for 32-bit fingerprint. is the difference between the averaged inter- and intra- class Hamming distance. Large implies good hashing.
-<<table>>
-Table 2: Averaged intra- and inter- class Hamming dis- tance of ODP for 32-bit fingerprint (860K features). is the difference between averaged intra- and inter- class Hamming distance.
 
 <<figure>>
-Figure 1: Mean Averaged Precision (MAP) for different number of bits for hash ranking on 20 Newsgroups. (a) 10K features. (b) 30K features.
+Figure 1: Excerpt of dialogue during a coor- dination activity
 <<figure>>
-Figure 2: Precision within Hamming radius 3 for hash lookup on 20 Newsgroups. (a) 10K features. (b) 30K features.
+Figure 2: RAT interface
 <<figure>>
-Figure 3: Averaged searched sample numbers using 4K query messages for hash lookup. (a) 10K features. (b) 30K features.
+Figure 3: Second Life overview map
 <<figure>>
-Figure 4: Computational complexity of training for dif- ferent feature dimensions for 32-bit fingerprint. (a) Train- ing time (sec). (b) Training space cost (MB).
+Figure 4: 2D representation of Second Life action inside the Mansion/Manor
 <<figure>>
-Figure 5: Overview of ODP data set. (a) Class distribu- tion at level 3. (b) Distribution of document length.
+Figure 5: Second Life view of Mansion exterior
 <<figure>>
-Figure 6: Retrieval performance of different methods on ODP. (a) Mean Averaged Precision (MAP) for different number of bits for hash ranking. (b) Precision within Hamming radius 2 for hash lookup.
+Figure 6: Chat & Event Panel
+<<figure>>
+Figure 7: Chat Annotation Sub-Panel
+<<figure>>
+Figure 8: The corresponding annotation for Figure 9 event, as displayed in the Chat & Event Panel
+<<figure>>
+Figure 9: A series of progressive moments in time portraying avatar entry into the Bank subzone
+<<figure>>
+Figure 10: Event Annotation Sub-Panel, currently showing the Moves Into Subzone event from figure 9, as well as: Kenny follows Elliot in Vault

@@ -1,14 +1,12 @@
 <<footnote>>
-1 Hamming space is a set of binary strings of length L.
+1 All avatar names seen in this paper have been changed to protect players identities.
 <<footnote>>
-2 The extended covariance matrix is composed of two com- ponents, one is an unsupervised covariance term and another is a constraint matrix involving labeled information. 3 Hamming distance is defined as the number of bits that are different between two binary strings.
+2 An online Virtual World developed and launched in 2003, by Linden Lab, San Francisco, CA. http://secondlife.com
 <<footnote>>
-4 http://www.burtleburtle.net/bob/hash/doobs.html
+3 Second Life Experiments
 <<footnote>>
-5 The direction is determined by concatenating w L times.
+3 We are also able to record the start time of any event but for our purposes we were only concerned with the end time.
 <<footnote>>
-6 http://www.cs.cmu.edu/afs/cs/project/theo-3/www/
+5 The Annotation Process
 <<footnote>>
-7 http://rdf.dmoz.org/ 8 The title together with the corresponding short description of a page are considered as a document in our experiments.
-<<footnote>>
-9 We have tested feature selection. However, if we select 40K features via Chi-squared feature selection method, docu- ments are represented by 3.15 terms on average. About 44.9% documents are represented by no more than 2 terms.
+6 Conclusion
