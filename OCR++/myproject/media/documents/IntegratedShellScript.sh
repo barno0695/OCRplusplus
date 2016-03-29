@@ -77,8 +77,8 @@ echo "9/12 Reference feature extraction done"
 # rm $Directory/input.xml
 
 python $Directory/cit_final.py
-rm $Directory/input_cit2ref.xml
-mv /var/www/html/OCR++/input_cit2ref.xml $Directory
+# rm $Directory/input_cit2ref.xml
+# cp /var/www/html/OCR++/input_cit2ref.xml $Directory
 echo "10/12 Cit2ref done"
 
 #$Directory/Clean.sh
