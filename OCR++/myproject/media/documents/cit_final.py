@@ -42,7 +42,7 @@ def mainf(root):
     doc_Sam = ET.Element("Document")
     refs_Sam = ET.SubElement(doc_Sam, "References")
     cit2ref_Sam = ET.SubElement(doc_Sam, "Cit2ref")
-    # cit2ref = open(directory+"inputcit2ref.txt",'a')
+    cit2ref = open(directory+"inputcit2ref.txt",'w')
     count = 0
 
     flag = False
@@ -416,6 +416,7 @@ def mainf(root):
     ###########################################
 
     # cit2ref.write("<!-- END DOC -->\n")
-    ET.ElementTree(doc_Sam).write(directory+"input_cit2ref.xml")
+    # open(directory+"input_cit2ref.xml",'w')
+    ET.ElementTree(doc_Sam).write("/var/www/html/OCR++/myproject/media/documents/input_cit2ref.xml")
 
 mainf(root)
