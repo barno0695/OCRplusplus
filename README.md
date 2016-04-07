@@ -1,6 +1,9 @@
-# OCRplusplus
+# OCR++: A Robust Framework For Information Extraction from Scholarly Articles
 A tool to extract features from research papers. 
 
-This branch contains the code compatible with the apace server. 
+This branch contains the code compatible with the apache server. 
 
-Put the directory OCR++ in /var/ww/html. Also create a media/documents/ in /var/www/html.
+Clone this repository in 
+> /var/ww/html. 
+
+Also create a folder *media/documents/* in */var/www/html*
