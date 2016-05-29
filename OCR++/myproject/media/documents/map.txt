@@ -1,2 +1,10 @@
 <email_author>
+	<map>
+		Qixia Jiang 
+		qixia.jiang@gmail.com
+	</map>
+	<map>
+		Maosong Sun 
+		sms@tsinghua.edu.cn
+	</map>
 </email_author>

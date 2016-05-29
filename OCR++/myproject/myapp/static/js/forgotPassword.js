@@ -10,7 +10,7 @@ $('#btnReset').click(function(e) {
 
     console.log(user);
     $.ajax({
-        url: '/forgotPassword/',
+        url: '../forgotPassword/',
         dataType: 'json',
         contentType:'application/json',
         type: 'POST',

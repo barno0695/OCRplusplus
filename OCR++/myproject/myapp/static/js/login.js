@@ -18,7 +18,7 @@ $('.login').on('submit', function(e) {
     console.log(user);
 
     $.ajax({
-        url: '/login/',
+        url: '../login/',
         dataType: 'json',
         contentType:'application/json',
         type: 'POST',

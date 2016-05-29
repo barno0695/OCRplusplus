@@ -1,0 +1,701 @@
+Christopher	0	4	0	0	
+J.C.	0	1	0	0	
+Burges.	0	4	0	0	
+1998.	0	3	0	1	
+A	0	1	0	0	
+tutorial	0	0	0	0	
+on	0	0	0	0	
+support	0	0	1	0	
+0	0	0	0	0	0
+
+vector	0	0	0	0	
+machines	0	0	0	0	
+for	0	0	0	0	
+pattern	0	0	0	0	
+recognition.	0	0	0	0	
+Data	0	4	0	0	
+Mining	0	4	0	0	
+0	0	0	0	0	0
+
+and	0	0	0	0	
+Knowledge	0	4	0	0	
+Discovery,	0	4	0	0	
+2(2):121-167.	1	5	0	2	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Moses	0	4	0	0	
+S.	0	1	0	0	
+Charikar.	0	4	0	0	
+2002.	0	3	0	1	
+Similarity	0	4	0	0	
+estimation	0	0	0	0	
+tech-	0	0	0	0	
+0	0	0	0	0	0
+
+niques	0	0	0	0	
+from	0	0	0	0	
+rounding	0	0	0	0	
+algorithms.	0	0	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+0	0	0	0	0	0
+
+of	0	0	0	0	
+the	0	0	0	0	
+34th	0	0	0	0	
+annual	0	0	0	0	
+ACM	0	1	0	0	
+symposium	0	0	0	0	
+on	0	0	0	0	
+Theory	0	4	0	0	
+of	0	0	0	0	
+0	0	0	0	0	0
+
+computing,	0	0	0	0	
+pages	0	0	1	0	
+380-388.	0	5	0	3	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Gianni	0	4	0	0	
+Costa,	0	4	0	0	
+Giuseppe	0	4	1	0	
+Manco	0	4	0	0	
+and	0	0	0	0	
+Riccardo	0	4	0	0	
+Ortale.	0	4	0	0	
+0	0	0	0	0	0
+
+2010.	0	3	0	1	
+An	0	4	0	0	
+incremental	0	0	0	0	
+clustering	0	0	0	0	
+scheme	0	0	0	0	
+for	0	0	0	0	
+data	0	0	0	0	
+de-	0	0	0	0	
+0	0	0	0	0	0
+
+duplication.	0	0	0	0	
+Data	0	4	0	0	
+Mining	0	4	0	0	
+and	0	0	0	0	
+Knowledge	0	4	0	0	
+Discovery,	0	4	0	0	
+0	0	0	0	0	0
+
+20(1):152-187.	1	5	0	2	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Jeffrey	0	4	0	0	
+Dean	0	4	0	0	
+and	0	0	0	0	
+Monika	0	4	0	0	
+R.	0	1	0	0	
+Henzinge.	0	4	0	0	
+1999.	0	3	0	1	
+Finding	0	4	0	0	
+0	0	0	0	0	0
+
+Related	0	4	0	0	
+Pages	0	4	1	0	
+in	0	0	0	0	
+the	0	0	0	0	
+World	0	4	0	0	
+Wide	0	4	0	0	
+Web.	0	4	0	0	
+Computer	0	4	0	0	
+0	0	0	0	0	0
+
+Networks,	0	4	0	0	
+31:1467-1479.	1	5	0	3	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Richard	0	4	0	0	
+O.	0	1	0	0	
+Duda,	0	4	0	0	
+Peter	0	4	0	0	
+E.	0	1	0	0	
+Hart	0	4	0	0	
+and	0	0	0	0	
+David	0	4	0	0	
+G.	0	1	0	0	
+Stork.	0	4	0	0	
+0	0	0	0	0	0
+
+2000.	0	3	0	1	
+Pattern	0	4	0	0	
+classification,	0	0	0	0	
+2nd	0	0	0	0	
+edition.	0	0	0	0	
+Wiley-	0	4	0	0	
+0	0	0	0	0	0
+
+Interscience.	0	4	0	0	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+George	0	4	0	0	
+Forman	0	4	0	0	
+2003.	0	3	0	1	
+An	0	4	0	0	
+extensive	0	0	0	0	
+empirical	0	0	0	0	
+study	0	0	0	0	
+of	0	0	0	0	
+0	0	0	0	0	0
+
+feature	0	0	0	0	
+selection	0	0	0	0	
+metrics	0	0	0	0	
+for	0	0	0	0	
+text	0	0	0	0	
+classification.	0	0	0	0	
+The	0	4	0	0	
+0	0	0	0	0	0
+
+Journal	0	4	4	0	
+of	0	0	0	0	
+Machine	0	4	0	0	
+Learning	0	4	0	0	
+Research,	0	4	0	0	
+3:1289-1305.	1	5	0	3	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Piotr	0	4	0	0	
+Indyk	0	4	0	0	
+and	0	0	0	0	
+Rajeev	0	4	0	0	
+Motwani.	0	4	0	0	
+1998.	0	3	0	1	
+Approximate	0	4	1	0	
+0	0	0	0	0	0
+
+nearest	0	0	0	0	
+neighbors:	1	0	0	0	
+towards	0	0	0	0	
+removing	0	0	0	0	
+the	0	0	0	0	
+curse	0	0	0	0	
+of	0	0	0	0	
+0	0	0	0	0	0
+
+dimensionality.	0	0	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+30th	0	0	0	0	
+annual	0	0	0	0	
+0	0	0	0	0	0
+
+ACM	0	1	0	0	
+symposium	0	0	0	0	
+on	0	0	0	0	
+Theory	0	4	0	0	
+of	0	0	0	0	
+computing,	0	0	0	0	
+pages	0	0	1	0	
+0	0	0	0	0	0
+
+604-613.	0	5	0	3	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Ian	0	4	0	0	
+Jolliffe.	0	4	0	0	
+1986.	0	3	0	1	
+Principal	0	4	0	0	
+Component	0	4	0	0	
+Analysis.	0	4	0	0	
+0	0	0	0	0	0
+
+Springer-Verlag,	0	5	0	0	
+New	0	4	0	0	
+York.	0	4	8	0	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Yan	0	4	0	0	
+Ke,	0	4	0	0	
+Rahul	0	4	0	0	
+Sukthankar	0	4	0	0	
+and	0	0	0	0	
+Larry	0	4	0	0	
+Huston.	0	4	0	0	
+2004.	0	3	0	1	
+0	0	0	0	0	0
+
+Efficient	0	4	0	0	
+near-duplicate	0	0	0	0	
+detection	0	0	0	0	
+and	0	0	0	0	
+sub-image	0	0	0	0	
+0	0	0	0	0	0
+
+retrieval.	0	0	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+ACM	0	1	0	0	
+International	0	4	0	0	
+0	0	0	0	0	0
+
+Conference	0	4	7	0	
+on	0	0	0	0	
+Multimedia.	0	4	0	0	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Brian	0	4	0	0	
+Kulis	0	4	0	0	
+and	0	0	0	0	
+Kristen	0	4	0	0	
+Grauman.	0	4	0	0	
+2009.	0	3	0	1	
+Kernelized	0	4	0	0	
+0	0	0	0	0	0
+
+locality-sensitive	0	0	0	0	
+hashing	0	0	0	0	
+for	0	0	0	0	
+scalable	0	0	0	0	
+image	0	0	0	0	
+search.	0	0	0	0	
+0	0	0	0	0	0
+
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+12th	0	0	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+0	0	0	0	0	0
+
+on	0	0	0	0	
+Computer	0	4	0	0	
+Vision,	0	4	0	0	
+pages	0	0	1	0	
+2130-2137.	0	5	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Brian	0	4	0	0	
+Kulis,	0	4	0	0	
+Prateek	0	4	0	0	
+Jain	0	4	0	0	
+and	0	0	0	0	
+Kristen	0	4	0	0	
+Grauman.	0	4	0	0	
+2009.	0	3	0	1	
+0	0	0	0	0	0
+
+Fast	0	4	0	0	
+similarity	0	0	0	0	
+search	0	0	0	0	
+for	0	0	0	0	
+learned	0	0	0	0	
+metrics.	0	0	0	0	
+IEEE	0	1	0	0	
+0	0	0	0	0	0
+
+Transactions	0	4	0	0	
+on	0	0	0	0	
+Pattern	0	4	0	0	
+Analysis	0	4	0	0	
+and	0	0	0	0	
+Machine	0	4	0	0	
+Intelli-	0	4	0	0	
+0	0	0	0	0	0
+
+gence,	0	0	0	0	
+pages	0	0	1	0	
+2143-2157.	0	5	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Dong	0	4	0	0	
+C.	0	1	0	0	
+Liu	0	4	0	0	
+and	0	0	0	0	
+Jorge	0	4	0	0	
+Nocedal.	0	4	0	0	
+1989.	0	3	0	1	
+On	0	4	0	0	
+the	0	0	0	0	
+limited	0	0	0	0	
+0	0	0	0	0	0
+
+memory	0	0	0	0	
+BFGS	0	1	0	0	
+method	0	0	0	0	
+for	0	0	0	0	
+large	0	0	0	0	
+scale	0	0	0	0	
+optimization.	0	0	0	0	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Omid	0	4	0	0	
+Madani,	0	4	0	0	
+Michael	0	4	0	0	
+Connor	0	4	0	0	
+and	0	0	0	0	
+Wiley	0	4	0	0	
+Greiner.	0	4	0	0	
+0	0	0	0	0	0
+
+2009.	0	3	0	1	
+Learning	0	4	0	0	
+when	0	0	0	0	
+concepts	0	0	0	0	
+abound.	0	0	0	0	
+The	0	4	0	0	
+Journal	0	4	4	0	
+0	0	0	0	0	0
+
+of	0	0	0	0	
+Machine	0	4	0	0	
+Learning	0	4	0	0	
+Research,	0	4	0	0	
+10:2571-2613.	1	5	0	3	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Gurmeet	0	4	0	0	
+Singh	0	4	0	0	
+Manku,	0	4	0	0	
+Arvind	0	4	0	0	
+Jain	0	4	0	0	
+and	0	0	0	0	
+Anish	0	4	0	0	
+Das	0	4	0	0	
+0	0	0	0	0	0
+
+Sarma.	0	4	0	0	
+2007.	0	3	0	1	
+Detecting	0	4	0	0	
+near-duplicates	0	0	0	0	
+for	0	0	0	0	
+web	0	0	0	0	
+0	0	0	0	0	0
+
+crawling.	0	0	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+16th	0	0	0	0	
+international	0	0	0	0	
+0	0	0	0	0	0
+
+conference	0	0	7	0	
+on	0	0	0	0	
+World	0	4	0	0	
+Wide	0	4	0	0	
+Web,	0	4	0	0	
+pages	0	0	1	0	
+141-150.	0	5	0	3	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Christopher	0	4	0	0	
+D.	0	1	0	0	
+Manning,	0	4	0	0	
+Prabhakar	0	4	0	0	
+Raghavan	0	4	0	0	
+and	0	0	0	0	
+Hin-	0	4	0	0	
+0	0	0	0	0	0
+
+rich	0	0	0	0	
+Sch	0	4	0	0	
+utze.	0	0	0	0	
+2002.	0	3	0	1	
+An	0	4	0	0	
+introduction	0	0	0	0	
+to	0	0	0	0	
+information	0	0	0	0	
+0	0	0	0	0	0
+
+retrieval.	0	0	0	0	
+Spring.	0	4	0	0	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Yadong	0	4	0	0	
+Mu,	0	4	0	0	
+Jialie	0	4	0	0	
+Shen	0	4	0	0	
+and	0	0	0	0	
+Shuicheng	0	4	0	0	
+Yan.	0	4	0	0	
+2010.	0	3	0	1	
+0	0	0	0	0	0
+
+Weakly-Supervised	0	5	0	0	
+Hashing	0	4	0	0	
+in	0	0	0	0	
+Kernel	0	4	0	0	
+Space.	0	4	0	0	
+In	0	4	9	0	
+Pro-	0	4	0	0	
+0	0	0	0	0	0
+
+ceedings	0	0	0	0	
+of	0	0	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+on	0	0	0	0	
+Computer	0	4	0	0	
+0	0	0	0	0	0
+
+Vision	0	4	0	0	
+and	0	0	0	0	
+Pattern	0	4	0	0	
+Recognition,	0	4	0	0	
+pages	0	0	1	0	
+3344-3351.	0	5	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Ruslan	0	4	0	0	
+Salakhutdinov	0	4	0	0	
+and	0	0	0	0	
+Geoffrey	0	4	0	0	
+Hintona.	0	4	0	0	
+2007.	0	3	0	1	
+0	0	0	0	0	0
+
+Semantic	0	4	0	0	
+hashing.	0	0	0	0	
+In	0	4	9	0	
+SIGIR	0	1	0	0	
+workshop	0	0	0	0	
+on	0	0	0	0	
+Information	0	4	0	0	
+0	0	0	0	0	0
+
+Retrieval	0	4	0	0	
+and	0	0	0	0	
+applications	0	0	1	0	
+of	0	0	0	0	
+Graphical	0	4	0	0	
+Models.	0	4	0	0	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Bernhard	0	4	0	0	
+Sch	0	4	0	0	
+olkopf,	0	0	0	0	
+Alexander	0	4	0	0	
+Smola	0	4	0	0	
+and	0	0	0	0	
+Klaus-Robert	0	5	0	0	
+0	0	0	0	0	0
+
+M	0	1	0	0	
+uller.	0	0	0	0	
+1997.	0	3	0	1	
+Kernel	0	4	0	0	
+principal	0	0	0	0	
+component	0	0	0	0	
+analysis.	0	0	0	0	
+0	0	0	0	0	0
+
+Advances	0	4	0	0	
+in	0	0	0	0	
+Kernel	0	4	0	0	
+Methods	0	4	0	0	
+-	0	5	0	0	
+Support	0	4	1	0	
+Vector	0	4	0	0	
+Learn-	0	4	0	0	
+0	0	0	0	0	0
+
+ing,	0	0	0	0	
+pages	0	0	1	0	
+583-588.	0	5	0	3	
+MIT.	0	1	0	0	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Lloyd	0	4	0	0	
+N.	0	1	0	0	
+Trefethen	0	4	0	0	
+and	0	0	0	0	
+David	0	4	0	0	
+Bau.	0	4	0	0	
+1997.	0	3	0	1	
+Numerical	0	4	0	0	
+0	0	0	0	0	0
+
+linear	0	0	0	0	
+algebra.	0	0	0	0	
+Society	0	4	0	0	
+for	0	0	0	0	
+Industrial	0	4	0	0	
+Mathematics.	0	4	0	0	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Xiaojun	0	4	0	0	
+Wan,	0	4	0	0	
+Jianwu	0	4	0	0	
+Yang	0	4	0	0	
+and	0	0	0	0	
+Jianguo	0	4	0	0	
+Xiao.	0	4	0	0	
+2008.	0	3	0	1	
+0	0	0	0	0	0
+
+Towards	0	4	0	0	
+a	0	0	0	0	
+unified	0	0	0	0	
+approach	0	0	1	0	
+to	0	0	0	0	
+document	0	0	0	0	
+similarity	0	0	0	0	
+0	0	0	0	0	0
+
+search	0	0	0	0	
+using	0	0	0	0	
+manifold-ranking	0	0	0	0	
+of	0	0	0	0	
+blocks.	0	0	0	0	
+Information	0	4	0	0	
+0	0	0	0	0	0
+
+Processing	0	4	0	0	
+&	0	5	0	0	
+Management,	0	4	0	0	
+44(3):1032-1048.	1	5	0	2	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Jun	0	4	6	0	
+Wang,	0	4	0	0	
+Sanjiv	0	4	0	0	
+Kumar	0	4	0	0	
+and	0	0	0	0	
+Shih-Fu	0	5	0	0	
+Chang.	0	4	0	0	
+2010a.	0	0	0	1	
+0	0	0	0	0	0
+
+Semi-Supervised	0	5	0	0	
+Hashing	0	4	0	0	
+for	0	0	0	0	
+Scalable	0	4	0	0	
+Image	0	4	0	0	
+Re-	0	4	0	0	
+0	0	0	0	0	0
+
+trieval.	0	0	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+0	0	0	0	0	0
+
+on	0	0	0	0	
+Computer	0	4	0	0	
+Vision	0	4	0	0	
+and	0	0	0	0	
+Pattern	0	4	0	0	
+Recognition,	0	4	0	0	
+pages	0	0	1	0	
+0	0	0	0	0	0
+
+3424-3431.	0	5	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Jun	0	4	6	0	
+Wang,	0	4	0	0	
+Sanjiv	0	4	0	0	
+Kumar	0	4	0	0	
+and	0	0	0	0	
+Shih-Fu	0	5	0	0	
+Chang.	0	4	0	0	
+2010b.	0	0	0	1	
+0	0	0	0	0	0
+
+Sequential	0	4	0	0	
+Projection	0	4	0	0	
+Learning	0	4	0	0	
+for	0	0	0	0	
+Hashing	0	4	0	0	
+with	0	0	0	0	
+0	0	0	0	0	0
+
+Compact	0	4	0	0	
+Codes.	0	4	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+International	0	4	0	0	
+0	0	0	0	0	0
+
+Conference	0	4	7	0	
+on	0	0	0	0	
+Machine	0	4	0	0	
+Learning.	0	4	0	0	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+Yair	0	4	0	0	
+Weiss,	0	4	0	0	
+Antonio	0	4	0	0	
+Torralba	0	4	0	0	
+and	0	0	0	0	
+Rob	0	4	0	0	
+Fergus.	0	4	0	0	
+2009.	0	3	0	1	
+0	0	0	0	0	0
+
+Spectral	0	4	0	0	
+hashing.	0	0	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+Advances	0	4	0	0	
+in	0	0	0	0	
+Neu-	0	4	0	0	
+0	0	0	0	0	0
+
+ral	0	0	0	0	
+Information	0	4	0	0	
+Processing	0	4	0	0	
+Systems.	0	4	0	0	
+0	0	0	0	0	0
+

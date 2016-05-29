@@ -1,6 +1,6 @@
 var libraries = [];
 $.ajax({
-    url: '/allcourses/',
+    url: '../allcourses/',
     type: 'GET',
     success: function(response) {
       console.log("hahaha")

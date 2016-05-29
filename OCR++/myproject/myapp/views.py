@@ -40,12 +40,11 @@ def runScript():
 
 def list(request):
     if request.method == 'GET':
-        return HttpResponseRedirect("../home/")
+        return HttpResponseRedirect("/home/")
         # return HttpResponse('This page shows a list of most recent posts.')
         # pass
     # Handle file upload
     if request.method == 'POST':
-	subprocess.call("rm -r " + directory + "*.pdf", shell=True)	
         form = DocumentForm(request.POST, request.FILES)
         if form.is_valid():
             newdoc = Document(docfile = request.FILES['docfile'])
@@ -53,7 +52,7 @@ def list(request):
             runScript()
 
             # Redirect to the document list after POST
-            return HttpResponseRedirect("../home/")
+            return HttpResponseRedirect("/home/")
     else:
         form = DocumentForm() # A empty, unbound form
 
@@ -101,11 +100,14 @@ def url(request):
 def footnote(request):
     return render(request, "footnote.html")
 
-def citation(request):
-    return render(request, "citation.html")
+def citref(request):
+    return render(request, "citref.html")
 
-def reference(request):
-    return render(request, "reference.html")
+def ref_feature(request):
+    return render(request, "ref_feature.html")
+
+def team(request):
+    return render(request, "team.html")
 
 def getauthor(request):
     if request.method == 'GET':
@@ -227,12 +229,27 @@ def getfootnote(request):
 def getcitref(request):
     if request.method == 'GET':
         resp = ""
-        if os.path.isfile(directory + "eval_citref.txt"):
-            resp = open(directory + "eval_citref.txt").read()
+        # print os.path.isfile(directory + "eval_cit2ref.xml")
+        if os.path.isfile(directory + "eval_cit2ref.xml"):
+            # print "aya toh****************"
+            resp = open(directory + "eval_cit2ref.xml").read()
             if len(resp)==0:
                 resp = "No file"
         else:
             resp = "No file"
 
-        response = {'status': 1, 'message': "Confirmed!!", 'url':'/reference/'}
+        response = {'status': 1, 'message': "Confirmed!!", 'url':'/citref/'}
+        return HttpResponse(resp, content_type='string')
+
+def getref_feature(request):
+    if request.method == 'GET':
+        resp = ""
+        if os.path.isfile(directory + "testResults/xmls/input.xml"):
+            resp = open(directory + "testResults/xmls/input.xml").read()
+            if len(resp)==0:
+                resp = "No file"
+        else:
+            resp = "No file"
+
+        response = {'status': 1, 'message': "Confirmed!!", 'url':'/ref_feature/'}
         return HttpResponse(resp, content_type='string')

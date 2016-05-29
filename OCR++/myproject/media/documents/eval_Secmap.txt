@@ -1,1 +1,48 @@
 <<section>>
+Chunks: Proceedings of the 49th Annual ... method gets the best performance.
+<<section>>
+Heading: 1 Introduction 
+Chunks: Document Similarity Search (DSS) is ... knowledge for better hashing. Moti-
+<<section>>
+Chunks: 1 Hamming space is a ... are given in Section 5.
+<<section>>
+Heading: 2 Background and Related Works 
+Chunks: Suppose we are given a ... ap- proximate similarity search methods.
+<<section>>
+Heading: 2.1 SimHash 
+Chunks: SimHash (SH) is first proposed ... is an unsupervised hashing method.
+<<section>>
+Heading: 2.2 Kernelized Locality Sensitive Hashing 
+Chunks: A kernelized variant of SH, ... kernel remains a big challenge.
+<<section>>
+Heading: 2.3 Semi-Supervised Hashing 
+Chunks: Semi-Supervised Hashing (SSH) (Wang et ... entropy and larger empirical errors.
+<<section>>
+Heading: 2.4 Others 
+Chunks: Some other related works should ... always violated in real-world applications.
+<<section>>
+Heading: 3 Semi-Supervised SimHash 
+Chunks: In this section, we present ... similar objects have similar codes.
+<<section>>
+Heading: 3.1 Data Representation 
+Chunks: Since L random hyperplanes are ... from x to these hyperplanes.
+<<section>>
+Heading: 3.2 Formulation 
+Chunks: Hashing maps the data set ... |t| > T g .
+<<section>>
+Heading: 3.3 Fingerprint Generation 
+Chunks: When we get the optimal ... to improve the DSS performance.
+<<section>>
+Heading: 5 The direction is determined by concatenating w L times. 
+Chunks: 97 24 32 40 48 ... are reported. 4.1 20 Newsgroups
+<<section>>
+Heading: 20 Newsgroups 
+Chunks: 6 contains 20K messages, about ... even for very high-dimensional data.
+<<section>>
+Chunks: 4.2 Open Directory Project (ODP) ... and the state-of-the-art hashing methods.
+<<section>>
+Heading: 5 Conclusions 
+Chunks: We have proposed a novel ... performance than several state-of-the-art methods.
+<<section>>
+Heading: 6 Acknowledgements 
+Chunks: We thank Fangtao Li for ... ral Information Processing Systems. 101

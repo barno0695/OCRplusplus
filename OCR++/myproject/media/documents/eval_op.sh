@@ -9,3 +9,4 @@ python $Directory/create_eval_tables_figures.py
 python $Directory/create_eval_url.py
 python $Directory/create_eval_sections.py
 python $Directory/create_eval_footnote.py
+python $Directory/create_eval_cit2ref.py

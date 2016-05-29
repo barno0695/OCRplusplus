@@ -1,5 +1,11 @@
 <?xml version="1.0" ?>
 <Footnotes>
-	<Footnotes/>
+	<footnote>1 Hamming space is a set of binary strings of length L. </footnote>
+	<footnote>2 The extended covariance matrix is composed of two com- ponents, one is an unsupervised covariance term and another is a constraint matrix involving labeled information. 3 Hamming distance is defined as the number of bits that are different between two binary strings. </footnote>
+	<footnote>4 http://www.burtleburtle.net/bob/hash/doobs.html </footnote>
+	<footnote>5 The direction is determined by concatenating w L times. </footnote>
+	<footnote>6 http://www.cs.cmu.edu/afs/cs/project/theo-3/www/ </footnote>
+	<footnote>7 http://rdf.dmoz.org/ 8 The title together with the corresponding short description of a page are considered as a document in our experiments. </footnote>
+	<footnote>9 We have tested feature selection. However, if we select 40K features via Chi-squared feature selection method, docu- ments are represented by 3.15 terms on average. About 44.9% documents are represented by no more than 2 terms. </footnote>
 </Footnotes>
 
