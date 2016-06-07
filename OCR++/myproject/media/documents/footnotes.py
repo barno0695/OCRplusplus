@@ -11,12 +11,13 @@ from xml.sax.saxutils import escape
 
 
 
-directory = "/var/www/html/OCR++/myproject/media/documents/"
+directory = ""
 files=["input.xml"]
+
 
 #####################
 
-def generateXML(tree):
+def generateXML(tree,foot_str):
     rt = tree.getroot()
     ls = rt.findall('chunk')
     st_chunk = ''
@@ -27,21 +28,21 @@ def generateXML(tree):
     xroot = ET.Element("Footnotes")
     #new_footnote = ET.SubElement(xroot, "Footnotes")
 
+    f = foot_str.split('\n')
+    count = 0
+    for line in f:
+        cols = line.split('\t')
+        #print cols
+        if len(cols) == 6 and cols[5] == "FOOTNOTE":
+            #print line
+            st = ''
+            for token in ls[count].findall('token'):
+                st = st + token.text + ' '
+            st = st.strip('\n')
+            ET.SubElement(xroot, "footnote").text = st
 
-    with open(directory + ff +"_out.txt", "r") as f:
-        count = 0
-        for line in f:
-            cols = line.split('\t')
-            if len(cols) == 6 and cols[5] == "FOOTNOTE\n":
-                #print line
-                st = ''
-                for token in ls[count].findall('token'):
-                    st = st + token.text + ' '
-                st = st.strip('\n')
-                ET.SubElement(xroot, "footnote").text = st
 
-
-            count = count +1
+        count = count +1
     return xroot
 
 #######################
@@ -82,11 +83,9 @@ def token_features(y):
 
 
 
-for ff in files:
+def foot_main(root):
     #print ff
-    tree = ET.parse(directory+ff)
-    root = tree.getroot()
-
+    foot_str = ''
     max_fs = 0
     p_yloc = None
     y_diff={}
@@ -162,12 +161,12 @@ for ff in files:
                             word = "*"
                         elif ord(token.text) == 182:
                             word = "*"
-			else:
-			    word = unicodedata.normalize('NFKD', token.text).encode('ascii','ignore')
+                        else:
+                            word = unicodedata.normalize('NFKD', token.text).encode('ascii','ignore')
                         #print word
                     else:
-                        #if len(token.text) == 1:
-                        #    print #print (token.text + " " + str(ord(token.text)))
+                        if len(token.text) == 1:
+                            pass #print (token.text + " " + str(ord(token.text)))
                         word = unicodedata.normalize('NFKD', token.text).encode('ascii','ignore')
                 else:
                     word = token.text
@@ -215,10 +214,6 @@ for ff in files:
 
 
 
-
-
-    f = open(directory+ff+'_out.txt','w')
-
     newxroot = tree.getroot()
 
     #print ("max = "+ str(max_fs))
@@ -230,7 +225,8 @@ for ff in files:
         bool = None
         tokens = achunk.findall('token')
         if( len(tokens) == 0 ):
-            f.write("x x 0 0 0 0\n")
+            #f.write("x x 0 0 0 0\n")
+            foot_str += "x x 0 0 0 0\n"
             continue
         elif(len(tokens) ==1):
             tok1 = '$$$'
@@ -306,21 +302,16 @@ for ff in files:
 
 
         #print (tok1+"\t\t\t"+tok2+"\t\t\t"+str(tcount)+"\t\t\t"+str(boldness)+"\t\t\t"+str(round(fsize,2))+"\t\t\t"+token_features(bool))
-        f.write(tok1+"\t"+tok2+"\t"+str(round(fsize,2))+"\t"+str(y_pos)+"\t"+str(first_word)+"\t"+(what)+"\n")
-        #f.write(tok1+"\t\t\t"+tok2+"\t\t\t"+str(round(fsize,2))+"\t\t\t"+str(y_pos)+"\t\t\t"+0+"\n")
-    f.close()
+        #f.write(tok1+"\t"+tok2+"\t"+str(round(fsize,2))+"\t"+str(y_pos)+"\t"+str(first_word)+"\t"+(what)+"\n")
+        foot_str += tok1+"\t"+tok2+"\t"+str(round(fsize,2))+"\t"+str(y_pos)+"\t"+str(first_word)+"\t"+(what)+"\n"
 
-    s = generateXML(tree)
+    s = generateXML(tree,foot_str)
     cc =  ET.tostring(s, 'utf-8')
     reparsed = xml.dom.minidom.parseString(cc)
-    print reparsed.toprettyxml(indent="\t")
-
-    ################
-    f = open(directory + "FOOTNOTEop.txt",'w')
-    f.write(reparsed.toprettyxml(indent="\t"))
-    f.close()
-    ###############
+    with open("FOOTNOTEop.txt",'w') as f:
+        f.write(reparsed.toprettyxml(indent="\t"))
 
     #subprocess.call("rm " + ff + "_out.txt", shell=True)
     #subprocess.call("rm " +  ff.split('.')[0]+'_out_new.txt', shell=True)
     # subp
+

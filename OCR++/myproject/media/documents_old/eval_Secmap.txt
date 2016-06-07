@@ -1,0 +1,50 @@
+<<section>>
+Chunks: Proceedings of the 52nd Annual ... higher accuracy than existing approaches.
+<<section>>
+Heading: 1 Introduction 
+Chunks: Truth-finding algorithms aim to separate ... that FactChecker outperforms prior methods.
+<<section>>
+Heading: 2 Fact Candidates 
+Chunks: In this section, we formally ... Nobel Peace Prize is not.
+<<section>>
+Heading: 2.2 Semantics 
+Chunks: Based on the SVO triple, ... to generate alternative fact candidates.
+<<section>>
+Heading: 2.3 Alternative Fact Candidates 
+Chunks: Truth-finding methods rank f i ... in, Einstein passed in, etc.
+<<section>>
+Heading: 3 Objectivity and Trustworthiness 
+Chunks: The principle of objective journalism, ... automatically determining objectivity of sources.
+<<section>>
+Heading: 3.2 Automatic Objectivity Detection 
+Chunks: We trained a logistic regression ... into FactCheckers truth- fulness model.
+<<section>>
+Heading: 4 Believability Computation Model 
+Chunks: FactChecker computes the believability score ... summa- rized in Algorithm 1.
+<<section>>
+Heading: 5 Evaluation 
+Chunks: We evaluated FactChecker for accuracy. ... candidates (Galland et al., 2010).
+<<section>>
+Heading: 5.1 Accuracy on KB Fact Candidates 
+Chunks: Figure 2 shows accuracy on ... 13%, 12%, and 13% respectively.
+<<section>>
+Heading: 5.2 Accuracy of FactChecker Variations 
+Chunks: To quantify how various aspects ... per- forms better than FC-CoMention.
+<<section>>
+Heading: 5.3 Accuracy on Wikipedia Fact Candidates 
+Chunks: Table 4, column WKP Politicians, ... ac- curacy of 0.88 0.08.
+<<section>>
+Heading: 5.4 Accuracy on General Knowledge Quiz 
+Chunks: Table 4, column GK Quiz ... 4: Effect of of FactChecker.
+<<section>>
+Heading: 5.5 Parameter Sensitivity 
+Chunks: We analyzed the effect of ... robustly chosen within this range.
+<<section>>
+Heading: 5.6 Discussion 
+Chunks: Overall, from these results we ... the document-level feature of objectivity.
+<<section>>
+Heading: 6 Related Work 
+Chunks: There is a fairly small ... cardinalities learned from SVO statistics.
+<<section>>
+Heading: 7 Conclusion 
+Chunks: In this paper, we presented ... Endowment (PVLDB), 5(6):550-561, 2012. 1019

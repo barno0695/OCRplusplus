@@ -2,16 +2,9 @@
 <Tables_Figures>
 	<Tables/>
 	<Figures>
-		<figure>Figure 1: Excerpt of dialogue during a coor- dination activity </figure>
-		<figure>Figure 2: RAT interface </figure>
-		<figure>Figure 3: Second Life overview map </figure>
-		<figure>Figure 4: 2D representation of Second Life action inside the Mansion/Manor </figure>
-		<figure>Figure 5: Second Life view of Mansion exterior </figure>
-		<figure>Figure 6: Chat &amp; Event Panel </figure>
-		<figure>Figure 7: Chat Annotation Sub-Panel </figure>
-		<figure>Figure 8: The corresponding annotation for Figure 9 event, as displayed in the Chat &amp; Event Panel </figure>
-		<figure>Figure 9: A series of progressive moments in time portraying avatar entry into the Bank subzone </figure>
-		<figure>Figure 10: Event Annotation Sub-Panel, currently showing the Moves Into Subzone event from figure 9, as well as: Kenny follows Elliot in Vault </figure>
+		<figure>Figure 1: uClaim System Architecture </figure>
+		<figure>Figure 2: uClaim User Interface </figure>
+		<figure>Figure 3: iCheck claim centric political view </figure>
+		<figure>Figure 4: iCheck MLB player centric view </figure>
 	</Figures>
 </Tables_Figures>
-

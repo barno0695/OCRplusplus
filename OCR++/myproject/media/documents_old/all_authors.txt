@@ -1,0 +1,1486 @@
+
+Rohith19.xml
+<<name>>
+First name : Cesar
+Last name : Acero
+<<name>>
+First name : Derek
+Last name : Feltham
+<<name>>
+First name : Friedrich
+Last name : Hapke
+<<name>>
+First name : Elham
+Last name : Moghaddam
+<<name>>
+First name : Nilanjan
+Last name : Mukherjee
+<<name>>
+First name : Vidya
+Last name : Neerkundar
+<<name>>
+First name : Marek
+Last name : Patyra
+<<name>>
+First name : Janusz
+Last name : Rajski
+<<name>>
+First name : Jerzy
+Last name : Tyszer
+<<name>>
+First name : Justyna
+Last name : Zawada
+
+sidhartha23tick.xml
+<<name>>
+First name : Evangelos
+Last name : Kanoulas
+<<name>>
+First name : Liadh
+Last name : Kelly
+<<name>>
+First name : Mark
+Middle name : D. 
+Last name : Smucker
+<<name>>
+First name : David
+Last name : Elsweiler
+
+ayush_3.xml
+<<name>>
+First name : William
+Middle name : A. 
+Last name : Gale
+<<name>>
+First name : Kenneth
+Middle name : W. 
+Last name : Church
+
+manvi7.xml
+<<name>>
+First name : Martin
+Last name : Andrews
+
+Rohith18.xml
+
+ayush9.xml
+<<name>>
+First name : Josephine
+Last name : Sullivan
+<<name>>
+First name : Atsuto
+Last name : Maki
+<<name>>
+First name : Stefan
+Last name : Carlsson
+
+samuel13.xml
+<<name>>
+First name : George
+Last name : Varghese
+<<name>>
+First name : M.
+Last name : Shreed-
+
+Rohiththriplecolumn.xml
+
+barno1.xml
+<<name>>
+First name : Aleksandr
+Middle name : I. 
+Last name : Myslenkov
+<<name>>
+First name : Dale
+Middle name : G. 
+Last name : Miquelle
+
+tulasi19.xml
+<<name>>
+First name : KARL
+Middle name : J. 
+Last name : OTTENSTEIN
+<<name>>
+First name : JEANNE
+Last name : FERRANTE
+<<name>>
+First name : PDG.
+Last name : Since
+
+phy1.xml
+<<name>>
+First name : DANIEL
+Middle name : J. 
+Last name : FENN
+<<name>>
+First name : SAM
+Middle name : D. 
+Last name : HOWISON
+<<name>>
+First name : MARYA
+Last name : BAZZI
+<<name>>
+First name : STACY
+Last name : WILLIAMS
+<<name>>
+First name : MARK
+Last name : MCDONALD
+
+sidhartha17tick.xml
+
+manvi15.xml
+
+samuel1.xml
+<<name>>
+First name : Mirgita
+Last name : Frasheri
+
+Rohith17.xml
+<<name>>
+First name : Stephen
+Last name : Sunter
+<<name>>
+First name : Rabeeh
+Last name : Majidi
+<<name>>
+First name : Andrew
+Last name : Laidler
+<<name>>
+First name : Invited
+Last name : Paper
+
+PalodOld.xml
+
+phy3.xml
+<<name>>
+First name : Ultrasound
+Middle name : Computed 
+Last name : Tomography
+<<name>>
+First name : Waveform
+Last name : Inversion
+<<name>>
+First name : Source
+Last name : Encoding
+<<name>>
+First name : Kun
+Last name : Wang
+<<name>>
+First name : Thomas
+Last name : Matthews
+<<name>>
+First name : Fatima
+Last name : Anis
+<<name>>
+First name : Neb
+Last name : Duric
+
+ayush4.xml
+<<name>>
+First name : Hayley
+Last name : Hung
+<<name>>
+First name : Hatice
+Last name : Gunes
+<<name>>
+First name : Content
+Last name : Analysis
+
+samuel1995.xml
+<<name>>
+First name : Machine
+Last name : Learning
+<<name>>
+First name : Boston.
+Last name : Manufactured
+<<name>>
+First name : CORINNA
+Last name : CORTES
+<<name>>
+First name : VLADIMIR
+Last name : VAPNIK
+
+manvi4.xml
+<<name>>
+First name : Biao
+Last name : Wang
+<<name>>
+First name : Seokkeun
+Last name : Choi
+<<name>>
+First name : Younggi
+Last name : Byun
+<<name>>
+First name : Soungki
+Last name : Lee
+<<name>>
+First name : Jaewan
+Last name : Choi
+
+sidhartha22tick.xml
+<<name>>
+First name : Fabien
+Last name : Ringeval
+<<name>>
+First name : Roddy
+Last name : Cowie
+<<name>>
+First name : Maja
+Last name : Pantic
+<<name>>
+First name : Björn
+Last name : Schuller
+<<name>>
+First name : Michel
+Last name : Valstar
+
+Rohith3.xml
+<<name>>
+First name : Maoguo
+Last name : Gong
+<<name>>
+First name : Jiaojiao
+Last name : Zhao
+<<name>>
+First name : Jia
+Last name : Liu
+<<name>>
+First name : Qiguang
+Last name : Miao
+<<name>>
+First name : Licheng
+Last name : Jiao
+
+sidhartha14.xml
+<<name>>
+First name : Junior
+Last name : Fabian
+<<name>>
+First name : Miguel
+Middle name : A. 
+Last name : Bautista
+<<name>>
+First name : Marc
+Last name : Oliu
+<<name>>
+First name : Isabelle
+Last name : Guyon
+<<name>>
+First name : Sergio
+Last name : Escalera
+
+samuel17.xml
+<<name>>
+First name : Luciano
+Middle name : De 
+Last name : Sio
+<<name>>
+First name : Giulio
+Last name : Caracciolo
+<<name>>
+First name : Ferdinanda
+Last name : Annesi
+<<name>>
+First name : Tiziana
+Last name : Placido
+<<name>>
+First name : Daniela
+Last name : Pozzi
+<<name>>
+First name : Roberto
+Last name : Comparelli
+<<name>>
+First name : Alfredo
+Last name : Pane
+<<name>>
+First name : Maria
+Middle name : Lucia 
+Last name : Curri
+<<name>>
+First name : Angela
+Last name : Agostiano
+<<name>>
+First name : Roberto
+Last name : Bartolino
+
+samuel9.xml
+<<name>>
+First name : DAVID
+Last name : GELERNTER
+
+tulasi18.xml
+<<name>>
+First name : Jia
+Last name : Liu
+<<name>>
+First name : Dustin
+Last name : Feld
+<<name>>
+First name : Yong
+Last name : Xue
+<<name>>
+First name : Jochen
+Last name : Garcke
+<<name>>
+First name : Thomas
+Last name : Soddemann
+
+Rohith16.xml
+<<name>>
+First name : Bevan
+Last name : Jones
+<<name>>
+First name : Kevin
+Last name : Knight
+
+matter3.xml
+
+sidhartha6.xml
+<<name>>
+First name : Garrick
+Last name : Orchard
+<<name>>
+First name : Jacob
+Middle name : G. 
+Last name : Martin
+<<name>>
+First name : R.
+Middle name : Jacob 
+Last name : Vogelstein
+
+samuel10.xml
+<<name>>
+First name : Abhay
+Middle name : Kumar 
+Last name : Alok
+<<name>>
+First name : Sriparna
+Last name : Saha
+
+elsevier3.xml
+<<name>>
+First name : Sh.
+Last name : Molaei
+<<name>>
+First name : R.
+Last name : Alizadeh
+<<name>>
+First name : M.
+Last name : Attarian
+<<name>>
+First name : Y.
+Last name : Jaferian
+
+sidhartha5tick.xml
+<<name>>
+First name : Model
+Last name : Perspective
+<<name>>
+First name : Debarun
+Last name : Kar
+<<name>>
+First name : Milind
+Last name : Tambe
+
+sidhartha15.xml
+
+sidhartha10.xml
+<<name>>
+First name : Yi
+Last name : Yang
+<<name>>
+First name : Jingkuan
+Last name : Song
+<<name>>
+First name : Zi
+Last name : Huang
+<<name>>
+First name : Zhigang
+Last name : Ma
+<<name>>
+First name : Nicu
+Last name : Sebe
+
+maths3.xml
+<<name>>
+First name : A.
+Last name : Loi
+
+Rohith13.xml
+<<name>>
+First name : Ryan
+Last name : Kiros
+<<name>>
+First name : Mengye
+Last name : Ren
+<<name>>
+First name : Richard
+Last name : Zemel
+
+tulasi11.xml
+<<name>>
+First name : Mark
+Middle name : J. 
+Last name : Ahn
+<<name>>
+First name : Tugrul
+Last name : Daim
+<<name>>
+First name : Wei
+Last name : Wu
+
+Rohith21.xml
+<<name>>
+First name : Alan
+Last name : Jern
+<<name>>
+First name : Charles
+Last name : Kemp
+
+tulasi14.xml
+<<name>>
+First name : Khalid
+Last name : Ashraf
+<<name>>
+First name : Kurt
+Last name : Keutzer
+<<name>>
+First name : GPUs.
+Last name : We
+
+tulasi10.xml
+<<name>>
+First name : Natt
+Last name : Leelawat
+<<name>>
+First name : Anawat
+Last name : Suppasri
+<<name>>
+First name : Fumihiko
+Last name : Imamura
+
+ayush2.xml
+<<name>>
+First name : Computational
+Last name : Linguistics
+<<name>>
+First name : Yunyao
+Last name : Li
+
+Rohith20.xml
+<<name>>
+First name : MRFs.
+Last name : Experiments
+
+ayush14.xml
+<<name>>
+First name : N.
+Last name : DEMNI
+
+ayush1.xml
+<<name>>
+First name : Mouna
+Last name : Kacimi
+<<name>>
+First name : Aparna
+Middle name : S. 
+Last name : Varde
+
+samuel14.xml
+<<name>>
+First name : Gokay
+Last name : Huz
+<<name>>
+First name : Steven
+Last name : Bauer
+<<name>>
+First name : Robert
+Last name : Beverly
+
+Rohith22.xml
+<<name>>
+First name : David
+Last name : Burkett
+
+sidhartha7tick.xml
+<<name>>
+First name : Nemanja
+Last name : Spasojevic
+<<name>>
+First name : Adithya
+Last name : Rao
+
+sidhartha21tick.xml
+<<name>>
+First name : Al
+Last name : Ain
+<<name>>
+First name : Florin
+Last name : Panaite
+
+samuel16.xml
+<<name>>
+First name : Emanuele
+Last name : Angiuli
+<<name>>
+First name : Giovanna
+Last name : Trianni
+
+tulasi1.xml
+<<name>>
+First name : HANNU
+Last name : HUHDANPAA
+
+matter2.xml
+<<name>>
+First name : Hamid
+Last name : Teimouri
+
+barno3.xml
+<<name>>
+First name : Wenzhong
+Last name : Shi
+
+ayush13.xml
+<<name>>
+First name : Chelsea
+Last name : Finn
+
+Rohith10.xml
+<<name>>
+First name : Ujwala
+Middle name : M. 
+Last name : Bhangale
+
+Rohith23.xml
+<<name>>
+First name : Richard
+Last name : Socher
+<<name>>
+First name : Daniel
+Last name : Cer
+
+ayush6.xml
+<<name>>
+First name : Chenghua
+Last name : Xu
+
+manvi3.xml
+<<name>>
+First name : Hsiang-Fu
+Last name : Yu
+<<name>>
+First name : Prateek
+Last name : Jain
+<<name>>
+First name : Purushottam
+Last name : Kar
+<<name>>
+First name : Inderjit
+Middle name : S. 
+Last name : Dhillon
+
+Rohith11.xml
+<<name>>
+First name : Bryan
+Last name : Ek
+<<name>>
+First name : Caitlin
+Last name : VerSchneider
+<<name>>
+First name : Darren
+Middle name : A. 
+Last name : Narayan
+
+Rohith6.xml
+<<name>>
+First name : Luis
+Last name : David
+<<name>>
+First name : Alvarez
+Last name : Corrales
+<<name>>
+First name : Laurent
+Last name : Decreusefond
+
+samuel20.xml
+<<name>>
+First name : Elizabeth
+Middle name : G. 
+Last name : Matzkin
+<<name>>
+First name : Catherine
+Last name : Logan
+<<name>>
+First name : Kathryn
+Last name : Ackerman
+
+samuel11.xml
+<<name>>
+First name : Keith
+Last name : Winstein
+<<name>>
+First name : Pauline
+Last name : Varley
+<<name>>
+First name : Somak
+Last name : Das
+<<name>>
+First name : Joshua
+Last name : Ma
+<<name>>
+First name : Comput.
+Middle name : Commun. 
+Last name : Rev.
+<<name>>
+First name : Protocol
+Middle name : Design 
+Last name : Contests
+<<name>>
+First name : Sun
+Last name : Dec
+<<name>>
+First name : Anirudh
+Last name : Sivaraman
+<<name>>
+First name : João
+Last name : Batalha
+<<name>>
+First name : Hari
+Last name : Balakrishnan
+
+sidhartha12.xml
+<<name>>
+First name : Prateek
+Last name : Jain
+
+PriyankOld.xml
+<<name>>
+First name : RICHARD
+Last name : GORDON
+<<name>>
+First name : N.
+Last name : Y.
+
+manvi2.xml
+<<name>>
+First name : Jonathan
+Last name : Berant
+<<name>>
+First name : Andrew
+Last name : Chou
+<<name>>
+First name : Roy
+Last name : Frostig
+<<name>>
+First name : Percy
+Last name : Liang
+<<name>>
+First name : Freebase.
+Last name : Instead
+
+sidharthachi1tick.xml
+
+sidhartha11.xml
+<<name>>
+First name : Akansha
+Last name : Singh
+<<name>>
+First name : Krishna
+Middle name : Kant 
+Last name : Singh
+
+samuel8.xml
+
+manvi10.xml
+
+Rohith7.xml
+<<name>>
+First name : Computational
+Last name : Linguistics
+
+samuel4.xml
+<<name>>
+First name : Vinodkumar
+Last name : Prabhakaran
+<<name>>
+First name : Owen
+Last name : Rambow
+<<name>>
+First name : Written
+Last name : Dialog
+<<name>>
+First name : Single
+Last name : Thread
+
+manvi14.xml
+<<name>>
+First name : J.
+Last name : Senthilnath
+<<name>>
+First name : V.
+Last name : Mani
+<<name>>
+First name : Tejovanth
+Last name : N
+<<name>>
+First name : P.
+Last name : G.
+
+samuel12.xml
+<<name>>
+First name : Zhi
+Last name : Cai
+
+tulasi13.xml
+<<name>>
+First name : Qilei
+Last name : Zhang
+<<name>>
+First name : Michail
+Last name : Antoniou
+<<name>>
+First name : Wenge
+Last name : Chang
+<<name>>
+First name : Mikhail
+Last name : Cherniakov
+
+ayush12.xml
+<<name>>
+First name : Kratarth
+Last name : Goel
+<<name>>
+First name : Raunaq
+Last name : Vohra
+
+10.1.1.125.3310.xml
+
+manvi6.xml
+
+maths1.xml
+<<name>>
+First name : Leslie
+Last name : Hogben
+<<name>>
+First name : Simone
+Last name : Severini
+
+tulasi8.xml
+<<name>>
+First name : Givi
+Last name : Berikelashvili
+<<name>>
+First name : Bidzina
+Last name : Midodashvili
+
+tulasi2.xml
+<<name>>
+First name : LESLIE
+Last name : LAMPORT
+<<name>>
+First name : ROBERT
+Last name : SHOSTAK
+<<name>>
+First name : MARSHALL
+Last name : PEASE
+
+tulasi4.xml
+<<name>>
+First name : Tommi
+Last name : Jaakkola
+<<name>>
+First name : Tao
+Last name : Lei
+<<name>>
+First name : Yu
+Last name : Xin
+<<name>>
+First name : Yuan
+Last name : Zhang
+<<name>>
+First name : Regina
+Last name : Barzilay
+
+ayush3.xml
+<<name>>
+First name : Eugene
+Last name : Charniak
+
+ayush8.xml
+<<name>>
+First name : Luc
+Middle name : Van 
+Last name : Gool
+<<name>>
+First name : Radu
+Last name : Timofte
+
+mayank4.xml
+
+ayush_1.xml
+<<name>>
+First name : Gong
+Last name : Xiaoliang
+<<name>>
+First name : Stephan
+Last name : Bansmer
+
+manvi17.xml
+
+sidhartha24tick.xml
+<<name>>
+First name : Fabio
+Last name : Vitale
+
+sidhartha19tick.xml
+<<name>>
+First name : Jiaojiao
+Last name : Tian
+<<name>>
+First name : Peter
+Last name : Reinartz
+<<name>>
+First name : Digital
+Last name : Surface
+
+barno2.xml
+<<name>>
+First name : Nicolas
+Last name : Gast
+<<name>>
+First name : Guillaume
+Last name : Massonnet
+<<name>>
+First name : Daniël
+Last name : Reijsbergen
+<<name>>
+First name : Mirco
+Last name : Tribastone
+
+Rohith1995.xml
+<<name>>
+First name : John
+Last name : Lamping
+<<name>>
+First name : Ramana
+Last name : Rao
+<<name>>
+First name : Peter
+Last name : Pirolli
+
+manvi8.xml
+<<name>>
+First name : Amir
+Last name : Zamir
+<<name>>
+First name : Roland
+Last name : Angst
+<<name>>
+First name : Silvio
+Last name : Savarese
+
+tulasi5.xml
+<<name>>
+First name : Hiroki
+Last name : Nakayama
+<<name>>
+First name : Chihiro
+Last name : Ito
+<<name>>
+First name : Kyota
+Last name : Kanno
+<<name>>
+First name : NP-complete.
+Last name : We
+
+manvi9.xml
+<<name>>
+First name : Mengwei
+Last name : Liu
+<<name>>
+First name : Guanghong
+Last name : Zeng
+<<name>>
+First name : Guohui
+Last name : Yuan
+<<name>>
+First name : Yabo
+Last name : Pei
+<<name>>
+First name : Zili
+Last name : Yang
+<<name>>
+First name : Data
+Last name : Mining
+
+sidhartha16.xml
+
+ayush_4.xml
+<<name>>
+First name : Davor
+Last name : Krajnović
+
+tulasi6.xml
+<<name>>
+First name : Jason
+Middle name : W 
+Last name : Barnes
+<<name>>
+First name : Ralph
+Middle name : D 
+Last name : Lorenz
+<<name>>
+First name : Jani
+Last name : Radebaugh
+<<name>>
+First name : Alexander
+Middle name : G 
+Last name : Hayes
+<<name>>
+First name : Karl
+Last name : Arnold
+<<name>>
+First name : Clayton
+Last name : Chandler
+<<name>>
+First name : Planetary
+Last name : Science
+
+tulasi20.xml
+
+mayank2.xml
+<<name>>
+First name : Tassanee
+Last name : Payakapan
+<<name>>
+First name : Senwen
+Last name : Kan
+<<name>>
+First name : Ken
+Last name : Pham
+<<name>>
+First name : Kathy
+Last name : Yang
+<<name>>
+First name : Legget
+Last name : Drive
+<<name>>
+First name : Martin
+Last name : Keim
+<<name>>
+First name : Jennifer
+Last name : Dworak
+<<name>>
+First name : P.O.
+Last name : Box
+
+ayush7.xml
+
+manvi18.xml
+<<name>>
+First name : Yong
+Last name : Wang
+<<name>>
+First name : Hao
+Last name : Wang
+<<name>>
+First name : Jin-Hua
+Last name : Gao
+
+manvi11.xml
+<<name>>
+First name : Ana
+Middle name : Espinosa De 
+Last name : Ycaza
+<<name>>
+First name : Alice
+Middle name : Y. 
+Last name : Chang
+<<name>>
+First name : Jani
+Middle name : R. 
+Last name : Jensen
+<<name>>
+First name : Zaraq
+Last name : Khan
+<<name>>
+First name : Dana
+Last name : Erickson
+
+sidhartha4tick.xml
+<<name>>
+First name : Christophe
+Last name : Guyeux
+
+manvi19.xml
+<<name>>
+First name : Jeffrey
+Last name : Flanigan
+<<name>>
+First name : Sam
+Last name : Thomson
+<<name>>
+First name : Jaime
+Last name : Carbonell
+<<name>>
+First name : Chris
+Last name : Dyer
+<<name>>
+First name : Noah
+Middle name : A. 
+Last name : Smith
+
+manvi21.xml
+<<name>>
+First name : KLAUS
+Last name : ELHARDT
+
+Rohith5.xml
+
+Rohith14.xml
+<<name>>
+First name : Purushottam
+Last name : Kar
+<<name>>
+First name : Prateek
+Last name : Jain
+
+manvi5.xml
+<<name>>
+First name : Xiaozhi
+Last name : Chen
+<<name>>
+First name : Kaustav
+Last name : Kundu
+<<name>>
+First name : Yukun
+Last name : Zhu
+<<name>>
+First name : Andrew
+Last name : Berneshawi
+<<name>>
+First name : Huimin
+Last name : Ma
+<<name>>
+First name : Sanja
+Last name : Fidler
+<<name>>
+First name : Raquel
+Last name : Urtasun
+
+sidhartha9tick.xml
+<<name>>
+First name : Yen-Yu
+Last name : Lin
+
+manvi12.xml
+<<name>>
+First name : Gilad
+Last name : Rosenblatt
+<<name>>
+First name : Guy
+Last name : Bartal
+<<name>>
+First name : Meir
+Last name : Orenstein
+
+sidhartha8tick.xml
+<<name>>
+First name : Zhigang
+Last name : Ma
+<<name>>
+First name : Yi
+Last name : Yang
+<<name>>
+First name : Nicu
+Last name : Sebe
+<<name>>
+First name : Carnegie
+Last name : Mellon
+<<name>>
+First name : Jasper
+Last name : Uijlings
+
+samuel3.xml
+<<name>>
+First name : E.
+Last name : Novitski
+<<name>>
+First name : G.
+Last name : Gabrielse
+
+sidhartha18tick.xml
+<<name>>
+First name : Manik
+Last name : Varma
+<<name>>
+First name : Andrew
+Last name : Zisserman
+
+samuel2.xml
+
+mayank3.xml
+<<name>>
+First name : Prateek
+Last name : Jain
+<<name>>
+First name : Abhradeep
+Last name : Thakurta
+
+tulasi7.xml
+<<name>>
+First name : Huseyin
+Last name : Kusetogullari
+<<name>>
+First name : Amir
+Last name : Yavariabdi
+<<name>>
+First name : Turgay
+Last name : Celik
+
+elsevier6.xml
+<<name>>
+First name : M.A.
+Last name : El-Nabarawy
+<<name>>
+First name : S.H.
+Last name : El-Kafaﬁ
+<<name>>
+First name : M.A.
+Last name : Hamza
+<<name>>
+First name : M.A.
+Last name : Omar
+
+mayank5.xml
+<<name>>
+First name : Yanfei
+Last name : Zhong
+<<name>>
+First name : Wenfeng
+Last name : Liu
+<<name>>
+First name : Ji
+Last name : Zhao
+<<name>>
+First name : Liangpei
+Last name : Zhang
+
+manvi16.xml
+
+sidhartha20tick.xml
+<<name>>
+First name : Anisoara
+Last name : Nica
+<<name>>
+First name : Aparna
+Middle name : S. 
+Last name : Varde
+
+tulasi12.xml
+<<name>>
+First name : Le
+Middle name : Quang 
+Last name : Hoa
+<<name>>
+First name : Nguyen
+Middle name : Huy 
+Last name : Truong
+<<name>>
+First name : Cheonshik
+Last name : Kim
+
+samuel6.xml
+<<name>>
+First name : Hong-Mei
+Last name : Zhao
+
+sidhartha3tick.xml
+
+samuel7.xml
+<<name>>
+First name : Lin
+Last name : An
+<<name>>
+First name : Lu
+Last name : Jia
+<<name>>
+First name : Yan
+Last name : Wu
+<<name>>
+First name : Peng
+Last name : Zhang
+<<name>>
+First name : Gaofeng
+Last name : Liu
+<<name>>
+First name : Hongmeng
+Last name : Chen
+
+tulasi15.xml
+<<name>>
+First name : Vittorio
+Last name : Ferrari
+<<name>>
+First name : Mirella
+Last name : Lapata
+
+Rohith8.xml
+
+Rohith15.xml
+
+sidharthatick1999ieee.xml
+
+sidhartha13.xml
+<<name>>
+First name : Prateek
+Last name : Jain
+<<name>>
+First name : Kristen
+Last name : Grauman
+
+matter5.xml
+
+tulasi16.xml
+<<name>>
+First name : Turgay
+Last name : Celik
+
+manvi20.xml
+<<name>>
+First name : J.
+Last name : Delamare
+<<name>>
+First name : B.
+Last name : Bitachon
+<<name>>
+First name : Z.
+Last name : Peng
+<<name>>
+First name : Y.
+Last name : Wang
+<<name>>
+First name : M.R.
+Last name : Jongerden
+
+ayush5.xml
+<<name>>
+First name : Xudong
+Last name : Jiang
+<<name>>
+First name : Junsong
+Last name : Yuan
+
+tulasi17.xml
+<<name>>
+First name : Prateek
+Last name : Jain
+<<name>>
+First name : Praneeth
+Last name : Netrapalli
+<<name>>
+First name : Sujay
+Last name : Sanghavi
+
+sidhartha1tick.xml
+<<name>>
+First name : Web
+Last name : Scale
+<<name>>
+First name : Dong
+Last name : Wen
+<<name>>
+First name : Lu
+Last name : Qin
+<<name>>
+First name : Xuemin
+Last name : Lin
+<<name>>
+First name : Jeffrey
+Middle name : Xu 
+Last name : Yu
+
+samuel18.xml
+<<name>>
+First name : J.
+Last name : Kowalczyk
+<<name>>
+First name : S.
+Last name : Riede
+<<name>>
+First name : H.
+Last name : Schafft
+<<name>>
+First name : G.
+Last name : Breves
+<<name>>
+First name : M.
+Last name : Lahrssen‑Wiederholt
+
+10.1.1.123.1085.xml
+<<name>>
+First name : PETER
+Last name : PIN-SHAN
+
+ayush10.xml
+<<name>>
+First name : Gregory
+Last name : Druck
+<<name>>
+First name : Burr
+Last name : Settles
+
+ayush11.xml
+<<name>>
+First name : Le
+Last name : Song
+<<name>>
+First name : Manuel
+Last name : Gomez-Rodriguez
+
+samuel19.xml
+<<name>>
+First name : Ryosuke
+Last name : Yano
+
+manvi1.xml
+<<name>>
+First name : Shai
+Last name : Shalev-Shwartz
+<<name>>
+First name : SelﬁeBoost.
+Last name : Unlike
+
+sidhartha2tick.xml
+<<name>>
+First name : Omar
+Last name : Alonso
+<<name>>
+First name : Jaap
+Last name : Kamps
+<<name>>
+First name : Jussi
+Last name : Karlgren
+
+samuel15.xml
+<<name>>
+First name : Michael
+Last name : Kallitsis
+<<name>>
+First name : Eduard
+Last name : Glatz
+<<name>>
+First name : Alberto
+Last name : Dainotti
+<<name>>
+First name : Karyn
+Last name : Benson
+<<name>>
+First name : Alistair
+Last name : King
+<<name>>
+First name : La
+Last name : Jolla
+
+Rohith9.xml
+<<name>>
+First name : Computational
+Last name : Linguistics
+<<name>>
+First name : Jacob
+Last name : Devlin
+<<name>>
+First name : Rabih
+Last name : Zbib
+<<name>>
+First name : Zhongqiang
+Last name : Huang
+<<name>>
+First name : Thomas
+Last name : Lamar
+<<name>>
+First name : Richard
+Last name : Schwartz
+<<name>>
+First name : John
+Last name : Makhoul
+
+Rohith12.xml
+<<name>>
+First name : Computational
+Last name : Linguistics
+
+ayush_2.xml
+<<name>>
+First name : Srinadh
+Last name : Bhojanapalli
+<<name>>
+First name : Prateek
+Last name : Jain
+
+tulasi9.xml
+<<name>>
+First name : Anirbid
+Last name : Sircar
+<<name>>
+First name : Manan
+Last name : Shah
+<<name>>
+First name : Shreya
+Last name : Sahajpal
+<<name>>
+First name : Dwijen
+Last name : Vaidya
+<<name>>
+First name : Shubhra
+Last name : Dhale
+<<name>>
+First name : Anjali
+Last name : Chaudhary
+<<name>>
+First name : Bhavnagar.
+Last name : Dhol-
+<<name>>
+First name : Saurashtra
+Last name : Peninsula
+<<name>>
+First name : Western
+Last name : Marginal
+<<name>>
+First name : Cambay
+Last name : Basin
+
+tulasi3.xml
+<<name>>
+First name : M.
+Last name : SATYANARAYANAN
+
+samuel5.xml
+
+mayank1.xml
+<<name>>
+First name : Ross
+Last name : Goroshin
+<<name>>
+First name : Joan
+Last name : Bruna
+<<name>>
+First name : Jonathan
+Last name : Tompson
+<<name>>
+First name : David
+Last name : Eigen
+<<name>>
+First name : Yann
+Last name : LeCun
+
+manvi13.xml
+<<name>>
+First name : Ali
+Last name : Borji
+<<name>>
+First name : Laurent
+Last name : Itti
+<<name>>
+First name : Optimization
+Last name : Task

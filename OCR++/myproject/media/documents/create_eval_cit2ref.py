@@ -1,15 +1,14 @@
 import xml.etree.ElementTree as ET
-directory = "/var/www/html/OCR++/myproject/media/documents/"
-f = open(directory + "input_cit2ref.xml",'r')
-out = open(directory + 'eval_cit2ref.xml','w')
-xml = '<root>' + f.read() + '</root>'
-tree = ET.ElementTree(ET.fromstring(xml))
+directory= ''
+out = open(directory + 'eval_cit2ref.txt','w')
+tree = ET.parse('input_res.xml')
 root = tree.getroot()
-#for refs in root.findall('Reference'):
-#    out.write("<<Reference>><<" + refs.attrib['id'] + ">> " + refs.text.strip() + "\n")
-for documents in root.findall('Document'):
-	for all_cits in documents.findall('Cit2ref'):
-		for cits in all_cits.findall('cit2ref'):
-			out.write("<<cit2ref>>\n" + "Citation : " + cits.text.strip() + "\n" + "Reference  : \n" + cits.attrib['reference'] + "\n");
-f.close()
+cit2refs = root.find('Cit2ref')
+for cit2ref in cit2refs.findall('cit2ref'):
+	out.write('<<cit2ref>>\nCitation : '+cit2ref.text.strip()+"\nReference  : \n"+cit2ref.attrib['reference']+"\n")
+out.close()
+out = open(directory + 'eval_ref.txt','w')
+refs = root.find('References')
+for ref in refs.findall('Reference'):
+	out.write('<<reference>> '+ref.text+'\n')
 out.close()

@@ -12,11 +12,12 @@ from xml.sax.saxutils import escape
 
 #files =["acl1.xml","acl2.xml","acm_journal1.xml","acm_journal2.xml","ACM-sig1.xml","ACM-sig2.xml","ACM-sig3.xml","arxiv1.xml","arxiv2.xml","chi1.xml","elsevier1.xml","elsevier2.xml","ieee1.xml","ieee2.xml","ieee3.xml","ieee_journal1.xml","ieee_journal2.xml","Springer2.xml"]
 #files =["chi1.xml","chi2.xml","elsevier1.xml","elsevier2.xml","ieee1.xml","ieee2.xml","ieee3.xml","ieee_journal1.xml","ieee_journal2.xml","Springer2.xml"]
-directory = '/var/www/html/OCR++/myproject/media/documents/'
-
+directory = ''
 
 
 files=["input.xml"]
+
+
 
 # jors2012123a.xml
 # "Adjunct or Alternative to Citation Counting.xml",
@@ -28,7 +29,7 @@ files=["input.xml"]
 
 #####################
 
-def generateXML(tree):
+def generateXML(tree,tab_fig_str):
     rt = tree.getroot()
     ls = rt.findall('chunk')
     st_chunk = ''
@@ -40,26 +41,26 @@ def generateXML(tree):
     new_table = ET.SubElement(xroot, "Tables")
     new_figure = ET.SubElement(xroot, "Figures")
 
-    with open(directory + ff +"_out.txt", "r") as f:
-        count = 0
-        for line in f:
-            cols = line.split('\t')
-            if len(cols) == 6 and cols[5] == "TABLE\n":
-                # print line
-                st = ''
-                for token in ls[count].findall('token'):
-                    st = st + token.text + ' '
-                st = st.strip('\n')
-                ET.SubElement(new_table, "table").text = st
+    count = 0
+    f = tab_fig_str.split('\n')
+    for line in f:
+        cols = line.split('\t')
+        if len(cols) == 6 and cols[5] == "TABLE":
+            # print line
+            st = ''
+            for token in ls[count].findall('token'):
+                st = st + token.text + ' '
+            st = st.strip('\n')
+            ET.SubElement(new_table, "table").text = st
 
-            if len(cols) == 6 and cols[5] == "FIGURE\n":
-                # print line
-                st = ''
-                for token in ls[count].findall('token'):
-                    st = st + token.text + ' '
-                st = st.strip('\n')
-                ET.SubElement(new_figure, "figure").text = st
-            count = count +1
+        if len(cols) == 6 and cols[5] == "FIGURE":
+            # print line
+            st = ''
+            for token in ls[count].findall('token'):
+                st = st + token.text + ' '
+            st = st.strip('\n')
+            ET.SubElement(new_figure, "figure").text = st
+        count = count +1
     return xroot
 
 #######################
@@ -90,11 +91,10 @@ def token_features(y):
 
 
 
-for ff in  files:
+def tab_fig_main(root):
     #print ff
-    tree = ET.parse(directory + ff)
-    root = tree.getroot()
-
+    tab_fig_str = ''
+    
     max_fs = 0
     p_yloc = None
     y_diff={}
@@ -123,10 +123,7 @@ for ff in  files:
             continue
         if(fsizes[shit]>fsizes[max_fs]):
             max_fs=shit
-    # print max_fs
-    # print("fsizes!!!")
-    # print fsizes
-
+    
     # exit(0)
     new_l = sorted(y_diff.iteritems(), key=operator.itemgetter(1), reverse=True)[:7]
     x_l = []
@@ -143,13 +140,9 @@ for ff in  files:
             x_l.append(k)
 
     new_l=x_l
-    # print(new_l)
     del x_l
 
     limit = max([x[0] for x in new_l])+2
-    # print(limit)
-    # exit(0)
-
 
 
     xroot = ET.Element("Document")
@@ -229,8 +222,6 @@ for ff in  files:
     ##############################
 
 
-    f = open(directory + ff+'_out.txt','w')
-
     newxroot = tree.getroot()
 
     # print ("max = "+ str(max_fs))
@@ -242,7 +233,7 @@ for ff in  files:
         bool = None
         tokens = achunk.findall('token')
         if( len(tokens) == 0 ):
-            f.write("x\tx\t0\t0\t0\t0\n")
+            tab_fig_str += "x\tx\t0\t0\t0\t0\n"
             continue
         elif(len(tokens) ==1):
             tok1 = '$$$'
@@ -284,15 +275,12 @@ for ff in  files:
 
 
         #print (tok1+"\t\t\t"+tok2+"\t\t\t"+str(tcount)+"\t\t\t"+str(boldness)+"\t\t\t"+str(round(fsize,2))+"\t\t\t"+token_features(bool))
-        f.write(tok1+"\t"+tok2+"\t"+str(round(fsize,2))+"\t"+str(y_pos)+"\t"+str(first_word)+"\t"+(what)+"\n")
+        tab_fig_str += tok1+"\t"+tok2+"\t"+str(round(fsize,2))+"\t"+str(y_pos)+"\t"+str(first_word)+"\t"+(what)+"\n"
         #f.write(tok1+"\t\t\t"+tok2+"\t\t\t"+str(round(fsize,2))+"\t\t\t"+str(y_pos)+"\t\t\t"+0+"\n")
-    f.close()
 
-
-    s = generateXML(tree)
+    s = generateXML(tree,tab_fig_str)
     cc =  ET.tostring(s, 'utf-8')
     reparsed = xml.dom.minidom.parseString(cc)
-    print reparsed.toprettyxml(indent="\t")
-    # subprocess.call("rm " + ff + "_out.txt", shell=True)
-    #subprocess.call("rm " +  ff.split('.')[0]+'_out_new.txt', shell=True)
-    # subp
+    with open("TABFIGop.txt",'w') as f:
+        f.write(reparsed.toprettyxml(indent="\t"))
+    

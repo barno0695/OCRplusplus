@@ -1,11 +1,10 @@
 import xml.etree.ElementTree as ET
-directory = "/var/www/html/OCR++/myproject/media/documents/"
-f = open(directory + "input_Allmails.txt",'r')
+directory= ''
+
+f = open(directory + "input_Allmails_for_map_temp.txt",'r')
 out = open(directory + 'eval_emails.txt','w')
-xml = '<root>' + f.read() + '</root>'
-tree = ET.ElementTree(ET.fromstring(xml))
-root = tree.getroot()
-for mail in root.findall('email'):
-    out.write("<<Email>> \n" + mail.text.strip() + "\n")
+emails = f.readlines()
+for mail in emails:
+	out.write(mail.replace('#e ','<<Email>> \n').strip())
 f.close()
 out.close()

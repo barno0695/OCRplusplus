@@ -2,7 +2,7 @@
 from __future__ import division
 
 import xml.etree.ElementTree as ET
-directory = '/var/www/html/OCR++/myproject/media/documents/'
+directory = ''
 
 
 """

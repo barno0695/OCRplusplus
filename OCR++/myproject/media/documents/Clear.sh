@@ -1,15 +1,15 @@
-Directory=/var/www/html/OCR++/myproject/media/documents
+Directory=.
 
-rm -f $Directory/eval_title.txt
-rm -f $Directory/eval_map.txt
-rm -f $Directory/eval_Secmap.txt
-rm -f $Directory/eval_author.txt
-rm -f $Directory/eval_url.txt
-rm -f $Directory/eval_footnote.txt
-rm -f $Directory/eval_emails.txt
-rm -f $Directory/eval_tables_figures.txt
-rm -f $Directory/eval_Affiliations.txt
-rm -f $Directory/TitleAuthor.xml
-rm -f $Directory/test.txt
-rm -f $Directory/final.txt
-rm -f $Directory/final_aut.txt
+rm $Directory/eval_title.txt
+rm $Directory/eval_map.txt
+rm $Directory/eval_Secmap.txt
+rm $Directory/eval_author.txt
+rm $Directory/eval_url.txt
+rm $Directory/eval_footnote.txt
+rm $Directory/eval_emails.txt
+rm $Directory/eval_tables_figures.txt
+rm $Directory/eval_Affiliations.txt
+rm $Directory/TitleAuthor.xml
+rm $Directory/test.txt
+rm $Directory/final.txt
+rm $Directory/final_aut.txt

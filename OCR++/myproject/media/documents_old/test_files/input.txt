@@ -1,0 +1,1537 @@
+S.	0	1	0	0	
+Auer,	0	4	0	0	
+C.	0	1	0	0	
+Bizer,	0	4	0	0	
+G.	0	1	0	0	
+Kobilarov,	0	4	0	0	
+J.	0	1	0	0	
+Lehmann,	0	4	0	0	
+R.	0	1	0	0	
+Cyga-	0	4	0	0	
+0	0	0	0	0	0
+
+niak,	0	0	0	0	
+Z.G.	0	1	0	0	
+Ives:	1	4	0	0	
+DBpedia:	1	5	0	0	
+A	0	1	0	0	
+Nucleus	0	4	0	0	
+for	0	0	0	0	
+a	0	0	0	0	
+Web	0	4	0	0	
+of	0	0	0	0	
+0	0	0	0	0	0
+
+Open	0	4	0	0	
+Data.	0	4	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+6th	0	0	0	0	
+International	0	4	0	0	
+0	0	0	0	0	0
+
+Semantic	0	4	0	0	
+Web	0	4	0	0	
+Conference	0	4	7	0	
+(ISWC),	0	1	0	0	
+pages	0	0	1	0	
+722735,	0	3	0	1	
+0	0	0	0	0	0
+
+Busan,	0	4	0	0	
+Korea,	0	4	8	0	
+2007.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+B.	0	1	0	0	
+T.	0	1	0	0	
+Adler,	0	4	0	0	
+L.	0	1	0	0	
+de	0	0	0	0	
+Alfaro:	1	4	0	0	
+A	0	1	0	0	
+content-driven	0	0	0	0	
+reputa-	0	0	0	0	
+0	0	0	0	0	0
+
+tion	0	0	0	0	
+system	0	0	0	0	
+for	0	0	0	0	
+the	0	0	0	0	
+wikipedia.	0	0	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+0	0	0	0	0	0
+
+16th	0	0	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+on	0	0	0	0	
+World	0	4	0	0	
+Wide	0	4	0	0	
+Web	0	4	0	0	
+0	0	0	0	0	0
+
+(WWW),	0	1	0	0	
+pages	0	0	1	0	
+261-270,	0	5	0	3	
+2007.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+M.	0	1	0	0	
+Banko,	0	4	0	0	
+M.	0	1	0	0	
+J.	0	1	0	0	
+Cafarella,	0	4	0	0	
+S.	0	1	0	0	
+Soderland,	0	4	0	0	
+M.	0	1	0	0	
+Broad-	0	4	0	0	
+0	0	0	0	0	0
+
+head,	0	0	0	0	
+O.	0	1	0	0	
+Etzioni:	1	4	0	0	
+Open	0	4	0	0	
+Information	0	4	0	0	
+Extraction	0	4	0	0	
+from	0	0	0	0	
+0	0	0	0	0	0
+
+the	0	0	0	0	
+Web.	0	4	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+20th	0	0	0	0	
+International	0	4	0	0	
+0	0	0	0	0	0
+
+Joint	0	4	0	0	
+Conference	0	4	7	0	
+on	0	0	0	0	
+Artificial	0	4	0	0	
+Intelligence	0	4	0	0	
+(IJCAI),	0	1	0	0	
+0	0	0	0	0	0
+
+pages	0	0	1	0	
+26702676,	0	3	0	1	
+Hyderabad,	0	4	0	0	
+India,	0	4	8	0	
+2007.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+K.	0	1	0	0	
+D.	0	1	0	0	
+Bollacker,	0	4	0	0	
+C.	0	1	0	0	
+Evans,	0	4	0	0	
+P.	0	1	0	0	
+Paritosh,	0	4	0	0	
+T.	0	1	0	0	
+Sturge,	0	4	0	0	
+J.	0	1	0	0	
+0	0	0	0	0	0
+
+Taylor:	1	4	0	0	
+Freebase:	1	4	0	0	
+a	0	0	0	0	
+Collaboratively	0	4	0	0	
+Created	0	4	0	0	
+Graph	0	4	0	0	
+0	0	0	0	0	0
+
+Database	0	4	0	0	
+for	0	0	0	0	
+Structuring	0	4	0	0	
+Human	0	4	0	0	
+Knowledge.	0	4	0	0	
+In	0	4	9	0	
+0	0	0	0	0	0
+
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+ACM	0	1	0	0	
+SIGMOD	0	1	0	0	
+International	0	4	0	0	
+0	0	0	0	0	0
+
+Conference	0	4	7	0	
+on	0	0	0	0	
+Management	0	4	0	0	
+of	0	0	0	0	
+Data	0	4	0	0	
+(SIGMOD),	0	1	0	0	
+0	0	0	0	0	0
+
+pages,	0	0	1	0	
+1247-1250,	0	5	0	1	
+Vancouver,	0	4	0	0	
+BC,	0	1	0	0	
+Canada,	0	4	8	0	
+2008.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+L.	0	1	0	0	
+D.	0	1	0	0	
+Brown,	0	4	0	0	
+T.T.	0	1	0	0	
+Cai,	0	4	0	0	
+A.	0	1	0	0	
+Dasgupta:	1	4	0	0	
+Interval	0	4	0	0	
+Estima-	0	4	0	0	
+0	0	0	0	0	0
+
+tion	0	0	0	0	
+for	0	0	0	0	
+a	0	0	0	0	
+Binomial	0	4	0	0	
+Proportion.	0	4	0	0	
+Statistical	0	4	0	0	
+Science	0	4	0	0	
+0	0	0	0	0	0
+
+16:	1	3	0	0	
+pages	0	0	1	0	
+101133,	0	3	0	1	
+2001.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+E.	0	1	0	0	
+Cabrio,	0	4	0	0	
+S.	0	1	0	0	
+Villata:	1	4	0	0	
+Combining	0	4	0	0	
+Textual	0	4	0	0	
+Entailment	0	4	0	0	
+0	0	0	0	0	0
+
+and	0	0	0	0	
+Argumentation	0	4	0	0	
+Theory	0	4	0	0	
+for	0	0	0	0	
+Supporting	0	4	1	0	
+Online	0	4	0	0	
+0	0	0	0	0	0
+
+Debates	0	4	0	0	
+Interaction.	0	4	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+50th	0	0	0	0	
+An-	0	4	0	0	
+0	0	0	0	0	0
+
+nual	0	0	0	0	
+Meeting	0	4	0	0	
+of	0	0	0	0	
+the	0	0	0	0	
+Association	0	4	0	0	
+for	0	0	0	0	
+Computational	0	4	0	0	
+0	0	0	0	0	0
+
+Linguistics	0	4	0	0	
+(ACL),	0	1	0	0	
+pp.	0	0	1	0	
+208-212,	0	5	0	3	
+2012.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+A.	0	1	0	0	
+Carlson,	0	4	0	0	
+J.	0	1	0	0	
+Betteridge,	0	4	0	0	
+R.C.	0	1	0	0	
+Wang,	0	4	0	0	
+E.R.	0	1	0	0	
+Hruschka,	0	4	0	0	
+0	0	0	0	0	0
+
+T.M.	0	1	0	0	
+Mitchell:	1	4	0	0	
+Coupled	0	4	0	0	
+Semi-supervised	0	4	0	0	
+Learning	0	4	0	0	
+0	0	0	0	0	0
+
+for	0	0	0	0	
+Information	0	4	0	0	
+Extraction.	0	4	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+0	0	0	0	0	0
+
+Third	0	4	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+on	0	0	0	0	
+Web	0	4	0	0	
+Search	0	4	0	0	
+and	0	0	0	0	
+0	0	0	0	0	0
+
+Web	0	4	0	0	
+Data	0	4	0	0	
+Mining	0	4	0	0	
+(WSDM),	0	1	0	0	
+pages	0	0	1	0	
+101110,	0	3	0	1	
+New	0	4	0	0	
+0	0	0	0	0	0
+
+York,	0	4	8	0	
+NY,	0	1	0	0	
+USA,	0	1	8	0	
+2010.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+L.	0	1	0	0	
+Del	0	4	0	0	
+Corro,	0	4	0	0	
+R.	0	1	0	0	
+Gemulla:	1	4	0	0	
+ClausIE:	1	5	0	0	
+clause-based	0	0	0	0	
+0	0	0	0	0	0
+
+open	0	0	0	0	
+information	0	0	0	0	
+extraction.	0	0	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+0	0	0	0	0	0
+
+22nd	0	0	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+on	0	0	0	0	
+World	0	4	0	0	
+Wide	0	4	0	0	
+Web	0	4	0	0	
+0	0	0	0	0	0
+
+(WWW),	0	1	0	0	
+pages	0	0	1	0	
+355-366.	0	5	0	3	
+2013.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+X.	0	1	0	0	
+Dong,	0	4	0	0	
+L.	0	1	0	0	
+Berti-Equille,	0	5	0	0	
+D.	0	1	0	0	
+Srivastava:	1	4	0	0	
+Truth	0	4	0	0	
+discov-	0	0	0	0	
+0	0	0	0	0	0
+
+ery	0	0	0	0	
+and	0	0	0	0	
+copying	0	0	0	0	
+detection	0	0	0	0	
+in	0	0	0	0	
+a	0	0	0	0	
+dynamic	0	0	0	0	
+world.	0	0	0	0	
+In	0	4	9	0	
+0	0	0	0	0	0
+
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+VLDB	0	1	0	0	
+Endowment	0	4	0	0	
+PVLDB,	0	1	0	0	
+2(1),	0	5	0	2	
+0	0	0	0	0	0
+
+pp.	0	0	1	0	
+562-573,	0	5	0	3	
+2009.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+A.	0	1	0	0	
+Fader,	0	4	0	0	
+S.	0	1	0	0	
+Soderland,	0	4	0	0	
+O.	0	1	0	0	
+Etzioni:	1	4	0	0	
+Identifying	0	4	0	0	
+Rela-	0	4	0	0	
+0	0	0	0	0	0
+
+tions	0	0	0	0	
+for	0	0	0	0	
+Open	0	4	0	0	
+Information	0	4	0	0	
+Extraction.	0	4	0	0	
+In	0	4	9	0	
+Proceed-	0	4	0	0	
+0	0	0	0	0	0
+
+ings	0	0	0	0	
+of	0	0	0	0	
+the	0	0	0	0	
+2011	0	2	0	1	
+Conference	0	4	7	0	
+on	0	0	0	0	
+Empirical	0	4	0	0	
+Methods	0	4	0	0	
+0	0	0	0	0	0
+
+in	0	0	0	0	
+Natural	0	4	0	0	
+Language	0	4	0	0	
+Processing	0	4	0	0	
+(EMNLP),	0	1	0	0	
+pages	0	0	1	0	
+0	0	0	0	0	0
+
+15351545,	0	3	0	1	
+Edinburgh,	0	4	0	0	
+UK,	0	1	8	0	
+2011.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+A.	0	1	0	0	
+Galland,	0	4	0	0	
+S.	0	1	0	0	
+Abiteboul,	0	4	0	0	
+A.	0	1	0	0	
+Marian,	0	4	0	0	
+P.	0	1	0	0	
+Senellart:	1	4	0	0	
+Cor-	0	4	0	0	
+0	0	0	0	0	0
+
+roborating	0	0	0	0	
+information	0	0	0	0	
+from	0	0	0	0	
+disagreeing	0	0	0	0	
+views.	0	0	0	0	
+In	0	4	9	0	
+0	0	0	0	0	0
+
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+3rd	0	0	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+on	0	0	0	0	
+0	0	0	0	0	0
+
+Web	0	4	0	0	
+Search	0	4	0	0	
+and	0	0	0	0	
+Web	0	4	0	0	
+Data	0	4	0	0	
+Mining	0	4	0	0	
+(WSDM),	0	1	0	0	
+pages	0	0	1	0	
+0	0	0	0	0	0
+
+131-140,	0	5	0	3	
+2010.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+C.	0	1	0	0	
+Havasi,	0	4	0	0	
+R.	0	1	0	0	
+Speer,	0	4	0	0	
+J.	0	1	0	0	
+Alonso:	1	4	0	0	
+ConceptNet	0	5	0	0	
+3:	1	3	0	0	
+a	0	0	0	0	
+Flex-	0	4	0	0	
+0	0	0	0	0	0
+
+ible,	0	0	0	0	
+Multilingual	0	4	0	0	
+Semantic	0	4	0	0	
+Network	0	4	0	0	
+for	0	0	0	0	
+Common	0	4	0	0	
+0	0	0	0	0	0
+
+Sense	0	4	0	0	
+Knowledge.	0	4	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+Recent	0	4	0	0	
+Ad-	0	4	0	0	
+0	0	0	0	0	0
+
+vances	0	0	0	0	
+in	0	0	0	0	
+Natural	0	4	0	0	
+Language	0	4	0	0	
+Processing	0	4	0	0	
+(RANLP),	0	1	0	0	
+0	0	0	0	0	0
+
+Borovets,	0	4	0	0	
+Bulgaria,	0	4	8	0	
+2007.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+J.	0	1	0	0	
+Hoffart,	0	4	0	0	
+F.	0	1	0	0	
+Suchanek,	0	4	0	0	
+K.	0	1	0	0	
+Berberich,	0	4	0	0	
+E.	0	1	0	0	
+Lewis-	0	4	0	0	
+0	0	0	0	0	0
+
+Kelham,	0	4	0	0	
+G.	0	1	0	0	
+de	0	0	0	0	
+Melo,	0	4	0	0	
+G.	0	1	0	0	
+Weikum:	1	4	0	0	
+YAGO2:	1	1	0	0	
+Ex-	0	4	0	0	
+0	0	0	0	0	0
+
+ploring	0	0	0	0	
+and	0	0	0	0	
+Querying	0	4	0	0	
+World	0	4	0	0	
+Knowledge	0	4	0	0	
+in	0	0	0	0	
+Time,	0	4	0	0	
+0	0	0	0	0	0
+
+Space,	0	4	0	0	
+Context,	0	4	0	0	
+and	0	0	0	0	
+Many	0	4	0	0	
+Languages.	0	4	0	0	
+In	0	4	9	0	
+Proceed-	0	4	0	0	
+0	0	0	0	0	0
+
+ings	0	0	0	0	
+of	0	0	0	0	
+the	0	0	0	0	
+20th	0	0	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+on	0	0	0	0	
+World	0	4	0	0	
+0	0	0	0	0	0
+
+Wide	0	4	0	0	
+Web	0	4	0	0	
+(WWW),	0	1	0	0	
+pages	0	0	1	0	
+229232,	0	3	0	1	
+Hyderabad,	0	4	0	0	
+In-	0	4	0	0	
+0	0	0	0	0	0
+
+dia.	0	0	0	0	
+2011.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+R.	0	1	0	0	
+Kaplan:	1	4	0	0	
+Politics	0	4	0	0	
+and	0	0	0	0	
+the	0	0	0	0	
+American	0	4	0	0	
+Press:	1	4	3	0	
+The	0	4	0	0	
+Rise	0	4	0	0	
+0	0	0	0	0	0
+
+of	0	0	0	0	
+Objectivity,	0	4	0	0	
+pages	0	0	1	0	
+1865-1920,	0	5	0	1	
+New	0	4	0	0	
+York,	0	4	8	0	
+Cam-	0	4	0	0	
+0	0	0	0	0	0
+
+bridge	0	0	0	0	
+University	0	4	0	0	
+Press,	0	4	3	0	
+2002.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+X.	0	1	0	0	
+Li	0	4	0	0	
+and	0	0	0	0	
+W.	0	1	0	0	
+Meng,	0	4	0	0	
+C.	0	1	0	0	
+T.	0	1	0	0	
+Yu:	1	4	0	0	
+T-verifier:	1	4	0	0	
+Verifying	0	4	0	0	
+0	0	0	0	0	0
+
+truthfulness	0	0	0	0	
+of	0	0	0	0	
+fact	0	0	0	0	
+statements.	0	0	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+0	0	0	0	0	0
+
+the	0	0	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+on	0	0	0	0	
+Data	0	4	0	0	
+Engineering	0	4	0	0	
+0	0	0	0	0	0
+
+(ICDE),	0	1	0	0	
+pp.	0	0	1	0	
+63-74,	0	5	0	3	
+2011.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+D.	0	1	0	0	
+Lin,	0	4	0	0	
+P.	0	1	0	0	
+Pantel:	1	4	0	0	
+DIRT:	1	1	0	0	
+discovery	0	0	0	0	
+of	0	0	0	0	
+inference	0	0	0	0	
+rules	0	0	0	0	
+0	0	0	0	0	0
+
+from	0	0	0	0	
+text.	0	0	0	0	
+KDD	0	1	0	0	
+2001	0	2	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+B.	0	1	0	0	
+Liu,	0	4	0	0	
+M.	0	1	0	0	
+Hu,	0	4	0	0	
+J.	0	1	0	0	
+Cheng:	1	4	0	0	
+Opinion	0	4	0	0	
+Observer:	1	4	0	0	
+analyzing	0	0	0	0	
+0	0	0	0	0	0
+
+and	0	0	0	0	
+comparing	0	0	0	0	
+opinions	0	0	0	0	
+on	0	0	0	0	
+the	0	0	0	0	
+Web.	0	4	0	0	
+InProceedings	0	5	7	0	
+0	0	0	0	0	0
+
+of	0	0	0	0	
+the	0	0	0	0	
+14th	0	0	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+on	0	0	0	0	
+World	0	4	0	0	
+Wide	0	4	0	0	
+0	0	0	0	0	0
+
+Web	0	4	0	0	
+(WWW),	0	1	0	0	
+pages	0	0	1	0	
+342351,	0	3	0	1	
+2005.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+A.	0	1	0	0	
+Lotan,	0	4	0	0	
+A.	0	1	0	0	
+Stern,	0	4	0	0	
+I.	0	1	0	0	
+Dagan	0	4	0	0	
+TruthTeller:	1	5	0	0	
+Annotating	0	4	0	0	
+0	0	0	0	0	0
+
+Predicate	0	4	0	0	
+Truth.	0	4	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+Human	0	4	0	0	
+Language	0	4	0	0	
+0	0	0	0	0	0
+
+Technologies:	1	4	0	0	
+Conference	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+North	0	4	0	0	
+American	0	4	0	0	
+0	0	0	0	0	0
+
+Chapter	0	4	0	0	
+of	0	0	0	0	
+the	0	0	0	0	
+Association	0	4	0	0	
+of	0	0	0	0	
+Computational	0	4	0	0	
+Lin-	0	4	0	0	
+0	0	0	0	0	0
+
+guistics	0	0	0	0	
+(HLT-NAACL),	0	1	0	0	
+pp.	0	0	1	0	
+752-757,	0	5	0	3	
+2013.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+N.	0	1	0	0	
+Nakashole,	0	4	0	0	
+M.	0	1	0	0	
+Theobald,	0	4	0	0	
+G.	0	1	0	0	
+Weikum:	1	4	0	0	
+Scalable	0	4	0	0	
+0	0	0	0	0	0
+
+Knowledge	0	4	0	0	
+Harvesting	0	4	0	0	
+with	0	0	0	0	
+High	0	4	0	0	
+Precision	0	4	0	0	
+and	0	0	0	0	
+0	0	0	0	0	0
+
+High	0	4	0	0	
+Recall.	0	4	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+4th	0	0	0	0	
+International	0	4	0	0	
+0	0	0	0	0	0
+
+Conference	0	4	7	0	
+on	0	0	0	0	
+Web	0	4	0	0	
+Search	0	4	0	0	
+and	0	0	0	0	
+Web	0	4	0	0	
+Data	0	4	0	0	
+Mining	0	4	0	0	
+0	0	0	0	0	0
+
+(WSDM),	0	1	0	0	
+pages	0	0	1	0	
+227326,	0	3	0	1	
+Hong	0	4	0	0	
+Kong,	0	4	8	0	
+China,	0	4	8	0	
+2011.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+N.	0	1	0	0	
+Nakashole,	0	4	0	0	
+T.	0	1	0	0	
+Tylenda,	0	4	0	0	
+G.	0	1	0	0	
+Weikum:	1	4	0	0	
+Fine-grained	0	4	0	0	
+0	0	0	0	0	0
+
+Semantic	0	4	0	0	
+Typing	0	4	0	0	
+of	0	0	0	0	
+Emerging	0	4	0	0	
+Entities.	0	4	0	0	
+In	0	4	9	0	
+Proceed-	0	4	0	0	
+0	0	0	0	0	0
+
+ings	0	0	0	0	
+of	0	0	0	0	
+the	0	0	0	0	
+51st	0	0	0	0	
+Annual	0	4	0	0	
+Meeting	0	4	0	0	
+of	0	0	0	0	
+the	0	0	0	0	
+Associa-	0	4	0	0	
+0	0	0	0	0	0
+
+tion	0	0	0	0	
+for	0	0	0	0	
+Computational	0	4	0	0	
+Linguistics	0	4	0	0	
+(ACL),	0	1	0	0	
+pp.	0	0	1	0	
+1488-	0	3	0	1	
+0	0	0	0	0	0
+
+1497,	0	3	0	1	
+2013.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+N.	0	1	0	0	
+Nakashole,	0	4	0	0	
+G.	0	1	0	0	
+Weikum,	0	4	0	0	
+F.	0	1	0	0	
+Suchanek:	1	4	0	0	
+PATTY:	1	1	0	0	
+0	0	0	0	0	0
+
+A	0	1	0	0	
+Taxonomy	0	4	0	0	
+of	0	0	0	0	
+Relational	0	4	0	0	
+Patterns	0	4	0	0	
+with	0	0	0	0	
+Seman-	0	4	0	0	
+0	0	0	0	0	0
+
+tic	0	0	0	0	
+Types.	0	4	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+2012	0	2	0	1	
+Joint	0	4	0	0	
+Con-	0	4	0	0	
+0	0	0	0	0	0
+
+ference	0	0	0	0	
+on	0	0	0	0	
+Empirical	0	4	0	0	
+Methods	0	4	0	0	
+in	0	0	0	0	
+Natural	0	4	0	0	
+Lan-	0	4	0	0	
+0	0	0	0	0	0
+
+guage	0	0	0	0	
+Processing	0	4	0	0	
+and	0	0	0	0	
+Computational	0	4	0	0	
+Natural	0	4	0	0	
+Lan-	0	4	0	0	
+0	0	0	0	0	0
+
+guage	0	0	0	0	
+Learning	0	4	0	0	
+(EMNLP-CoNLL),	0	5	0	0	
+pages	0	0	1	0	
+1135	0	2	0	1	
+-	0	5	0	0	
+0	0	0	0	0	0
+
+1145,	0	3	0	1	
+Jeju,	0	4	0	0	
+South	0	4	0	0	
+Korea,	0	4	8	0	
+2012.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+V.	0	1	0	0	
+Nastase,	0	4	0	0	
+M.	0	1	0	0	
+Strube,	0	4	0	0	
+B.	0	1	0	0	
+Boerschinger,	0	4	0	0	
+C.	0	1	0	0	
+Zirn,	0	4	0	0	
+A.	0	1	0	0	
+0	0	0	0	0	0
+
+Elghafari:	1	4	0	0	
+WikiNet:	1	5	0	0	
+A	0	1	0	0	
+Very	0	4	0	0	
+Large	0	4	0	0	
+Scale	0	4	0	0	
+Multi-	0	4	0	0	
+0	0	0	0	0	0
+
+Lingual	0	4	0	0	
+Concept	0	4	0	0	
+Network.	0	4	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+7th	0	0	0	0	
+0	0	0	0	0	0
+
+International	0	4	0	0	
+Conference	0	4	7	0	
+on	0	0	0	0	
+Language	0	4	0	0	
+Resources	0	4	0	0	
+0	0	0	0	0	0
+
+and	0	0	0	0	
+Evaluation(LREC),	0	5	0	0	
+Malta,	0	4	8	0	
+2010.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+B.	0	1	0	0	
+Pang,	0	4	0	0	
+L.	0	1	0	0	
+Lee:	1	4	0	0	
+A	0	1	0	0	
+Sentimental	0	4	0	0	
+Education:	1	4	0	0	
+Sentiment	0	4	0	0	
+0	0	0	0	0	0
+
+Analysis	0	4	0	0	
+Using	0	4	0	0	
+Subjectivity	0	4	0	0	
+Summarization	0	4	0	0	
+Based	0	4	0	0	
+0	0	0	0	0	0
+
+on	0	0	0	0	
+Minimum	0	4	0	0	
+Cuts.	0	4	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+42nd	0	0	0	0	
+An-	0	4	0	0	
+0	0	0	0	0	0
+
+nual	0	0	0	0	
+Meeting	0	4	0	0	
+of	0	0	0	0	
+the	0	0	0	0	
+Association	0	4	0	0	
+for	0	0	0	0	
+Computational	0	4	0	0	
+0	0	0	0	0	0
+
+Linguistics	0	4	0	0	
+(ACL),	0	1	0	0	
+271-278,	0	5	0	3	
+2004.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+J.	0	1	0	0	
+Pasternack,	0	4	0	0	
+D.	0	1	0	0	
+Roth:	1	4	0	0	
+Knowing	0	4	0	0	
+What	0	4	0	0	
+to	0	0	0	0	
+Believe.	0	4	0	0	
+In	0	4	9	0	
+0	0	0	0	0	0
+
+Proceedings	0	4	7	0	
+the	0	0	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+on	0	0	0	0	
+Com-	0	4	0	0	
+0	0	0	0	0	0
+
+putational	0	0	0	0	
+Linguistics	0	4	0	0	
+(COLING),	0	1	0	0	
+pp.	0	0	1	0	
+877-885,	0	5	0	3	
+Bei-	0	4	0	0	
+0	0	0	0	0	0
+
+jing,	0	0	0	0	
+China.	0	4	8	0	
+2010.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+J.	0	1	0	0	
+Pasternack,	0	4	0	0	
+D.	0	1	0	0	
+Roth:	1	4	0	0	
+Latent	0	4	0	0	
+credibility	0	0	0	0	
+analysis.	0	0	0	0	
+In	0	4	9	0	
+0	0	0	0	0	0
+
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+22nd	0	0	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+0	0	0	0	0	0
+
+on	0	0	0	0	
+World	0	4	0	0	
+Wide	0	4	0	0	
+Web	0	4	0	0	
+(WWW),	0	1	0	0	
+pp.	0	0	1	0	
+1009-1020,	0	5	0	1	
+2013.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+E.	0	1	0	0	
+Riloff,	0	4	0	0	
+J.	0	1	0	0	
+Wiebe:	1	4	0	0	
+Learning	0	4	0	0	
+Learning	0	4	0	0	
+extraction	0	0	0	0	
+pat-	0	0	0	0	
+0	0	0	0	0	0
+
+terns	0	0	0	0	
+for	0	0	0	0	
+subjective	0	0	0	0	
+expressions.	0	0	3	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+0	0	0	0	0	0
+
+the	0	0	0	0	
+2011	0	2	0	1	
+Conference	0	4	7	0	
+on	0	0	0	0	
+Empirical	0	4	0	0	
+Methods	0	4	0	0	
+in	0	0	0	0	
+Nat-	0	4	0	0	
+0	0	0	0	0	0
+
+ural	0	0	0	0	
+Language	0	4	0	0	
+Processing	0	4	0	0	
+(EMNLP),	0	1	0	0	
+pages	0	0	1	0	
+105112,	0	3	0	1	
+0	0	0	0	0	0
+
+2013.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+M.	0	1	0	0	
+Recasens,	0	4	0	0	
+C.	0	1	0	0	
+Danescu-Niculescu-Mizil,	0	5	0	0	
+D.	0	1	0	0	
+Juraf-	0	4	0	0	
+0	0	0	0	0	0
+
+sky:	1	0	0	0	
+Linguistic	0	4	0	0	
+Models	0	4	0	0	
+for	0	0	0	0	
+Analyzing	0	4	0	0	
+and	0	0	0	0	
+Detecting	0	4	0	0	
+0	0	0	0	0	0
+
+Biased	0	4	0	0	
+Language.	0	4	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+51st	0	0	0	0	
+Annual	0	4	0	0	
+0	0	0	0	0	0
+
+Meeting	0	4	0	0	
+of	0	0	0	0	
+the	0	0	0	0	
+Association	0	4	0	0	
+for	0	0	0	0	
+Computational	0	4	0	0	
+Lin-	0	4	0	0	
+0	0	0	0	0	0
+
+guistics	0	0	0	0	
+(ACL),	0	1	0	0	
+pp.	0	0	1	0	
+1650-1659,	0	5	0	1	
+2013.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+F.	0	1	0	0	
+Niu,	0	4	0	0	
+C.	0	1	0	0	
+Zhang,	0	4	0	0	
+C.	0	1	0	0	
+Re,	0	4	0	0	
+J.	0	1	0	0	
+W.	0	1	0	0	
+Shavlik:	1	4	0	0	
+DeepDive:	1	5	0	0	
+0	0	0	0	0	0
+
+Web-scale	0	4	0	0	
+Knowledge-base	0	4	0	0	
+Construction	0	4	0	0	
+using	0	0	0	0	
+Sta-	0	4	0	0	
+0	0	0	0	0	0
+
+tistical	0	0	0	0	
+Learning	0	4	0	0	
+and	0	0	0	0	
+Inference.	0	4	0	0	
+In	0	4	9	0	
+the	0	0	0	0	
+VLDS	0	1	0	0	
+Work-	0	4	0	0	
+0	0	0	0	0	0
+
+shop,	0	0	0	0	
+pages	0	0	1	0	
+25-28,	0	5	0	3	
+2012.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+M.	0	1	0	0	
+Schudson:	1	4	0	0	
+Discovering	0	4	0	0	
+the	0	0	0	0	
+News:	1	4	0	0	
+A	0	1	0	0	
+Social	0	4	0	0	
+History	0	4	0	0	
+0	0	0	0	0	0
+
+of	0	0	0	0	
+American	0	4	0	0	
+Newspapers.	0	4	0	0	
+New	0	4	0	0	
+York:	1	4	8	0	
+Basic	0	4	0	0	
+Books.	0	4	0	0	
+0	0	0	0	0	0
+
+1978.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+F.	0	1	0	0	
+M.	0	1	0	0	
+Suchanek,	0	4	0	0	
+M.	0	1	0	0	
+Sozio,	0	4	0	0	
+G.	0	1	0	0	
+Weikum:	1	4	0	0	
+SOFIE:	1	1	0	0	
+A	0	1	0	0	
+0	0	0	0	0	0
+
+Self-organizing	0	4	0	0	
+Framework	0	4	0	0	
+for	0	0	0	0	
+Information	0	4	0	0	
+Extrac-	0	4	0	0	
+0	0	0	0	0	0
+
+tion.	0	0	0	0	
+InProceedings	0	5	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+18th	0	0	0	0	
+International	0	4	0	0	
+Con-	0	4	0	0	
+0	0	0	0	0	0
+
+ference	0	0	0	0	
+on	0	0	0	0	
+World	0	4	0	0	
+Wide	0	4	0	0	
+Web	0	4	0	0	
+(WWW),	0	1	0	0	
+pages	0	0	1	0	
+631640,	0	3	0	1	
+0	0	0	0	0	0
+
+Madrid,	0	4	0	0	
+Spain,	0	4	8	0	
+2009.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+P.	0	1	0	0	
+P.	0	1	0	0	
+Talukdar,	0	4	0	0	
+D.	0	1	0	0	
+T.	0	1	0	0	
+Wijaya,	0	4	0	0	
+T.M.	0	1	0	0	
+Mitchell:	1	4	0	0	
+Acquir-	0	4	0	0	
+0	0	0	0	0	0
+
+ing	0	0	0	0	
+temporal	0	0	0	0	
+constraints	0	0	0	0	
+between	0	0	0	0	
+relations.	0	0	0	0	
+In	0	4	9	0	
+Pro-	0	4	0	0	
+0	0	0	0	0	0
+
+ceeding	0	0	0	0	
+of	0	0	0	0	
+the	0	0	0	0	
+21st	0	0	0	0	
+ACM	0	1	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+0	0	0	0	0	0
+
+on	0	0	0	0	
+Information	0	4	0	0	
+and	0	0	0	0	
+Knowledge	0	4	0	0	
+Management,	0	4	0	0	
+pages	0	0	1	0	
+0	0	0	0	0	0
+
+992-1001,	0	5	0	3	
+CIKM	0	1	0	0	
+2012.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+P.	0	1	0	0	
+D.	0	1	0	0	
+Turney:	1	4	0	0	
+Thumbs	0	4	0	0	
+up	0	0	0	0	
+or	0	0	0	0	
+thumbs	0	0	0	0	
+down?	3	0	0	0	
+Seman-	0	4	0	0	
+0	0	0	0	0	0
+
+tic	0	0	0	0	
+orientation	0	0	0	0	
+applied	0	0	1	0	
+to	0	0	0	0	
+unsupervised	0	0	0	0	
+classification	0	0	0	0	
+0	0	0	0	0	0
+
+of	0	0	0	0	
+reviews.	0	0	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+40th	0	0	0	0	
+Annual	0	4	0	0	
+Meet-	0	4	0	0	
+0	0	0	0	0	0
+
+ing	0	0	0	0	
+of	0	0	0	0	
+the	0	0	0	0	
+Association	0	4	0	0	
+for	0	0	0	0	
+Computational	0	4	0	0	
+Linguistics	0	4	0	0	
+0	0	0	0	0	0
+
+(ACL),	0	1	0	0	
+pages	0	0	1	0	
+417424.	0	3	0	1	
+2002.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+J.	0	1	0	0	
+Wiebe,	0	4	0	0	
+T.	0	1	0	0	
+Wilson,	0	4	0	0	
+R.	0	1	0	0	
+Bruce,	0	4	0	0	
+M.	0	1	0	0	
+Bell,	0	4	0	0	
+M.	0	1	0	0	
+Martin:	1	4	0	0	
+0	0	0	0	0	0
+
+Learning	0	4	0	0	
+subjective	0	0	0	0	
+language.	0	0	0	0	
+Computational	0	4	0	0	
+Lin-	0	4	0	0	
+0	0	0	0	0	0
+
+guistics,	0	0	0	0	
+30(3):277308.	1	5	0	2	
+2004.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+X.	0	1	0	0	
+Yin,	0	4	0	0	
+J.	0	1	0	0	
+Han,	0	4	0	0	
+P.	0	1	0	0	
+S.	0	1	0	0	
+Yu:	1	4	0	0	
+Truth	0	4	0	0	
+Discovery	0	4	0	0	
+with	0	0	0	0	
+0	0	0	0	0	0
+
+Multiple	0	4	0	0	
+Conflicting	0	4	0	0	
+Information	0	4	0	0	
+Providers	0	4	0	0	
+on	0	0	0	0	
+the	0	0	0	0	
+0	0	0	0	0	0
+
+Web.	0	4	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+International	0	4	0	0	
+Confer-	0	4	0	0	
+0	0	0	0	0	0
+
+ence	0	0	0	0	
+on	0	0	0	0	
+Knowledge	0	4	0	0	
+Discovery	0	4	0	0	
+in	0	0	0	0	
+Databases	0	4	0	0	
+(KDD)	0	1	0	0	
+0	0	0	0	0	0
+
+,	0	5	0	0	
+pages1048-1052.	0	0	1	3	
+2007.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+X.	0	1	0	0	
+Yin,	0	4	0	0	
+W.	0	1	0	0	
+Tan:	1	4	0	0	
+Semi-supervised	0	4	0	0	
+truth	0	0	0	0	
+discover.	0	0	0	0	
+In	0	4	9	0	
+0	0	0	0	0	0
+
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+19th	0	0	0	0	
+International	0	4	0	0	
+Conference	0	4	7	0	
+on	0	0	0	0	
+0	0	0	0	0	0
+
+World	0	4	0	0	
+Wide	0	4	0	0	
+Web	0	4	0	0	
+(WWW),	0	1	0	0	
+pp.	0	0	1	0	
+217-226,	0	5	0	3	
+2011.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+H.	0	1	0	0	
+Yu,	0	4	0	0	
+V.	0	1	0	0	
+Hatzivassiloglou:	1	4	0	0	
+Towards	0	4	0	0	
+Answering	0	4	0	0	
+Opin-	0	4	0	0	
+0	0	0	0	0	0
+
+ion	0	0	0	0	
+Questions:	1	4	0	0	
+Separating	0	4	0	0	
+Facts	0	4	0	0	
+from	0	0	0	0	
+Opinions	0	4	0	0	
+and	0	0	0	0	
+0	0	0	0	0	0
+
+Identifying	0	4	0	0	
+the	0	0	0	0	
+Polarity	0	4	0	0	
+of	0	0	0	0	
+Opinion	0	4	0	0	
+Sentences.	0	4	0	0	
+In	0	4	9	0	
+0	0	0	0	0	0
+
+Proceedings	0	4	7	0	
+of	0	0	0	0	
+the	0	0	0	0	
+Conference	0	4	7	0	
+on	0	0	0	0	
+Empirical	0	4	0	0	
+Meth-	0	4	0	0	
+0	0	0	0	0	0
+
+ods	0	0	0	0	
+in	0	0	0	0	
+Natural	0	4	0	0	
+Language	0	4	0	0	
+Processing,	0	4	0	0	
+pages.	0	0	1	0	
+129-	0	3	0	0	
+0	0	0	0	0	0
+
+136,	0	3	0	0	
+2003.	0	3	0	1	
+0	0	0	0	0	0
+
+0	0	0	0	0	0
+
+B.	0	1	0	0	
+Zhao,	0	4	0	0	
+B.	0	1	0	0	
+I.	0	1	0	0	
+P.	0	1	0	0	
+Rubinstein,	0	4	0	0	
+J.	0	1	0	0	
+Gemmell,	0	4	0	0	
+J.	0	1	0	0	
+Han:	1	4	0	0	
+A	0	1	0	0	
+0	0	0	0	0	0
+
+Bayesian	0	4	0	0	
+approach	0	0	1	0	
+to	0	0	0	0	
+discovering	0	0	0	0	
+truth	0	0	0	0	
+from	0	0	0	0	
+con-	0	0	0	0	
+0	0	0	0	0	0
+
+flicting	0	0	0	0	
+sources	0	0	0	0	
+for	0	0	0	0	
+data	0	0	0	0	
+integration.	0	0	0	0	
+In	0	4	9	0	
+Proceedings	0	4	7	0	
+0	0	0	0	0	0
+
+of	0	0	0	0	
+the	0	0	0	0	
+VLDB	0	1	0	0	
+Endowment	0	4	0	0	
+(PVLDB),	0	1	0	0	
+5(6):550-561,	1	5	0	2	
+0	0	0	0	0	0
+
+2012.	0	3	0	1	
+0	0	0	0	0	0
+

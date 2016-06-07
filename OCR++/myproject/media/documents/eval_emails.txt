@@ -1,6 +1,0 @@
-<<Email>> 
-small@albany.edu
-<<Email>> 
-jstromer@albany.edu
-<<Email>> 
-tomek@albany.edu

@@ -1,6 +1,0 @@
-<<map>>
-Author : Tomek Strzalkowski 
-Email  : tomek@albany.edu
-<<map>>
-Author : Jennifer Stromer-Galley 
-Email  : small@albany.edu

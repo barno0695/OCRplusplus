@@ -20,19 +20,20 @@ directory = "/var/www/html/OCR++/myproject/media/documents/";
 
 def runScript():
     # print "ayaya"
+    subprocess.call("rm " + directory + "input.pdf", shell=True)
     subprocess.call(directory + "Clean.sh",shell=True)
     # print "runn"
     # print paperid
     file_name = glob.glob(directory+'*.pdf')
-    # print file_name
+    print file_name
     srno = 1
     fname = file_name[0]
     fn = fname.split('/')
     fn = fn[-1]
-    print fn
+    print "Views.py : "+fn
     # subprocess.call("clear", shell=True)
     subprocess.call("mv " + directory + fn + " " + directory + "input.pdf", shell=True)
-    subprocess.call(directory + "IntegratedShellScript.sh ", shell=True)
+    subprocess.call("python " + directory + "main_script_batch.py", shell=True)
 
     return HttpResponse("Done")
 
@@ -102,7 +103,7 @@ def citref(request):
     return render(request, "citref.html")
 
 def ref_feature(request):
-    return render(request, "ref_feature.html")
+    return render(request, "reference.html")
 
 def team(request):
     return render(request, "team.html")
@@ -228,9 +229,9 @@ def getcitref(request):
     if request.method == 'GET':
         resp = ""
         # print os.path.isfile(directory + "eval_cit2ref.xml")
-        if os.path.isfile(directory + "eval_cit2ref.xml"):
+        if os.path.isfile(directory + "eval_cit2ref.txt"):
             # print "aya toh****************"
-            resp = open(directory + "eval_cit2ref.xml").read()
+            resp = open(directory + "eval_cit2ref.txt").read()
             if len(resp)==0:
                 resp = "No file"
         else:
@@ -240,10 +241,22 @@ def getcitref(request):
         return HttpResponse(resp, content_type='string')
 
 def getref_feature(request):
+    # if request.method == 'GET':
+    #     resp = ""
+    #     if os.path.isfile(directory + "testResults/xmls/input.xml"):
+    #         resp = open(directory + "testResults/xmls/input.xml").read()
+    #         if len(resp)==0:
+    #             resp = "No file"
+    #     else:
+    #         resp = "No file"
+
+    #     response = {'status': 1, 'message': "Confirmed!!", 'url':'/ref_feature/'}
+    #     return HttpResponse(resp, content_type='string')
     if request.method == 'GET':
         resp = ""
-        if os.path.isfile(directory + "testResults/xmls/input.xml"):
-            resp = open(directory + "testResults/xmls/input.xml").read()
+        if os.path.isfile(directory + "eval_ref.txt"):
+            # print "aya toh****************"
+            resp = open(directory + "eval_ref.txt").read()
             if len(resp)==0:
                 resp = "No file"
         else:

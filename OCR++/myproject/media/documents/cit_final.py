@@ -8,10 +8,8 @@ import sys
 import types
 import copy
 
-root_folder = '/var/www/html/OCR++/myproject/media/documents/'
-directory = root_folder
-tree = ET.parse(directory + 'input.xml')
-root = tree.getroot()
+root_folder = ''
+
 # Binary coverter for strings
 def binary(x):
     if x == "yes":
@@ -42,9 +40,9 @@ def mainf(root):
     doc_Sam = ET.Element("Document")
     refs_Sam = ET.SubElement(doc_Sam, "References")
     cit2ref_Sam = ET.SubElement(doc_Sam, "Cit2ref")
-    cit2ref = open(directory+"inputcit2ref.txt",'w')
+    # cit2ref = open(directory+"inputcit2ref.txt",'a')
     count = 0
-
+    
     flag = False
     Reference = []
 
@@ -146,6 +144,8 @@ def mainf(root):
                         word = word.replace('&','%27')
                         Reference[idx] += word
                         Reference[idx] += " "
+
+    # print Reference
 
     citations_no = 0
     flag = True
@@ -416,7 +416,5 @@ def mainf(root):
     ###########################################
 
     # cit2ref.write("<!-- END DOC -->\n")
-    # open(directory+"input_cit2ref.xml",'w')
-    ET.ElementTree(doc_Sam).write("/var/www/html/OCR++/myproject/media/documents/input_cit2ref.xml")
-
-mainf(root)
+    ET.ElementTree(doc_Sam).write("input_res.xml")
+    return Reference

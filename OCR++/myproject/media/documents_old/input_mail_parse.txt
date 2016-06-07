@@ -1,0 +1,5 @@
+0	0	0
+ndapa@cs.cmu.edu	1	0
+0	0	0
+tom.mitchell@cs.cmu.edu	1	0
+0	0	0

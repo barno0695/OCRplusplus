@@ -1,0 +1,10 @@
+<email_author>
+	<map>
+		Tom M. Mitchell 
+		tom.mitchell@cs.cmu.edu
+	</map>
+	<map>
+		Ndapandula Nakashole 
+		ndapa@cs.cmu.edu
+	</map>
+</email_author>

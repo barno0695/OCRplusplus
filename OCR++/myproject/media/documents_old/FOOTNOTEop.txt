@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Footnotes>
+	<footnote>1 http://www.w3.org/TR/rdf-primer/ </footnote>
+	<footnote>2 http://en.wikipedia.org/wiki/Wikipedia:Neutral point of view </footnote>
+	<footnote>3 http://www.mturk.com </footnote>
+	<footnote>4 http://www.indiabix.com/general-knowledge/ </footnote>
+</Footnotes>
+

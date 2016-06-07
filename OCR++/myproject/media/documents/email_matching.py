@@ -1,49 +1,19 @@
-# -*- coding: utf-8 -*-
-
-# ###################
-# input : one file that contains the names in the format(other things can be present)
-# 		# f <first name>
-# 		# m <second name>
-# 		# l <last name>
-
-# 		one file that contains only emails in the format
-# 		#e <email>
-# 		with a blank line separating 2 papers
-
-# output: one file with names as #n <full name>
-# 		one file with mapping as <full name> ---> <email>
-# ####################
-
-
-author = "barno"
-
 import codecs
 import unicodedata
 
 from itertools import izip
 
-# latin_dict = {
-# ord(u"À"): u"A", ord(u"Á"): u"A", ord(u"Â"): u"A", ord(u"Ã"): u"A",
-# ord(u"Ä"): u"A", ord(u"Å"): u"A", ord(u"Æ"): u"Ae",ord( u"Ç"): u"C", ord(u"È"): u"E",
-# ord(u"É"): u"E", ord(u"Ê"): u"E", ord(u"Ë"): u"E", ord(u"Ì"): u"I", ord(u"Í"): u"I",
-# ord(u"Î"): u"I", ord(u"Ï"): u"I", ord(u"Ð"): u"D", ord(u"Ñ"): u"N", ord(u"Ò"): u"O",
-# ord(u"Ó"): u"O", ord(u"Ô"): u"O", ord(u"Õ"): u"O", ord(u"Ö"): u"O", ord(u"×"): u"*",
-# ord(u"Ø"): u"O", ord(u"Ù"): u"U", ord(u"Ú"): u"U", ord(u"Û"): u"U", ord(u"Ü"): u"U",
-# ord(u"Ý"): u"Y", ord(u"Þ"): u"p", ord(u"ß"): u"b", ord(u"à"): u"a", ord(u"á"): u"a",
-# ord(u"â"): u"a", ord(u"ã"): u"a", ord(u"ä"): u"a", ord(u"å"): u"a", ord(u"æ"): u"ae",
-# ord(u"ç"): u"c", ord(u"è"): u"e", ord(u"é"): u"e", ord(u"ê"): u"e", ord(u"ë"): u"e",
-# ord(u"ì"): u"i", ord(u"í"): u"i", ord(u"î"): u"i", ord(u"ï"): u"i", ord(u"ð"): u"d",
-# ord(u"ñ"): u"n", ord(u"ò"): u"o", ord(u"ó"): u"o", ord(u"ô"): u"o", ord(u"õ"): u"o",
-# ord(u"ö"): u"o", ord(u"÷"): u"/", ord(u"ø"): u"o", ord(u"ù"): u"u", ord(u"ú"): u"u",
-# ord(u"û"): u"u", ord(u"ü"): u"u", ord(u"ý"): u"y", ord(u"þ"): u"p", ord(u"ÿ"): u"y",
-# ord(u"’"): u"'", ord(u"-"):u"",
-# }
-directory = '/var/www/html/OCR++/myproject/media/documents/'
-names = ""
-track = 0
-track1 = 0
-f = open(directory + 'names.txt','w')
-with open(directory + 'title_author.txt','r') as fi:
+def matching_main(names_hash_wala, mails_wali_string):
+	directory = ''
+	names = ""
+	track = 0
+	track1 = 0
+	#f = open(directory + 'names.txt','w')
+	f = ''
+	#with open(directory + 'title_author.txt','r') as fi:
+	print names_hash_wala
+	print mails_wali_string
+	fi = names_hash_wala.split('\n')
 	for line in fi:
 		abc = line.split()
 
@@ -59,39 +29,42 @@ with open(directory + 'title_author.txt','r') as fi:
 			if abc[0] == "#l":
 				names = names + " " + abc[1]
 				track = track + 1
-				f.write("#n " + names + "\n")
+				#f.write("#n " + names + "\n")
+				f += names + "\n"
 
 		else:
-			f.write("\n")
+			#f.write("\n")
+			f += "\n"
 
-f.close()
+	#f.close()
+	#print names
+	#print names
+	track = 0
+	author = []
+	mail = []
+	ma = []
+	fullmail = []
+	found = 0
+	maildict = dict(a=1)
+	matching_output = "<email_author>\n"
+	#print f
 
-track = 0
-author = []
-mail = []
-ma = []
-fullmail = []
-found = 0
-maildict = dict(a=1)
-print "<email_author>"
-
-f2 = open(directory+'input_Allmailsformap.txt','r')
-
-with open(directory+'names.txt','r') as f1:
+	#with open(directory+'names.txt','r') as f1, open(directory+'input_Allmailsformap.txt','r') as f2:
+	f1 = names.split('\n')
+	f2 = mails_wali_string.split('\n')
 	for line1 in f1:
 		x = line1.split()
 		# y = line2.split()
 
 		if len(x) >= 1:
 
-			x.remove("#n")
 			# y.remove("#e")
 
 			# fullmail.insert(track,y[0])
 
 			# y1 = y[0].split("@")
 			# y1 = y1[0]
-
+			
 			uni_x = []
 			for it in x:
 				it = unicodedata.normalize('NFKD',it.decode("utf-8","ignore")).encode("ascii","ignore")
@@ -129,7 +102,7 @@ with open(directory+'names.txt','r') as f1:
 			# author.insert(track1,x)
 			mail.insert(track,y[0].lower())
 			ma.insert(track,y[0].lower())
-			maildict[y[0]]=temp
+			maildict[y[0].lower()]=temp
 			track = track + 1
 
 			# print ma
@@ -153,11 +126,11 @@ with open(directory+'names.txt','r') as f1:
 					# print n
 					# print m
 					if n.lower() in m:
-							print "\t<map>\n\t\t",
+							matching_output += "\t<map>\n\t\t"
 							for na in l:
-								print na,
-							print "\n\t\t" + maildict[mai]
-							print "\t</map>"
+								matching_output += na
+							matching_output += "\n\t\t" + maildict[mai] + "\n"
+							matching_output += "\t</map>\n"
 							author.remove(l)
 							mail.remove(mai)
 							found = 1
@@ -196,11 +169,11 @@ with open(directory+'names.txt','r') as f1:
 						else:
 							break
 					if s == len(m):
-						print "\t<map>\n\t\t",
+						matching_output += "\t<map>\n\t\t"
 						for na in l:
-							print na,
-						print "\n\t\t" + maildict[mai]
-						print "\t</map>"
+							matching_output += na
+						matching_output += "\n\t\t" + maildict[mai] + "\n"
+						matching_output += "\t</map>\n"
 						author.remove(l)
 						mail.remove(mai)
 					an = ""
@@ -217,4 +190,8 @@ with open(directory+'names.txt','r') as f1:
 					del ma[10:]
 					track = 10
 
-print "</email_author>"
+	matching_output += "</email_author>\n"
+	#print matching_output
+	file_ = open("map.txt",'w')
+	file_.write(matching_output)
+	file_.close()

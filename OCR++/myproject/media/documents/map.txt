@@ -1,10 +1,2 @@
 <email_author>
-	<map>
-		Tomek Strzalkowski 
-		tomek@albany.edu
-	</map>
-	<map>
-		Jennifer Stromer-Galley 
-		small@albany.edu
-	</map>
 </email_author>

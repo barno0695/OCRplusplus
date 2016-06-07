@@ -8,39 +8,28 @@ import roman
 import subprocess
 import xml.dom.minidom
 
-directory = '/var/www/html/OCR++/myproject/media/documents/'
+directory = ''
 
 #files =["elsevier1.xml","elsevier2.xml","ieee1.xml","ieee2.xml","ieee3.xml","ieee_journal1.xml","ieee_journal2.xml","Springer2.xml"]
 files=["input.xml"]
 
 #####################
 
-def generateXML(tree):
-    #rt = tree.getroot()
-    #ls = rt.findall('chunk')
-    #st_chunk = ''
-    ## print("************************************")
-    ## print(len(ls))
-    #sp_length = len(ls)
-    #chunk_stat =0
+def generateXML(f):
     xroot = ET.Element("UniformResourceLocator")
     new_url = ET.SubElement(xroot, "URL")
+    f = f.split('\n')
 
-    with open(directory + ff +".txt", "r") as f:
-        count = 0
-        for line in f:
-            cols = line.split('\t')
-            if len(cols) == 2 and cols[1] == "1\n":
-                # print line
-                word = cols[0]
-                st = word.strip('().,')
-                #for token in ls[count].findall('token'):
-                #    st = st + token.text + ' '
-                #st = st.strip('\n')
-                ET.SubElement(new_url, "url").text = st
+    count = 0
+    for line in f:
+        cols = line.split('\t')
+        if len(cols) == 2 and cols[1] == "1":
+            word = cols[0]
+            st = word.strip('().,')
+            ET.SubElement(new_url, "url").text = st
 
 
-            count = count +1
+        count = count +1
     return xroot
 
 #######################
@@ -69,13 +58,10 @@ def caps(y):
 
 
 
-for ff in files:
-    # print ff
-    tree = ET.parse(directory + ff)
-    root = tree.getroot()
-
-    f = open(directory + ff+'.txt','w')
-    f.write("0\t0\n")
+def url_main(root):
+    
+    #f = open(directory + ff+'.txt','w')
+    f = ''
 
     pattern = re.compile('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+')
 
@@ -91,21 +77,18 @@ for ff in files:
 
 
                 if(word and len(word.replace(' ',''))>0):
-                    f.write((word.replace(' ','')+"\t").encode("utf-8"))
+                    #f.write((word.replace(' ','')+"\t").encode("utf-8"))
                     x = word.strip('()')
                     if(bool(pattern.match(x.replace(' ','')))):
-                        f.write(("1\n").encode("utf-8"))
-                    else:
-                        f.write(("0\n").encode("utf-8"))
-
-            f.write("0\t0\n")
-
-    f.close()
-
-    s = generateXML(tree)
+                        #f.write((word.replace(' ','')+"\t").encode("utf-8"))
+                        f += (word.replace(' ','')+"\t1\n").encode("utf-8") 
+                        #f.write(("1\n").encode("utf-8"))
+                    
+    s = generateXML(f)
     cc =  ET.tostring(s, 'utf-8')
     reparsed = xml.dom.minidom.parseString(cc)
-    print reparsed.toprettyxml(indent="\t")
+    with open("URLop.txt",'w') as f:
+        f.write(reparsed.toprettyxml(indent="\t"))
     # subprocess.call("rm " + ff + ".txt", shell=True)
     #subprocess.call("rm " +  ff.split('.')[0]+'_out_new.txt', shell=True)
     # subp

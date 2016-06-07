@@ -1,7 +1,6 @@
 <?xml version="1.0" ?>
 <UniformResourceLocator>
 	<URL>
-		<url>http://secondlife.com</url>
+		<url>http://www.newsday.com/sports/columnists/neil-best/hirdt-enjoying-</url>
 	</URL>
 </UniformResourceLocator>
-

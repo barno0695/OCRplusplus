@@ -1,4 +1,4 @@
-Directory=/var/www/html/OCR++/myproject/media/documents
+Directory=.
 
 python $Directory/create_eval_title.py
 python $Directory/create_eval_name.py

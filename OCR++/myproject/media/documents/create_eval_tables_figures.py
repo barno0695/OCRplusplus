@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-directory = '/var/www/html/OCR++/myproject/media/documents/'
+directory = ''
 f = open(directory + "TABFIGop.txt",'r')
 out = open(directory + 'eval_tables_figures.txt','w')
 xml = f.read()

@@ -1,0 +1,15 @@
+<<reference>> [1] Joel Best. Damned Lies and Statistics: Untangling Numbers from the Media, Politicians, and Activists. University of California Press, 1 edition, May 2001. 
+<<reference>> [2] Joel Best. More Damned Lies and Statistics: How Numbers Confuse Public Issues. University of California Press, 1 edition, September 2004. 
+<<reference>> [3] Neil Best. http://www.newsday.com/sports/columnists/neil-best/hirdt-enjoying- long-run-as-stats-guru-1.3174737, Sept. 2011. Accessed: Jul. 2013. 
+<<reference>> [4] Rob Ennals, Beth Trushkowsky, and John Mark Agosta. Highlighting disputed claims on the Web. In Proceedings of the 2010 International Conference on World Wide Web, pages 341350, Raleigh, North Carolina, USA, April 2010. 
+<<reference>> [5] Francois Goasdoue, Konstantinos Karanasos, Yannis Katsis, Julien Leblay, Ioana Manolescu, and Stamatis Zampetakis. Fact checking and analyzing the Web. In Proceedings of the 2013 ACM SIGMOD International Conference on Manage- ment of Data, pages 9971000, New York City, New York, USA, June 2013. 
+<<reference>> [6] Jiawei Han, Micheline Kamber, and Jian Pei. Data Mining: Concepts and Tech- niques. Morgan Kaufmann, 3 edition, 2005. 
+<<reference>> [7] Naeemul Hassan, Afroza Sultana, You Wu, Gensheng Zhang, Chengkai Li, Jun Yang, and Cong Yu. Data in, fact out: Automated monitoring of facts by Fact- Watcher. Proceedings of the VLDB Endowment, 7(13), 2014. 
+<<reference>> [8] Darrell Huff. How to Lie with Statistics. W. W. Norton %27 Company, reissue edition, 1993. 
+<<reference>> [9] Xiao Jiang, Chengkai Li, Ping Luo, Min Wang, and Yong Yu. Prominent streak discovery in sequence data. In Proceedings of the 2011 ACM SIGKDD Interna- tional Conference on Knowledge Discovery and Data Mining, pages 12801288, San Diego, California, USA, August 2011. 
+<<reference>> [10] Afroza Sultana, Naeemul Hassan, Chengkai Li, Jun Yang, and Cong Yu. In- cremental discovery of prominent situational facts. In Proceedings of the 2014 International Conference on Data Engineering, Chicago, Illinois, USA, March 2014. 
+<<reference>> [11] Pang-Ning Tan, Michael Steinbach, and Vipin Kumar. Introduction to Data Mining. Addison-Wesley, 2005. 
+<<reference>> [12] You Wu, Pankaj K. Agarwal, Chengkai Li, Jun Yang, and Cong Yu. On one of the few objects. In Proceedings of the 2012 ACM SIGKDD International Con- ference on Knowledge Discovery and Data Mining, pages 14871495, Beijing, China, August 2012. 
+<<reference>> [13] You Wu, Pankaj K. Agarwal, Chengkai Li, Jun Yang, and Cong Yu. Toward computational fact-checking. Proceedings of the VLDB Endowment, 7(7):589 600, 2014. 
+<<reference>> [14] You Wu, Brett Walenz, Peggy Li, Andrew Shim, Emre Sonmez, Pankaj K. Agar- wal, Chengkai Li, Jun Yang, and Cong Yu. iCheck: Computationally combating lies, dned lies, and statistics. In Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data, Snowbird, Utah, USA, June 2014. 
+<<reference>> [15] Gensheng Zhang, Xiao Jiang, Ping Luo, Min Wang, and Chengkai Li. Discov- ering general prominent streaks in sequence data. ACM TKDD, 2014. 

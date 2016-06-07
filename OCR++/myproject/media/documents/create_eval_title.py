@@ -3,7 +3,7 @@ from __future__ import division
 
 import xml.etree.ElementTree as ET
 
-directory = '/var/www/html/OCR++/myproject/media/documents/'
+directory = ''
 
 # """
 # Create an summary file of author names
@@ -25,5 +25,5 @@ def genFile(fName, path=""):
     print "Done!!!"
 
 
-"""Demo call"""
+# """Demo call"""
 genFile("TitleAuthor.xml")

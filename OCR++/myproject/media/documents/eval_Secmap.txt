@@ -1,1 +1,17 @@
 <<section>>
+Chunks: Finding, Monitoring, and Checking Claims ... Arlington) Cong Yu (Google Research)
+<<section>>
+Heading: 1 Introduction 
+Chunks: Big data have arrived. The ... facets form a conjunctive condition.
+<<section>>
+Heading: Similar Stories 
+Chunks: Main Interface 2. Ranking 3. ... Comparison of Players 4. Analytics
+<<section>>
+Heading: 1. Stories 
+Chunks: Figure 2: uClaim User Interface ... bations; for details, see [13].
+<<section>>
+Heading: 4 Conclusion 
+Chunks: Related Work The problem of ... directly or by information extraction.
+<<section>>
+Heading: References 
+Chunks: [1] Joel Best. Damned Lies ... sequence data. ACM TKDD, 2014.

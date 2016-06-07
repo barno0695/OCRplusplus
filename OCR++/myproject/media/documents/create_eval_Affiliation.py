@@ -1,11 +1,9 @@
 import xml.etree.ElementTree as ET
-directory = "/var/www/html/OCR++/myproject/media/documents/"
-f = open(directory + "input_AllAffiliations.txt",'r')
+directory= ''
 out = open(directory + 'eval_Affiliations.txt','w')
-xml = '<root>' + f.read() + '</root>'
-tree = ET.ElementTree(ET.fromstring(xml))
+tree = ET.parse(directory + "input_AllAffiliations.txt")
 root = tree.getroot()
 for affs in root.findall('Affiliation'):
-    out.write("<<Affiliation>> " + affs.text.strip() + "\n")
-f.close()
+    out.write("<<Affiliation>> " + affs.text.strip().replace("%27","&") + "\n")
 out.close()
+

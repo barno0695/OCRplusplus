@@ -1,10 +1,4 @@
 <?xml version="1.0" ?>
 <Footnotes>
-	<footnote>1 All avatar names seen in this paper have been changed to protect players identities. </footnote>
-	<footnote>2 An online Virtual World developed and launched in 2003, by Linden Lab, San Francisco, CA. http://secondlife.com </footnote>
-	<footnote>3 Second Life Experiments </footnote>
-	<footnote>3 We are also able to record the start time of any event but for our purposes we were only concerned with the end time. </footnote>
-	<footnote>5 The Annotation Process </footnote>
-	<footnote>6 Conclusion </footnote>
+	<footnote>1 This ad was in response to an earlier ad attacking Marshall for voting with Nancy Pelosi almost 90 percent of the time, which, not surprisingly, also tailored the claim in ways to further its own argument. </footnote>
 </Footnotes>
-
